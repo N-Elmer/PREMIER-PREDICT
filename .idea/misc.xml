@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1375" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1375" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/drawable/side_nav_bar.xml" value="0.1375" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout-land/activity_main.xml" value="0.21981981981981982" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout-land/activity_splash.xml" value="0.21981981981981982" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout-land/app_bar_main.xml" value="0.21981981981981982" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout-land/content_main.xml" value="0.21981981981981982" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout-land/fragment_foreign_live.xml" value="0.21981981981981982" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout-land/fragment_foreign_next.xml" value="0.21981981981981982" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout-land/fragment_foreign_previous.xml" value="0.21981981981981982" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout-land/fragment_foreign_stats.xml" value="0.21981981981981982" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout-land/fragment_foreign_today.xml" value="0.21981981981981982" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout-land/fragment_home.xml" value="0.21981981981981982" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout-land/fragment_local_live.xml" value="0.21981981981981982" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout-land/fragment_local_next.xml" value="0.21981981981981982" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout-land/fragment_local_previous.xml" value="0.21981981981981982" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout-land/fragment_local_stats.xml" value="0.21981981981981982" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout-land/fragment_local_today.xml" value="0.21981981981981982" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout-land/nav_header_main.xml" value="0.21981981981981982" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout/activity_main.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout/activity_splash.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout/app_bar_main.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout/content_main.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout/foreign_live_fragment.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout/foreign_local_live.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout/foreign_today_fragment.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout/fragment_foreign_live.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout/fragment_foreign_next.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout/fragment_foreign_previous.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout/fragment_foreign_stats.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout/fragment_foreign_today.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout/fragment_foreign_tomorrow.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout/fragment_home.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout/fragment_local_live.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout/fragment_local_next.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout/fragment_local_previous.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout/fragment_local_stats.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout/fragment_local_today.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/menu/activity_main_drawer.xml" value="0.268" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/menu/main.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/elmer/Documents/AndroidStudioProjects/PREMIERPREDICT/app/src/main/res/xml/network_security_config.xml" value="0.12708333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

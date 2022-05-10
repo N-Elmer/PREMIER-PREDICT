@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.premierpredict.bettapplication.ui.dal.dao_stephanie_home.HomeFragment"
+        android:label="HOME"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_local_previous"
+        android:name="com.premierpredict.bettapplication.ui.dal.dao_glen_localprevious.LocalPreviousFragment"
+        android:label="LOCAL PREVIOUS"
+        android:layout="@layout/fragment_local_previous"/>
+
+    <fragment
+        android:id="@+id/nav_foreign_previous"
+        android:name="com.premierpredict.bettapplication.ui.dal.dao_glen_foreignprevious.ForeignPreviousFragment"
+        android:label="FOREIGN PREVIOUS"
+        tools:layout="@layout/fragment_foreign_previous" />
+
+    <fragment
+        android:id="@+id/nav_local_today"
+        android:name="com.premierpredict.bettapplication.ui.dal.dao_issabel_localtoday.LocalTodayFragment"
+        android:label="LOCAL TODAY"
+        android:layout="@layout/fragment_local_today"/>
+
+    <fragment
+        android:id="@+id/nav_foreign_today"
+        android:name="com.premierpredict.bettapplication.ui.dal.dao_issabel_foreigntoday.ForeignTodayFragment"
+        android:label="FOREIGN TODAY"
+        tools:layout="@layout/fragment_foreign_today" />
+
+    <fragment
+        android:id="@+id/nav_local_live"
+        android:name="com.premierpredict.bettapplication.ui.dal.dao_andrea_locallive.LocalLiveFragment"
+        android:label="LOCAL LIVE"
+        android:layout="@layout/fragment_local_live"/>
+
+    <fragment
+        android:id="@+id/nav_foreign_live"
+        android:name="com.premierpredict.bettapplication.ui.dal.dao_andrea_foreignlive.ForeignLiveFragment"
+        android:label="FOREIGN LIVE"
+        tools:layout="@layout/fragment_foreign_live" />
+
+    <fragment
+        android:id="@+id/nav_local_next"
+        android:name="com.premierpredict.bettapplication.ui.dal.dao_elmer_localnext.LocalNextFragment"
+        android:label="LOCAL NEXT"
+        android:layout="@layout/fragment_local_next" />
+
+    <fragment
+        android:id="@+id/nav_foreign_next"
+        android:name="com.premierpredict.bettapplication.ui.dal.dao_elmer_foreignnext.ForeignNextFragment"
+        android:label="FOREIGN NEXT"
+        tools:layout="@layout/fragment_foreign_next" />
+
+    <fragment
+        android:id="@+id/nav_local_stats"
+        android:name="com.premierpredict.bettapplication.ui.dal.dao_stephanie_localstats.LocalStatsFragment"
+        android:label="LOCAL STATISTICS"
+        android:layout="@layout/fragment_local_stats" />
+
+    <fragment
+        android:id="@+id/nav_foreign_stats"
+        android:name="com.premierpredict.bettapplication.ui.dal.dao_stephanie_foreignstats.ForeignStatsFragment"
+        android:label="FOREIGN STATISTICS"
+        tools:layout="@layout/fragment_local_live" />
+</navigation>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="PREMIER HOME" />
+        <item
+            android:id="@+id/nav_local_live"
+            android:icon="@drawable/ic_live"
+            android:title="LOCAL LIVE" />
+        <item
+            android:id="@+id/nav_foreign_live"
+            android:icon="@drawable/ic_live"
+            android:title="FOREIGN LIVE" />
+        <item
+            android:id="@+id/nav_local_next"
+            android:icon="@drawable/ic_next"
+            android:title="LOCAL NEXT" />
+        <item
+            android:id="@+id/nav_foreign_next"
+            android:icon="@drawable/ic_next"
+            android:title="FOREIGN NEXT" />
+        <item
+            android:id="@+id/nav_local_today"
+            android:icon="@drawable/ic_today"
+            android:title="LOCAL TODAY" />
+        <item
+            android:id="@+id/nav_foreign_today"
+            android:icon="@drawable/ic_today"
+            android:title="FOREIGN TODAY" />
+        <item
+            android:id="@+id/nav_local_previous"
+            android:icon="@drawable/ic_previous"
+            android:title="LOCAL PREVIOUS" />
+        <item
+            android:id="@+id/nav_foreign_previous"
+            android:icon="@drawable/ic_previous"
+            android:title="FOREIGN PREVIOUS" />
+        <item
+            android:id="@+id/nav_local_stats"
+            android:icon="@drawable/ic_stats"
+            android:title="LOCAL STATISTICS" />
+        <item
+            android:id="@+id/nav_foreign_stats"
+            android:icon="@drawable/ic_stats"
+            android:title="FOREIGN STATISTICS" />
+    </group>
+</menu>
