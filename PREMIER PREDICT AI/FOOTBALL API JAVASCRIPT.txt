@@ -1,0 +1,16 @@
+<div id="wg-api-football-livescore"
+    data-host="v3.football.api-sports.io"
+    data-refresh="60"
+    data-key="3d5ed7aa339b1cf9356742c3e57d728e"
+    data-theme=""
+    data-show-errors="false"
+    class="api_football_loader">
+</div>
+<script
+    type="module"
+    src="https://widgets.api-sports.io/football/1.1.8/widget.js">
+</script>
+
+<div id="wg-api-football-standings" data-host="v3.football.api-sports.io" data-league="411" data-team="" data-season="2022" data-key="3d5ed7aa339b1cf9356742c3e57d728e" data-theme="" data-show-errors="false" class="api_football_loader"></div>
+<script type="module" src="https://widgets.api-sports.io/football/1.1.8/widget.js">
+</script>

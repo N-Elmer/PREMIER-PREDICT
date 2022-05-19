@@ -1,0 +1,6841 @@
+,HomeTeam,AwayTeam,FTR,PredictedFTR
+0,Charlton,Man City,H,H
+1,Chelsea,West Ham,H,H
+2,Coventry,Middlesbrough,NH,H
+3,Derby,Southampton,NH,NH
+4,Leeds,Everton,H,H
+5,Leicester,Aston Villa,NH,H
+6,Liverpool,Bradford,H,H
+7,Sunderland,Arsenal,H,H
+8,Tottenham,Ipswich,H,NH
+9,Man United,Newcastle,H,H
+10,Arsenal,Liverpool,H,H
+11,Bradford,Chelsea,H,H
+12,Ipswich,Man United,NH,NH
+13,Middlesbrough,Tottenham,NH,H
+14,Everton,Charlton,H,H
+15,Man City,Sunderland,H,H
+16,Newcastle,Derby,H,H
+17,Southampton,Coventry,NH,NH
+18,West Ham,Leicester,NH,H
+19,Arsenal,Charlton,H,NH
+20,Bradford,Leicester,NH,NH
+21,Everton,Derby,NH,H
+22,Ipswich,Sunderland,H,H
+23,Man City,Coventry,NH,H
+24,Middlesbrough,Leeds,NH,H
+25,Newcastle,Tottenham,H,H
+26,Southampton,Liverpool,NH,H
+27,West Ham,Man United,NH,NH
+28,Aston Villa,Chelsea,NH,NH
+29,Leeds,Man City,NH,NH
+30,Man United,Bradford,H,H
+31,Sunderland,West Ham,NH,H
+32,Tottenham,Everton,H,NH
+33,Charlton,Southampton,NH,H
+34,Chelsea,Arsenal,NH,NH
+35,Coventry,Newcastle,NH,H
+36,Derby,Middlesbrough,NH,H
+37,Leicester,Ipswich,H,NH
+38,Liverpool,Aston Villa,H,NH
+39,Bradford,Arsenal,NH,NH
+40,Coventry,Leeds,NH,NH
+41,Ipswich,Aston Villa,NH,NH
+42,Leicester,Southampton,H,NH
+43,Liverpool,Man City,H,H
+44,Man United,Sunderland,H,H
+45,Middlesbrough,Everton,NH,H
+46,Newcastle,Chelsea,NH,H
+47,Derby,Charlton,NH,NH
+48,Tottenham,West Ham,H,NH
+49,Arsenal,Coventry,H,NH
+50,Aston Villa,Bradford,H,H
+51,Charlton,Tottenham,H,H
+52,Everton,Man United,NH,NH
+53,Leeds,Ipswich,NH,NH
+54,Southampton,Newcastle,H,H
+55,Sunderland,Derby,H,H
+56,Chelsea,Leicester,NH,NH
+57,Man City,Middlesbrough,NH,H
+58,West Ham,Liverpool,NH,H
+59,Bradford,Southampton,NH,NH
+60,Coventry,West Ham,NH,H
+61,Derby,Leeds,NH,NH
+62,Ipswich,Arsenal,NH,NH
+63,Liverpool,Sunderland,NH,NH
+64,Man United,Chelsea,NH,H
+65,Middlesbrough,Aston Villa,NH,H
+66,Newcastle,Charlton,NH,H
+67,Tottenham,Man City,NH,H
+68,Leicester,Everton,NH,H
+69,Aston Villa,Derby,H,NH
+70,Charlton,Coventry,NH,NH
+71,Everton,Ipswich,NH,NH
+72,Leeds,Tottenham,H,NH
+73,Man City,Newcastle,NH,H
+74,Southampton,Middlesbrough,NH,NH
+75,West Ham,Bradford,NH,NH
+76,Arsenal,Man United,H,NH
+77,Chelsea,Liverpool,H,NH
+78,Sunderland,Leicester,NH,NH
+79,Arsenal,Aston Villa,H,NH
+80,Coventry,Tottenham,H,NH
+81,Everton,Southampton,NH,H
+82,Ipswich,West Ham,NH,NH
+83,Leeds,Charlton,H,NH
+84,Leicester,Man United,NH,NH
+85,Man City,Bradford,H,NH
+86,Sunderland,Chelsea,H,NH
+87,Derby,Liverpool,NH,H
+88,Middlesbrough,Newcastle,NH,H
+89,Bradford,Ipswich,NH,NH
+90,Charlton,Middlesbrough,H,H
+91,Chelsea,Coventry,H,H
+92,Liverpool,Leicester,H,H
+93,Man United,Leeds,H,H
+94,Newcastle,Everton,NH,NH
+95,Tottenham,Derby,H,NH
+96,West Ham,Arsenal,NH,H
+97,Aston Villa,Sunderland,NH,NH
+98,Southampton,Man City,NH,NH
+99,Arsenal,Man City,H,NH
+100,Aston Villa,Charlton,H,NH
+101,Chelsea,Tottenham,H,NH
+102,Ipswich,Middlesbrough,H,H
+103,Leicester,Derby,H,H
+104,Man United,Southampton,H,H
+105,Sunderland,Coventry,H,H
+106,West Ham,Newcastle,H,H
+107,Bradford,Leeds,NH,NH
+108,Liverpool,Everton,H,NH
+109,Charlton,Bradford,H,H
+110,Coventry,Man United,NH,NH
+111,Leeds,Liverpool,H,NH
+112,Man City,Leicester,NH,H
+113,Middlesbrough,Arsenal,NH,NH
+114,Newcastle,Ipswich,H,NH
+115,Southampton,Chelsea,H,NH
+116,Tottenham,Sunderland,H,NH
+117,Everton,Aston Villa,NH,NH
+118,Derby,West Ham,NH,H
+119,Arsenal,Derby,NH,NH
+120,Aston Villa,Tottenham,H,NH
+121,Bradford,Everton,NH,H
+122,Ipswich,Charlton,H,H
+123,Leicester,Newcastle,NH,NH
+124,Man United,Middlesbrough,H,NH
+125,Sunderland,Southampton,NH,NH
+126,West Ham,Man City,H,H
+127,Chelsea,Leeds,NH,H
+128,Liverpool,Coventry,H,H
+129,Charlton,Chelsea,H,NH
+130,Derby,Bradford,H,H
+131,Everton,Arsenal,H,H
+132,Leeds,West Ham,NH,NH
+133,Man City,Man United,NH,NH
+134,Middlesbrough,Leicester,NH,NH
+135,Newcastle,Sunderland,NH,H
+136,Southampton,Aston Villa,H,H
+137,Tottenham,Liverpool,H,H
+138,Coventry,Ipswich,NH,NH
+139,Charlton,Sunderland,NH,H
+140,Coventry,Aston Villa,NH,H
+141,Derby,Man United,NH,NH
+142,Everton,Chelsea,H,H
+143,Man City,Ipswich,NH,NH
+144,Middlesbrough,Bradford,NH,H
+145,Southampton,West Ham,NH,NH
+146,Tottenham,Leicester,H,NH
+147,Leeds,Arsenal,H,NH
+148,Newcastle,Liverpool,H,NH
+149,Arsenal,Southampton,H,NH
+150,Aston Villa,Newcastle,NH,NH
+151,Bradford,Coventry,H,H
+152,Ipswich,Derby,NH,NH
+153,Leicester,Leeds,H,H
+154,Liverpool,Charlton,H,NH
+155,Man United,Tottenham,H,H
+156,West Ham,Middlesbrough,H,NH
+157,Chelsea,Man City,H,H
+158,Sunderland,Everton,H,H
+159,Arsenal,Newcastle,H,H
+160,Bradford,Tottenham,NH,NH
+161,Charlton,Man United,NH,NH
+162,Chelsea,Derby,H,NH
+163,Man City,Everton,H,H
+164,Southampton,Leeds,H,H
+165,Sunderland,Middlesbrough,H,NH
+166,West Ham,Aston Villa,NH,NH
+167,Coventry,Leicester,H,NH
+168,Liverpool,Ipswich,NH,NH
+169,Aston Villa,Man City,NH,H
+170,Derby,Coventry,H,H
+171,Everton,West Ham,NH,H
+172,Ipswich,Southampton,H,H
+173,Leeds,Sunderland,H,NH
+174,Leicester,Charlton,H,NH
+175,Middlesbrough,Chelsea,H,H
+176,Newcastle,Bradford,H,H
+177,Man United,Liverpool,NH,H
+178,Tottenham,Arsenal,NH,H
+179,Coventry,Southampton,NH,NH
+180,Charlton,Everton,H,NH
+181,Chelsea,Bradford,H,NH
+182,Derby,Newcastle,H,NH
+183,Leeds,Aston Villa,NH,NH
+184,Leicester,West Ham,H,H
+185,Liverpool,Arsenal,H,H
+186,Man United,Ipswich,H,NH
+187,Sunderland,Man City,H,H
+188,Tottenham,Middlesbrough,NH,NH
+189,Arsenal,Leicester,H,NH
+190,Aston Villa,Man United,NH,NH
+191,Bradford,Sunderland,NH,NH
+192,Everton,Coventry,NH,H
+193,Ipswich,Chelsea,NH,H
+194,Man City,Derby,NH,NH
+195,Middlesbrough,Liverpool,H,H
+196,Newcastle,Leeds,H,NH
+197,West Ham,Charlton,H,NH
+198,Southampton,Tottenham,H,NH
+199,Arsenal,Sunderland,NH,NH
+200,Ipswich,Tottenham,H,H
+201,Man City,Charlton,NH,NH
+202,Middlesbrough,Coventry,NH,NH
+203,Newcastle,Man United,NH,H
+204,Southampton,Derby,H,NH
+205,Charlton,Arsenal,H,NH
+206,Chelsea,Aston Villa,H,NH
+207,Coventry,Man City,NH,NH
+208,Derby,Everton,H,NH
+209,Leeds,Middlesbrough,NH,H
+210,Leicester,Bradford,NH,NH
+211,Liverpool,Southampton,H,H
+212,Man United,West Ham,H,H
+213,Sunderland,Ipswich,H,H
+214,Tottenham,Newcastle,H,NH
+215,Arsenal,Chelsea,NH,NH
+216,Aston Villa,Liverpool,NH,NH
+217,Bradford,Man United,NH,NH
+218,Everton,Tottenham,NH,NH
+219,Man City,Leeds,NH,H
+220,Middlesbrough,Derby,H,H
+221,Newcastle,Coventry,H,H
+222,Southampton,Charlton,NH,H
+223,West Ham,Sunderland,NH,NH
+224,Ipswich,Leicester,H,H
+225,Chelsea,Ipswich,H,NH
+226,Coventry,Everton,NH,H
+227,Derby,Man City,NH,H
+228,Leeds,Newcastle,NH,H
+229,Leicester,Arsenal,NH,NH
+230,Liverpool,Middlesbrough,NH,H
+231,Man United,Aston Villa,H,NH
+232,Tottenham,Southampton,NH,H
+233,Sunderland,Bradford,NH,NH
+234,Charlton,West Ham,NH,H
+235,Aston Villa,Leeds,NH,H
+236,Arsenal,Bradford,H,H
+237,Charlton,Derby,H,NH
+238,Chelsea,Newcastle,H,H
+239,Everton,Middlesbrough,NH,NH
+240,Leeds,Coventry,H,H
+241,Man City,Liverpool,NH,NH
+242,Southampton,Leicester,H,H
+243,Sunderland,Man United,NH,NH
+244,West Ham,Tottenham,NH,NH
+245,Bradford,Aston Villa,NH,NH
+246,Coventry,Arsenal,NH,H
+247,Derby,Sunderland,H,NH
+248,Ipswich,Leeds,NH,H
+249,Leicester,Chelsea,H,NH
+250,Liverpool,West Ham,H,H
+251,Man United,Everton,H,H
+252,Middlesbrough,Man City,NH,H
+253,Tottenham,Charlton,NH,NH
+254,Everton,Leeds,NH,NH
+255,Arsenal,Ipswich,H,NH
+256,Aston Villa,Middlesbrough,NH,NH
+257,Chelsea,Man United,NH,H
+258,Everton,Leicester,H,H
+259,Leeds,Derby,NH,NH
+260,Man City,Tottenham,NH,H
+261,Southampton,Bradford,H,H
+262,Sunderland,Liverpool,NH,H
+263,Charlton,Newcastle,H,NH
+264,West Ham,Coventry,NH,NH
+265,Bradford,West Ham,NH,NH
+266,Coventry,Charlton,NH,H
+267,Derby,Aston Villa,H,H
+268,Ipswich,Everton,H,H
+269,Leicester,Sunderland,H,NH
+270,Middlesbrough,Southampton,NH,NH
+271,Newcastle,Man City,NH,H
+272,Tottenham,Leeds,NH,H
+273,Man United,Arsenal,H,NH
+274,Arsenal,West Ham,H,NH
+275,Coventry,Chelsea,NH,H
+276,Derby,Tottenham,H,H
+277,Everton,Newcastle,NH,NH
+278,Leeds,Man United,NH,NH
+279,Leicester,Liverpool,H,H
+280,Man City,Southampton,NH,NH
+281,Middlesbrough,Charlton,NH,NH
+282,Ipswich,Bradford,H,NH
+283,Sunderland,Aston Villa,NH,NH
+284,West Ham,Chelsea,NH,NH
+285,Aston Villa,Ipswich,H,H
+286,Bradford,Man City,NH,NH
+287,Charlton,Leeds,NH,NH
+288,Chelsea,Sunderland,NH,H
+289,Man United,Leicester,H,NH
+290,Newcastle,Middlesbrough,NH,NH
+291,Southampton,Everton,H,H
+292,Tottenham,Coventry,H,NH
+293,West Ham,Ipswich,NH,H
+294,Aston Villa,Arsenal,NH,H
+295,Liverpool,Derby,NH,H
+296,Arsenal,Tottenham,H,NH
+297,Bradford,Newcastle,NH,H
+298,Chelsea,Middlesbrough,H,NH
+299,Coventry,Derby,H,H
+300,Liverpool,Man United,H,NH
+301,Man City,Aston Villa,NH,H
+302,Sunderland,Leeds,NH,NH
+303,West Ham,Everton,NH,NH
+304,Charlton,Leicester,H,H
+305,Southampton,Ipswich,NH,NH
+306,Aston Villa,Leicester,H,NH
+307,Aston Villa,West Ham,NH,H
+308,Derby,Chelsea,NH,H
+309,Leeds,Southampton,H,NH
+310,Leicester,Coventry,NH,NH
+311,Everton,Man City,H,NH
+312,Middlesbrough,Sunderland,NH,NH
+313,Ipswich,Liverpool,NH,NH
+314,Man United,Charlton,H,NH
+315,Tottenham,Bradford,H,NH
+316,Man City,Arsenal,NH,NH
+317,Bradford,Charlton,H,NH
+318,Liverpool,Leeds,NH,NH
+319,Arsenal,Middlesbrough,NH,H
+320,Aston Villa,Everton,H,H
+321,Chelsea,Southampton,H,NH
+322,Ipswich,Newcastle,H,NH
+323,Leicester,Man City,NH,H
+324,Man United,Coventry,H,NH
+325,Sunderland,Tottenham,NH,H
+326,West Ham,Derby,H,NH
+327,Coventry,Sunderland,H,H
+328,Derby,Leicester,H,H
+329,Everton,Liverpool,NH,H
+330,Middlesbrough,Ipswich,NH,NH
+331,Newcastle,West Ham,H,NH
+332,Charlton,Aston Villa,NH,NH
+333,Tottenham,Chelsea,NH,H
+334,Arsenal,Everton,H,NH
+335,Aston Villa,Southampton,NH,H
+336,Bradford,Derby,H,NH
+337,Chelsea,Charlton,NH,H
+338,Ipswich,Coventry,H,NH
+339,Leicester,Middlesbrough,NH,H
+340,Man United,Man City,NH,H
+341,Sunderland,Newcastle,NH,H
+342,West Ham,Leeds,NH,NH
+343,Liverpool,Tottenham,H,NH
+344,Coventry,Liverpool,NH,NH
+345,Derby,Arsenal,NH,H
+346,Everton,Bradford,H,NH
+347,Leeds,Chelsea,H,H
+348,Man City,West Ham,H,NH
+349,Middlesbrough,Man United,NH,NH
+350,Newcastle,Leicester,H,NH
+351,Southampton,Sunderland,NH,H
+352,Tottenham,Aston Villa,NH,H
+353,Charlton,Ipswich,H,H
+354,Bradford,Liverpool,NH,H
+355,Newcastle,Southampton,NH,NH
+356,Arsenal,Leeds,H,H
+357,Aston Villa,Coventry,H,NH
+358,Bradford,Middlesbrough,NH,NH
+359,Chelsea,Everton,H,H
+360,Leicester,Tottenham,H,H
+361,Liverpool,Newcastle,H,H
+362,Man United,Derby,NH,NH
+363,Sunderland,Charlton,H,NH
+364,West Ham,Southampton,H,H
+365,Ipswich,Man City,H,H
+366,Liverpool,Chelsea,NH,NH
+367,Leeds,Bradford,H,H
+368,Southampton,Man United,H,H
+369,Newcastle,Arsenal,NH,NH
+370,Charlton,Liverpool,NH,NH
+371,Coventry,Bradford,NH,H
+372,Derby,Ipswich,NH,NH
+373,Everton,Sunderland,NH,NH
+374,Leeds,Leicester,H,H
+375,Man City,Chelsea,NH,NH
+376,Middlesbrough,West Ham,H,H
+377,Newcastle,Aston Villa,H,NH
+378,Southampton,Arsenal,H,NH
+379,Tottenham,Man United,H,H
+380,Charlton,Everton,NH,NH
+381,Derby,Blackburn,H,NH
+382,Leeds,Southampton,H,H
+383,Leicester,Bolton,NH,NH
+384,Liverpool,West Ham,H,H
+385,Middlesbrough,Arsenal,NH,NH
+386,Sunderland,Ipswich,H,NH
+387,Tottenham,Aston Villa,NH,H
+388,Chelsea,Newcastle,NH,NH
+389,Man United,Fulham,H,NH
+390,Everton,Tottenham,NH,NH
+391,Arsenal,Leeds,NH,NH
+392,Bolton,Middlesbrough,H,H
+393,Ipswich,Derby,H,H
+394,Blackburn,Man United,NH,H
+395,Fulham,Sunderland,H,H
+396,Arsenal,Leicester,H,H
+397,Blackburn,Tottenham,H,H
+398,Everton,Middlesbrough,H,NH
+399,Fulham,Derby,NH,NH
+400,Ipswich,Charlton,NH,H
+401,Southampton,Chelsea,NH,NH
+402,West Ham,Leeds,NH,H
+403,Aston Villa,Man United,NH,NH
+404,Newcastle,Sunderland,NH,H
+405,Bolton,Liverpool,H,H
+406,Chelsea,Arsenal,NH,H
+407,Derby,West Ham,NH,H
+408,Leeds,Bolton,NH,NH
+409,Leicester,Ipswich,NH,NH
+410,Liverpool,Aston Villa,NH,NH
+411,Man United,Everton,H,H
+412,Middlesbrough,Newcastle,NH,NH
+413,Sunderland,Blackburn,H,H
+414,Charlton,Fulham,NH,NH
+415,Tottenham,Southampton,H,H
+416,Bolton,Southampton,NH,H
+417,Derby,Leicester,NH,NH
+418,Everton,Liverpool,NH,NH
+419,Fulham,Arsenal,NH,H
+420,Middlesbrough,West Ham,H,H
+421,Newcastle,Man United,H,H
+422,Aston Villa,Sunderland,NH,NH
+423,Charlton,Leeds,NH,H
+424,Ipswich,Blackburn,NH,H
+425,Tottenham,Chelsea,NH,NH
+426,Leicester,Middlesbrough,NH,H
+427,Blackburn,Bolton,NH,NH
+428,Sunderland,Tottenham,NH,H
+429,Arsenal,Bolton,NH,H
+430,Blackburn,Everton,H,NH
+431,Leicester,Fulham,NH,H
+432,Liverpool,Tottenham,H,H
+433,Man United,Ipswich,H,H
+434,Sunderland,Charlton,NH,NH
+435,Chelsea,Middlesbrough,NH,H
+436,Leeds,Derby,H,NH
+437,West Ham,Newcastle,H,NH
+438,Southampton,Aston Villa,NH,NH
+439,Newcastle,Leicester,H,NH
+440,Bolton,Sunderland,NH,NH
+441,Charlton,Leicester,H,NH
+442,Derby,Arsenal,NH,H
+443,Everton,West Ham,H,H
+444,Middlesbrough,Southampton,NH,H
+445,Tottenham,Man United,NH,H
+446,Aston Villa,Blackburn,H,NH
+447,Fulham,Chelsea,NH,NH
+448,Ipswich,Leeds,NH,NH
+449,Newcastle,Liverpool,NH,NH
+450,Bolton,Newcastle,NH,H
+451,Charlton,Middlesbrough,NH,NH
+452,Chelsea,Leicester,H,H
+453,Ipswich,Everton,NH,H
+454,Liverpool,Leeds,NH,H
+455,Southampton,Arsenal,NH,NH
+456,Sunderland,Man United,NH,NH
+457,Aston Villa,Fulham,H,NH
+458,Blackburn,West Ham,H,NH
+459,Tottenham,Derby,H,NH
+460,Arsenal,Blackburn,NH,NH
+461,Derby,Charlton,NH,NH
+462,Everton,Aston Villa,H,NH
+463,Leicester,Liverpool,NH,NH
+464,Man United,Bolton,NH,NH
+465,West Ham,Southampton,H,NH
+466,Fulham,Ipswich,NH,H
+467,Leeds,Chelsea,NH,NH
+468,Newcastle,Tottenham,NH,H
+469,Middlesbrough,Sunderland,H,NH
+470,Aston Villa,Charlton,H,H
+471,Southampton,Ipswich,NH,NH
+472,West Ham,Chelsea,H,H
+473,Aston Villa,Bolton,H,H
+474,Charlton,Liverpool,NH,NH
+475,Everton,Newcastle,NH,NH
+476,Fulham,Southampton,H,NH
+477,Man United,Leeds,NH,H
+478,Sunderland,Arsenal,NH,NH
+479,Tottenham,Middlesbrough,H,H
+480,Derby,Chelsea,NH,H
+481,Ipswich,West Ham,NH,H
+482,Blackburn,Leicester,NH,H
+483,Bolton,Everton,NH,H
+484,Leicester,Sunderland,H,H
+485,Middlesbrough,Derby,H,NH
+486,Newcastle,Aston Villa,H,H
+487,Southampton,Blackburn,NH,H
+488,West Ham,Fulham,NH,NH
+489,Arsenal,Charlton,NH,NH
+490,Chelsea,Ipswich,H,H
+491,Leeds,Tottenham,H,H
+492,Liverpool,Man United,H,NH
+493,Aston Villa,Middlesbrough,NH,H
+494,Blackburn,Liverpool,NH,NH
+495,Derby,Southampton,H,NH
+496,Fulham,Newcastle,H,H
+497,Man United,Leicester,H,H
+498,Tottenham,Arsenal,NH,NH
+499,Everton,Chelsea,NH,H
+500,Ipswich,Bolton,NH,H
+501,Sunderland,Leeds,H,NH
+502,Charlton,West Ham,NH,H
+503,Bolton,Fulham,NH,NH
+504,Chelsea,Blackburn,NH,H
+505,Leicester,Everton,NH,NH
+506,Newcastle,Derby,H,NH
+507,Southampton,Charlton,H,NH
+508,West Ham,Tottenham,NH,NH
+509,Arsenal,Man United,H,NH
+510,Leeds,Aston Villa,NH,H
+511,Liverpool,Sunderland,H,NH
+512,Middlesbrough,Ipswich,NH,H
+513,Aston Villa,Leicester,NH,NH
+514,Blackburn,Middlesbrough,NH,NH
+515,Charlton,Newcastle,NH,NH
+516,Derby,Liverpool,NH,NH
+517,Ipswich,Arsenal,NH,H
+518,Man United,Chelsea,NH,H
+519,Sunderland,West Ham,H,H
+520,Everton,Southampton,H,NH
+521,Fulham,Leeds,NH,H
+522,Tottenham,Bolton,H,H
+523,Chelsea,Charlton,NH,NH
+524,West Ham,Aston Villa,NH,NH
+525,Charlton,Tottenham,H,H
+526,Derby,Bolton,H,H
+527,Fulham,Everton,H,NH
+528,Leicester,Southampton,NH,H
+529,Liverpool,Middlesbrough,H,H
+530,Man United,West Ham,NH,NH
+531,Arsenal,Aston Villa,H,H
+532,Blackburn,Leeds,NH,NH
+533,Ipswich,Newcastle,NH,NH
+534,Sunderland,Chelsea,NH,H
+535,Liverpool,Fulham,NH,H
+536,Man United,Derby,H,H
+537,Bolton,Charlton,NH,NH
+538,Everton,Derby,H,NH
+539,Middlesbrough,Man United,NH,H
+540,Newcastle,Blackburn,H,H
+541,Southampton,Sunderland,H,H
+542,Tottenham,Fulham,H,NH
+543,West Ham,Arsenal,NH,H
+544,Chelsea,Liverpool,H,H
+545,Leeds,Leicester,NH,NH
+546,Aston Villa,Ipswich,H,H
+547,Arsenal,Newcastle,NH,NH
+548,Leeds,Everton,H,H
+549,Charlton,Blackburn,NH,NH
+550,Derby,Aston Villa,H,H
+551,Leeds,Newcastle,NH,NH
+552,Leicester,West Ham,NH,H
+553,Man United,Southampton,H,H
+554,Sunderland,Everton,H,H
+555,Tottenham,Ipswich,NH,H
+556,Chelsea,Bolton,H,H
+557,Liverpool,Arsenal,NH,NH
+558,Arsenal,Chelsea,H,H
+559,Aston Villa,Liverpool,NH,NH
+560,Blackburn,Sunderland,NH,NH
+561,Bolton,Leeds,NH,H
+562,Everton,Man United,NH,NH
+563,Fulham,Charlton,NH,NH
+564,Ipswich,Leicester,H,H
+565,Newcastle,Middlesbrough,H,H
+566,Southampton,Tottenham,H,H
+567,West Ham,Derby,H,NH
+568,Arsenal,Middlesbrough,H,H
+569,Aston Villa,Tottenham,NH,NH
+570,Blackburn,Derby,NH,NH
+571,Bolton,Leicester,NH,H
+572,Everton,Charlton,NH,NH
+573,Ipswich,Sunderland,H,H
+574,Newcastle,Chelsea,NH,H
+575,Southampton,Leeds,NH,NH
+576,West Ham,Liverpool,NH,NH
+577,Fulham,Man United,NH,NH
+578,Charlton,Ipswich,H,NH
+579,Chelsea,Southampton,NH,NH
+580,Leeds,West Ham,H,NH
+581,Liverpool,Bolton,NH,H
+582,Middlesbrough,Everton,H,H
+583,Sunderland,Aston Villa,NH,NH
+584,Tottenham,Blackburn,H,H
+585,Derby,Fulham,NH,H
+586,Man United,Newcastle,H,H
+587,Southampton,Liverpool,H,NH
+588,Aston Villa,Derby,H,NH
+589,Blackburn,Charlton,H,NH
+590,Bolton,Chelsea,NH,H
+591,Everton,Sunderland,H,NH
+592,Fulham,Middlesbrough,H,H
+593,Ipswich,Tottenham,H,NH
+594,Newcastle,Leeds,H,H
+595,West Ham,Leicester,H,NH
+596,Arsenal,Liverpool,NH,H
+597,Southampton,Man United,NH,NH
+598,Derby,Ipswich,NH,H
+599,Leicester,Newcastle,NH,H
+600,Liverpool,Southampton,NH,NH
+601,Man United,Blackburn,H,H
+602,Middlesbrough,Bolton,NH,NH
+603,Sunderland,Fulham,NH,H
+604,Tottenham,Everton,NH,H
+605,Chelsea,West Ham,H,NH
+606,Leeds,Arsenal,NH,H
+607,Charlton,Aston Villa,NH,H
+608,Man United,Liverpool,NH,H
+609,Leicester,Arsenal,NH,H
+610,Bolton,Man United,NH,H
+611,Charlton,Derby,H,NH
+612,Sunderland,Middlesbrough,NH,H
+613,Aston Villa,Everton,NH,NH
+614,Blackburn,Arsenal,NH,H
+615,Chelsea,Leeds,H,NH
+616,Ipswich,Fulham,H,H
+617,Liverpool,Leicester,H,NH
+618,Southampton,West Ham,H,H
+619,Tottenham,Newcastle,NH,NH
+620,Arsenal,Southampton,NH,NH
+621,Derby,Tottenham,H,H
+622,Everton,Ipswich,NH,NH
+623,Fulham,Aston Villa,NH,H
+624,Leicester,Chelsea,NH,NH
+625,Man United,Sunderland,H,H
+626,Newcastle,Bolton,H,H
+627,West Ham,Blackburn,H,H
+628,Leeds,Liverpool,NH,H
+629,Middlesbrough,Charlton,NH,NH
+630,Aston Villa,Chelsea,NH,NH
+631,Bolton,West Ham,H,H
+632,Derby,Sunderland,NH,NH
+633,Fulham,Blackburn,H,NH
+634,Ipswich,Liverpool,NH,NH
+635,Middlesbrough,Leeds,NH,H
+636,Newcastle,Southampton,H,NH
+637,Tottenham,Leicester,H,NH
+638,Charlton,Man United,NH,H
+639,Everton,Arsenal,NH,NH
+640,Middlesbrough,Fulham,H,NH
+641,Arsenal,Fulham,H,H
+642,Leicester,Derby,NH,H
+643,Liverpool,Everton,NH,NH
+644,Man United,Aston Villa,H,H
+645,Southampton,Bolton,NH,H
+646,West Ham,Middlesbrough,H,NH
+647,Leeds,Charlton,NH,NH
+648,Sunderland,Newcastle,NH,H
+649,Aston Villa,West Ham,H,NH
+650,Bolton,Blackburn,NH,NH
+651,Charlton,Chelsea,H,NH
+652,Fulham,Liverpool,NH,NH
+653,Ipswich,Southampton,NH,NH
+654,Middlesbrough,Leicester,H,NH
+655,Newcastle,Arsenal,NH,NH
+656,Tottenham,Sunderland,H,H
+657,Derby,Man United,NH,H
+658,Everton,Leeds,NH,NH
+659,Arsenal,Derby,H,H
+660,Blackburn,Aston Villa,H,NH
+661,Sunderland,Bolton,H,NH
+662,Chelsea,Fulham,H,NH
+663,Leeds,Ipswich,H,H
+664,Liverpool,Newcastle,H,NH
+665,Man United,Tottenham,H,H
+666,Southampton,Middlesbrough,NH,H
+667,West Ham,Everton,H,NH
+668,Leicester,Charlton,NH,H
+669,Blackburn,Ipswich,H,NH
+670,Chelsea,Tottenham,H,NH
+671,Bolton,Derby,NH,NH
+672,Chelsea,Sunderland,H,H
+673,Everton,Fulham,H,NH
+674,Middlesbrough,Liverpool,NH,NH
+675,Newcastle,Ipswich,NH,NH
+676,Southampton,Leicester,NH,NH
+677,West Ham,Man United,NH,NH
+678,Aston Villa,Arsenal,NH,H
+679,Leeds,Blackburn,H,H
+680,Tottenham,Charlton,NH,NH
+681,Charlton,Bolton,NH,H
+682,Derby,Everton,NH,H
+683,Ipswich,Aston Villa,NH,NH
+684,Leicester,Leeds,NH,H
+685,Man United,Middlesbrough,NH,NH
+686,Sunderland,Southampton,NH,NH
+687,Fulham,Tottenham,NH,NH
+688,Liverpool,Chelsea,H,NH
+689,Newcastle,Everton,H,H
+690,Arsenal,Sunderland,H,NH
+691,Bolton,Aston Villa,H,NH
+692,Chelsea,Derby,H,H
+693,Leeds,Man United,NH,NH
+694,Leicester,Blackburn,H,H
+695,Liverpool,Charlton,H,NH
+696,Middlesbrough,Tottenham,NH,NH
+697,Southampton,Fulham,NH,H
+698,West Ham,Ipswich,H,NH
+699,Blackburn,Southampton,H,H
+700,Charlton,Arsenal,NH,H
+701,Derby,Middlesbrough,NH,H
+702,Everton,Bolton,H,NH
+703,Fulham,West Ham,NH,NH
+704,Ipswich,Chelsea,NH,NH
+705,Sunderland,Leicester,H,H
+706,Tottenham,Leeds,H,H
+707,Aston Villa,Newcastle,NH,NH
+708,Arsenal,Tottenham,H,H
+709,Bolton,Ipswich,H,NH
+710,Chelsea,Everton,H,NH
+711,Leicester,Man United,NH,H
+712,Middlesbrough,Aston Villa,H,H
+713,Southampton,Derby,H,H
+714,West Ham,Charlton,H,NH
+715,Leeds,Sunderland,H,H
+716,Newcastle,Fulham,NH,NH
+717,Blackburn,Chelsea,NH,NH
+718,Aston Villa,Leeds,NH,NH
+719,Charlton,Southampton,NH,NH
+720,Derby,Newcastle,NH,NH
+721,Everton,Leicester,NH,H
+722,Sunderland,Liverpool,NH,H
+723,Tottenham,West Ham,NH,NH
+724,Bolton,Tottenham,NH,H
+725,Chelsea,Man United,NH,NH
+726,Leeds,Fulham,NH,NH
+727,Leicester,Aston Villa,NH,NH
+728,Liverpool,Derby,H,NH
+729,Middlesbrough,Blackburn,NH,NH
+730,Newcastle,Charlton,H,NH
+731,Southampton,Everton,NH,NH
+732,West Ham,Sunderland,H,H
+733,Arsenal,Ipswich,H,H
+734,Blackburn,Newcastle,NH,NH
+735,Fulham,Bolton,H,H
+736,Arsenal,West Ham,H,H
+737,Ipswich,Middlesbrough,H,NH
+738,Aston Villa,Southampton,H,H
+739,Charlton,Sunderland,NH,NH
+740,Derby,Leeds,NH,H
+741,Fulham,Leicester,NH,H
+742,Ipswich,Man United,NH,NH
+743,Middlesbrough,Chelsea,NH,NH
+744,Newcastle,West Ham,H,NH
+745,Tottenham,Liverpool,H,H
+746,Everton,Blackburn,NH,NH
+747,Bolton,Arsenal,NH,H
+748,Liverpool,Blackburn,H,NH
+749,Man United,Arsenal,NH,H
+750,Arsenal,Everton,H,NH
+751,Blackburn,Fulham,H,H
+752,Chelsea,Aston Villa,NH,NH
+753,Leeds,Middlesbrough,H,NH
+754,Leicester,Tottenham,H,NH
+755,Liverpool,Ipswich,H,H
+756,Man United,Charlton,NH,NH
+757,Southampton,Newcastle,H,H
+758,Sunderland,Derby,NH,NH
+759,West Ham,Bolton,H,NH
+760,Blackburn,Sunderland,NH,NH
+761,Charlton,Chelsea,NH,NH
+762,Everton,Tottenham,NH,H
+763,Fulham,Bolton,H,H
+764,Leeds,Man City,H,NH
+765,Man United,West Brom,H,NH
+766,Southampton,Middlesboro,NH,NH
+767,Arsenal,Birmingham,H,NH
+768,Aston Villa,Liverpool,NH,NH
+769,Newcastle,West Ham,H,H
+770,Chelsea,Man United,NH,NH
+771,Birmingham,Blackburn,NH,NH
+772,Bolton,Charlton,NH,NH
+773,Liverpool,Southampton,H,NH
+774,Man City,Newcastle,H,NH
+775,Middlesboro,Fulham,NH,NH
+776,Sunderland,Everton,NH,H
+777,Tottenham,Aston Villa,H,NH
+778,West Brom,Leeds,NH,H
+779,West Ham,Arsenal,NH,NH
+780,Arsenal,West Brom,H,NH
+781,Charlton,Tottenham,NH,H
+782,Aston Villa,Man City,H,H
+783,Blackburn,Liverpool,NH,H
+784,Everton,Birmingham,NH,NH
+785,Leeds,Sunderland,NH,H
+786,Southampton,Chelsea,NH,NH
+787,Birmingham,Leeds,H,H
+788,Man City,Everton,H,H
+789,Middlesboro,Blackburn,H,NH
+790,Sunderland,Man United,NH,NH
+791,Tottenham,Southampton,H,H
+792,West Brom,Fulham,H,NH
+793,West Ham,Charlton,NH,NH
+794,Bolton,Aston Villa,H,H
+795,Chelsea,Arsenal,NH,NH
+796,Liverpool,Newcastle,NH,NH
+797,Man United,Middlesboro,H,H
+798,Arsenal,Man City,H,NH
+799,Middlesboro,Sunderland,H,NH
+800,Aston Villa,Charlton,H,H
+801,Blackburn,Chelsea,NH,NH
+802,Fulham,Tottenham,H,NH
+803,Liverpool,Birmingham,NH,NH
+804,Man United,Bolton,NH,H
+805,Newcastle,Leeds,NH,NH
+806,Southampton,Everton,H,H
+807,West Ham,West Brom,NH,H
+808,Bolton,Liverpool,NH,NH
+809,Charlton,Arsenal,NH,H
+810,Chelsea,Newcastle,H,H
+811,Everton,Middlesboro,H,NH
+812,Leeds,Man United,H,NH
+813,Sunderland,Fulham,NH,H
+814,West Brom,Southampton,H,H
+815,Man City,Blackburn,NH,NH
+816,Tottenham,West Ham,H,NH
+817,Birmingham,Aston Villa,H,NH
+818,Arsenal,Bolton,H,NH
+819,Liverpool,West Brom,H,NH
+820,Man United,Tottenham,H,NH
+821,Middlesboro,Birmingham,H,H
+822,Newcastle,Sunderland,H,H
+823,Southampton,Charlton,NH,H
+824,West Ham,Man City,NH,NH
+825,Aston Villa,Everton,H,H
+826,Blackburn,Leeds,H,NH
+827,Fulham,Chelsea,NH,H
+828,Birmingham,Newcastle,NH,H
+829,Bolton,Southampton,NH,NH
+830,Charlton,Man United,NH,H
+831,Chelsea,West Ham,NH,NH
+832,Everton,Fulham,H,NH
+833,Leeds,Arsenal,NH,H
+834,Man City,Liverpool,NH,H
+835,Sunderland,Aston Villa,H,H
+836,Tottenham,Middlesboro,NH,NH
+837,West Brom,Blackburn,NH,H
+838,Middlesboro,Bolton,H,NH
+839,Newcastle,West Brom,H,NH
+840,Southampton,Man City,H,H
+841,West Ham,Birmingham,NH,NH
+842,Arsenal,Sunderland,H,NH
+843,Aston Villa,Leeds,NH,H
+844,Blackburn,Tottenham,NH,H
+845,Fulham,Charlton,H,H
+846,Liverpool,Chelsea,H,H
+847,Man United,Everton,H,H
+848,Blackburn,Newcastle,H,NH
+849,Everton,Arsenal,H,NH
+850,Fulham,Man United,NH,H
+851,Leeds,Liverpool,NH,NH
+852,Man City,Chelsea,NH,H
+853,Sunderland,West Ham,NH,NH
+854,West Brom,Birmingham,NH,NH
+855,Charlton,Middlesboro,H,H
+856,Tottenham,Bolton,H,NH
+857,Aston Villa,Southampton,NH,H
+858,Fulham,West Ham,NH,H
+859,Arsenal,Blackburn,NH,NH
+860,Birmingham,Man City,NH,H
+861,Chelsea,West Brom,H,H
+862,Liverpool,Tottenham,H,NH
+863,Man United,Aston Villa,NH,H
+864,Middlesboro,Leeds,NH,H
+865,Newcastle,Charlton,H,NH
+866,Southampton,Fulham,H,H
+867,West Ham,Everton,NH,H
+868,Bolton,Sunderland,NH,NH
+869,Birmingham,Bolton,H,NH
+870,Liverpool,West Ham,H,H
+871,Man United,Southampton,H,NH
+872,West Brom,Man City,NH,NH
+873,Blackburn,Aston Villa,NH,NH
+874,Charlton,Sunderland,NH,NH
+875,Fulham,Arsenal,NH,NH
+876,Leeds,Everton,NH,H
+877,Tottenham,Chelsea,NH,NH
+878,Newcastle,Middlesboro,H,NH
+879,Arsenal,Newcastle,H,H
+880,Aston Villa,Fulham,H,H
+881,Bolton,West Brom,NH,H
+882,Chelsea,Birmingham,H,H
+883,Everton,Charlton,H,H
+884,Man City,Man United,H,H
+885,Middlesboro,Liverpool,H,H
+886,Southampton,Blackburn,NH,NH
+887,Sunderland,Tottenham,H,NH
+888,West Ham,Leeds,NH,H
+889,Arsenal,Tottenham,H,H
+890,Chelsea,Middlesboro,H,H
+891,Man City,Charlton,NH,H
+892,Newcastle,Southampton,H,H
+893,West Brom,Aston Villa,NH,NH
+894,Birmingham,Fulham,NH,NH
+895,Blackburn,Everton,NH,NH
+896,Leeds,Bolton,NH,H
+897,Liverpool,Sunderland,NH,NH
+898,West Ham,Man United,NH,H
+899,Aston Villa,West Ham,H,NH
+900,Bolton,Chelsea,NH,H
+901,Everton,West Brom,H,H
+902,Fulham,Liverpool,H,NH
+903,Man United,Newcastle,H,H
+904,Middlesboro,Man City,H,H
+905,Southampton,Arsenal,H,NH
+906,Sunderland,Birmingham,NH,NH
+907,Charlton,Blackburn,H,NH
+908,Tottenham,Leeds,H,H
+909,Arsenal,Aston Villa,H,NH
+910,Birmingham,Tottenham,NH,H
+911,Blackburn,Fulham,H,H
+912,Chelsea,Sunderland,H,H
+913,Man City,Bolton,H,NH
+914,West Brom,Middlesboro,H,H
+915,Leeds,Charlton,NH,NH
+916,Liverpool,Man United,NH,H
+917,Newcastle,Everton,H,H
+918,West Ham,Southampton,NH,H
+919,Aston Villa,Newcastle,NH,NH
+920,Bolton,Blackburn,NH,NH
+921,Charlton,Liverpool,H,NH
+922,Everton,Chelsea,NH,H
+923,Fulham,Leeds,H,NH
+924,Man United,Arsenal,H,H
+925,Middlesboro,West Ham,NH,H
+926,Southampton,Birmingham,H,H
+927,Tottenham,West Brom,H,NH
+928,Sunderland,Man City,NH,H
+929,Aston Villa,West Brom,H,NH
+930,Charlton,Man City,NH,NH
+931,Everton,Blackburn,H,NH
+932,Man United,West Ham,H,H
+933,Middlesboro,Chelsea,NH,NH
+934,Southampton,Newcastle,NH,H
+935,Fulham,Birmingham,NH,H
+936,Sunderland,Liverpool,H,H
+937,Tottenham,Arsenal,NH,H
+938,Bolton,Leeds,NH,NH
+939,Arsenal,Middlesboro,H,H
+940,Birmingham,Charlton,NH,NH
+941,Chelsea,Aston Villa,H,H
+942,Leeds,Southampton,NH,NH
+943,Newcastle,Fulham,H,H
+944,West Brom,Sunderland,NH,NH
+945,West Ham,Bolton,NH,NH
+946,Blackburn,Man United,H,H
+947,Liverpool,Everton,NH,NH
+948,Man City,Tottenham,NH,NH
+949,Birmingham,Everton,NH,H
+950,Bolton,Newcastle,H,NH
+951,Chelsea,Southampton,NH,NH
+952,Liverpool,Blackburn,NH,NH
+953,Man City,Aston Villa,H,H
+954,Middlesboro,Man United,H,NH
+955,Sunderland,Leeds,NH,NH
+956,Tottenham,Charlton,NH,NH
+957,West Brom,Arsenal,NH,NH
+958,West Ham,Fulham,NH,NH
+959,Aston Villa,Middlesboro,H,NH
+960,Blackburn,West Ham,NH,H
+961,Charlton,West Brom,H,H
+962,Everton,Bolton,NH,NH
+963,Fulham,Man City,NH,H
+964,Leeds,Chelsea,H,H
+965,Man United,Birmingham,H,NH
+966,Southampton,Sunderland,H,NH
+967,Arsenal,Liverpool,NH,H
+968,Newcastle,Tottenham,H,NH
+969,Arsenal,Chelsea,H,H
+970,Aston Villa,Bolton,H,H
+971,Blackburn,Middlesboro,H,NH
+972,Everton,Man City,NH,NH
+973,Leeds,Birmingham,H,NH
+974,Man United,Sunderland,H,NH
+975,Newcastle,Liverpool,H,H
+976,Southampton,Tottenham,H,H
+977,Bolton,Fulham,NH,H
+978,Chelsea,Charlton,H,NH
+979,Liverpool,Aston Villa,NH,H
+980,Man City,Leeds,H,NH
+981,Middlesboro,Southampton,NH,NH
+982,Sunderland,Blackburn,NH,H
+983,West Brom,Man United,NH,H
+984,West Ham,Newcastle,NH,H
+985,Birmingham,Arsenal,NH,NH
+986,Tottenham,Everton,H,H
+987,Aston Villa,Tottenham,NH,NH
+988,Blackburn,Birmingham,NH,NH
+989,Charlton,Bolton,NH,H
+990,Everton,Sunderland,H,H
+991,Leeds,West Brom,NH,NH
+992,Man United,Chelsea,H,H
+993,Newcastle,Man City,H,NH
+994,Southampton,Liverpool,NH,NH
+995,Arsenal,West Ham,H,NH
+996,Fulham,Middlesboro,H,NH
+997,Charlton,West Ham,H,H
+998,Newcastle,Bolton,H,NH
+999,Bolton,Everton,NH,NH
+1000,Chelsea,Leeds,H,H
+1001,Middlesboro,Aston Villa,NH,H
+1002,Sunderland,Southampton,NH,H
+1003,Liverpool,Arsenal,NH,NH
+1004,Man City,Fulham,H,H
+1005,Tottenham,Newcastle,NH,H
+1006,West Brom,Charlton,NH,H
+1007,West Ham,Blackburn,H,H
+1008,Arsenal,Fulham,H,NH
+1009,Bolton,Birmingham,H,H
+1010,Chelsea,Tottenham,NH,H
+1011,Everton,Leeds,H,NH
+1012,Man City,West Brom,NH,NH
+1013,Southampton,Man United,NH,H
+1014,Sunderland,Charlton,NH,H
+1015,Aston Villa,Blackburn,H,H
+1016,West Ham,Liverpool,NH,H
+1017,Birmingham,Man United,NH,H
+1018,Birmingham,Chelsea,NH,NH
+1019,Blackburn,Southampton,H,NH
+1020,Charlton,Everton,H,NH
+1021,Fulham,Aston Villa,H,H
+1022,Leeds,West Ham,H,NH
+1023,Liverpool,Middlesboro,NH,H
+1024,Tottenham,Sunderland,H,H
+1025,West Brom,Bolton,NH,NH
+1026,Man United,Man City,NH,H
+1027,Newcastle,Arsenal,NH,NH
+1028,Fulham,West Brom,H,NH
+1029,Bolton,Man United,NH,H
+1030,Charlton,Aston Villa,H,NH
+1031,Chelsea,Blackburn,NH,H
+1032,Everton,Southampton,H,NH
+1033,Leeds,Newcastle,NH,NH
+1034,Man City,Arsenal,NH,H
+1035,Sunderland,Middlesboro,NH,H
+1036,Birmingham,Liverpool,H,H
+1037,West Brom,West Ham,NH,NH
+1038,Tottenham,Fulham,NH,NH
+1039,Blackburn,Man City,H,NH
+1040,Fulham,Sunderland,H,H
+1041,Middlesboro,Everton,NH,H
+1042,Newcastle,Chelsea,H,H
+1043,Southampton,West Brom,H,NH
+1044,West Ham,Tottenham,H,NH
+1045,Arsenal,Charlton,H,NH
+1046,Aston Villa,Birmingham,NH,H
+1047,Man United,Leeds,H,H
+1048,Middlesboro,Newcastle,H,NH
+1049,Liverpool,Bolton,H,NH
+1050,Aston Villa,Man United,NH,NH
+1051,Blackburn,Arsenal,H,NH
+1052,Charlton,Newcastle,NH,NH
+1053,Everton,West Ham,NH,NH
+1054,Fulham,Southampton,NH,NH
+1055,Leeds,Middlesboro,NH,NH
+1056,Sunderland,Bolton,NH,NH
+1057,Man City,Birmingham,H,NH
+1058,Tottenham,Liverpool,NH,NH
+1059,West Brom,Chelsea,NH,H
+1060,Birmingham,West Brom,H,NH
+1061,Chelsea,Man City,H,NH
+1062,Man United,Fulham,H,NH
+1063,Middlesboro,Charlton,NH,H
+1064,Newcastle,Blackburn,H,H
+1065,Southampton,Aston Villa,NH,H
+1066,West Ham,Sunderland,H,NH
+1067,Arsenal,Everton,H,NH
+1068,Liverpool,Leeds,H,H
+1069,Bolton,Tottenham,H,NH
+1070,Aston Villa,Arsenal,NH,H
+1071,Bolton,Man City,H,NH
+1072,Charlton,Leeds,NH,H
+1073,Man United,Liverpool,H,H
+1074,Middlesboro,West Brom,H,NH
+1075,Southampton,West Ham,NH,H
+1076,Sunderland,Chelsea,NH,H
+1077,Tottenham,Birmingham,H,H
+1078,Everton,Newcastle,H,NH
+1079,Fulham,Blackburn,NH,H
+1080,Birmingham,Sunderland,H,H
+1081,Blackburn,Charlton,H,NH
+1082,Chelsea,Bolton,H,H
+1083,Leeds,Tottenham,NH,H
+1084,Liverpool,Fulham,H,NH
+1085,Man City,Middlesboro,NH,NH
+1086,Newcastle,Man United,NH,H
+1087,West Brom,Everton,NH,H
+1088,West Ham,Aston Villa,NH,H
+1089,Arsenal,Man United,NH,H
+1090,Tottenham,Man City,NH,NH
+1091,Aston Villa,Chelsea,H,NH
+1092,Bolton,West Ham,H,H
+1093,Charlton,Birmingham,NH,NH
+1094,Everton,Liverpool,NH,NH
+1095,Fulham,Newcastle,H,H
+1096,Man United,Blackburn,H,NH
+1097,Middlesboro,Arsenal,NH,NH
+1098,Southampton,Leeds,H,NH
+1099,Sunderland,West Brom,NH,H
+1100,Birmingham,Southampton,H,NH
+1101,Blackburn,Bolton,NH,NH
+1102,Chelsea,Everton,H,H
+1103,Liverpool,Charlton,H,H
+1104,Man City,Sunderland,H,H
+1105,Newcastle,Aston Villa,NH,H
+1106,West Brom,Tottenham,NH,NH
+1107,West Ham,Middlesboro,H,H
+1108,Leeds,Fulham,H,H
+1109,Birmingham,Middlesboro,H,NH
+1110,Bolton,Arsenal,NH,H
+1111,Charlton,Southampton,H,H
+1112,Chelsea,Fulham,NH,H
+1113,Everton,Aston Villa,H,H
+1114,Leeds,Blackburn,NH,NH
+1115,Sunderland,Newcastle,NH,H
+1116,West Brom,Liverpool,NH,H
+1117,Man City,West Ham,NH,H
+1118,Tottenham,Man United,NH,H
+1119,Aston Villa,Sunderland,H,NH
+1120,Blackburn,West Brom,NH,NH
+1121,Fulham,Everton,H,H
+1122,Liverpool,Man City,NH,NH
+1123,Man United,Charlton,H,H
+1124,Middlesboro,Tottenham,H,H
+1125,Newcastle,Birmingham,H,H
+1126,Southampton,Bolton,NH,H
+1127,West Ham,Chelsea,H,H
+1128,Arsenal,Leeds,NH,H
+1129,Arsenal,Southampton,H,NH
+1130,Birmingham,West Ham,NH,H
+1131,Bolton,Middlesboro,H,NH
+1132,Charlton,Fulham,NH,H
+1133,Chelsea,Liverpool,H,H
+1134,Everton,Man United,NH,H
+1135,Leeds,Aston Villa,H,H
+1136,Man City,Southampton,NH,H
+1137,Sunderland,Arsenal,NH,NH
+1138,Tottenham,Blackburn,NH,NH
+1139,West Brom,Newcastle,NH,H
+1140,Arsenal,Everton,H,NH
+1141,Birmingham,Tottenham,H,NH
+1142,Blackburn,Wolves,H,NH
+1143,Fulham,Middlesbrough,H,NH
+1144,Leicester,Southampton,NH,NH
+1145,Man United,Bolton,H,NH
+1146,Portsmouth,Aston Villa,H,NH
+1147,Charlton,Man City,NH,H
+1148,Leeds,Newcastle,NH,H
+1149,Liverpool,Chelsea,NH,NH
+1150,Bolton,Blackburn,NH,NH
+1151,Chelsea,Leicester,H,H
+1152,Everton,Fulham,H,H
+1153,Man City,Portsmouth,NH,NH
+1154,Newcastle,Man United,NH,NH
+1155,Southampton,Birmingham,NH,NH
+1156,Tottenham,Leeds,H,NH
+1157,Wolves,Charlton,NH,NH
+1158,Aston Villa,Liverpool,NH,H
+1159,Middlesbrough,Arsenal,NH,NH
+1160,Blackburn,Man City,NH,H
+1161,Charlton,Everton,NH,H
+1162,Leeds,Southampton,NH,H
+1163,Leicester,Middlesbrough,NH,NH
+1164,Portsmouth,Bolton,H,H
+1165,Arsenal,Aston Villa,H,NH
+1166,Liverpool,Tottenham,NH,NH
+1167,Man United,Wolves,H,NH
+1168,Aston Villa,Leicester,H,H
+1169,Bolton,Charlton,NH,NH
+1170,Chelsea,Blackburn,NH,H
+1171,Everton,Liverpool,NH,NH
+1172,Middlesbrough,Leeds,NH,H
+1173,Newcastle,Birmingham,NH,NH
+1174,Tottenham,Fulham,NH,NH
+1175,Wolves,Portsmouth,NH,H
+1176,Man City,Arsenal,NH,NH
+1177,Southampton,Man United,H,NH
+1178,Arsenal,Portsmouth,NH,NH
+1179,Blackburn,Liverpool,NH,H
+1180,Bolton,Middlesbrough,H,H
+1181,Charlton,Man United,NH,NH
+1182,Chelsea,Tottenham,H,H
+1183,Everton,Newcastle,NH,H
+1184,Southampton,Wolves,H,H
+1185,Birmingham,Fulham,NH,NH
+1186,Man City,Aston Villa,H,H
+1187,Leicester,Leeds,H,H
+1188,Aston Villa,Charlton,H,NH
+1189,Fulham,Man City,NH,NH
+1190,Leeds,Birmingham,NH,H
+1191,Liverpool,Leicester,H,NH
+1192,Newcastle,Bolton,NH,H
+1193,Portsmouth,Blackburn,NH,H
+1194,Tottenham,Southampton,NH,H
+1195,Wolves,Chelsea,NH,H
+1196,Man United,Arsenal,NH,NH
+1197,Middlesbrough,Everton,H,H
+1198,Arsenal,Newcastle,H,NH
+1199,Birmingham,Portsmouth,H,NH
+1200,Bolton,Wolves,NH,NH
+1201,Chelsea,Aston Villa,H,H
+1202,Leicester,Man United,NH,NH
+1203,Southampton,Middlesbrough,NH,NH
+1204,Blackburn,Fulham,NH,NH
+1205,Charlton,Liverpool,H,NH
+1206,Everton,Leeds,H,NH
+1207,Man City,Tottenham,NH,NH
+1208,Fulham,Leicester,H,H
+1209,Leeds,Blackburn,H,NH
+1210,Liverpool,Arsenal,NH,NH
+1211,Man United,Birmingham,H,H
+1212,Newcastle,Southampton,H,H
+1213,Portsmouth,Charlton,NH,H
+1214,Tottenham,Everton,H,H
+1215,Wolves,Man City,H,NH
+1216,Aston Villa,Bolton,NH,H
+1217,Middlesbrough,Chelsea,NH,NH
+1218,Birmingham,Chelsea,NH,H
+1219,Arsenal,Chelsea,H,H
+1220,Fulham,Wolves,NH,NH
+1221,Leeds,Man United,NH,NH
+1222,Man City,Bolton,H,H
+1223,Middlesbrough,Newcastle,NH,NH
+1224,Portsmouth,Liverpool,H,NH
+1225,Birmingham,Aston Villa,NH,NH
+1226,Everton,Southampton,NH,H
+1227,Leicester,Tottenham,NH,NH
+1228,Blackburn,Charlton,NH,H
+1229,Fulham,Newcastle,NH,NH
+1230,Aston Villa,Everton,NH,H
+1231,Bolton,Birmingham,NH,H
+1232,Chelsea,Man City,H,H
+1233,Liverpool,Leeds,H,H
+1234,Man United,Fulham,NH,H
+1235,Newcastle,Portsmouth,H,NH
+1236,Southampton,Blackburn,H,NH
+1237,Wolves,Leicester,H,H
+1238,Charlton,Arsenal,NH,NH
+1239,Tottenham,Middlesbrough,NH,NH
+1240,Everton,Chelsea,NH,NH
+1241,Leeds,Arsenal,NH,NH
+1242,Man United,Portsmouth,H,NH
+1243,Middlesbrough,Wolves,H,NH
+1244,Newcastle,Aston Villa,NH,NH
+1245,Southampton,Man City,NH,NH
+1246,Tottenham,Bolton,NH,NH
+1247,Fulham,Liverpool,NH,NH
+1248,Leicester,Blackburn,H,H
+1249,Birmingham,Charlton,NH,H
+1250,Arsenal,Tottenham,H,H
+1251,Aston Villa,Middlesbrough,NH,NH
+1252,Bolton,Southampton,NH,H
+1253,Charlton,Fulham,H,H
+1254,Portsmouth,Leeds,H,NH
+1255,Wolves,Birmingham,NH,NH
+1256,Chelsea,Newcastle,H,NH
+1257,Liverpool,Man United,NH,H
+1258,Man City,Leicester,NH,NH
+1259,Blackburn,Everton,H,NH
+1260,Birmingham,Arsenal,NH,H
+1261,Everton,Wolves,H,NH
+1262,Leeds,Bolton,NH,NH
+1263,Leicester,Charlton,NH,NH
+1264,Man United,Blackburn,H,NH
+1265,Middlesbrough,Liverpool,NH,NH
+1266,Newcastle,Man City,H,H
+1267,Southampton,Chelsea,NH,NH
+1268,Tottenham,Aston Villa,H,NH
+1269,Fulham,Portsmouth,H,H
+1270,Aston Villa,Southampton,H,NH
+1271,Blackburn,Tottenham,H,NH
+1272,Bolton,Everton,H,NH
+1273,Charlton,Leeds,NH,NH
+1274,Portsmouth,Leicester,NH,H
+1275,Wolves,Newcastle,NH,H
+1276,Arsenal,Fulham,NH,NH
+1277,Chelsea,Man United,H,NH
+1278,Liverpool,Birmingham,H,H
+1279,Man City,Middlesbrough,NH,NH
+1280,Birmingham,Blackburn,NH,H
+1281,Fulham,Bolton,H,NH
+1282,Leeds,Chelsea,NH,H
+1283,Leicester,Arsenal,NH,NH
+1284,Man United,Aston Villa,H,NH
+1285,Middlesbrough,Portsmouth,NH,H
+1286,Newcastle,Liverpool,NH,H
+1287,Tottenham,Wolves,H,H
+1288,Everton,Man City,NH,H
+1289,Southampton,Charlton,H,H
+1290,Chelsea,Bolton,NH,NH
+1291,Leicester,Birmingham,NH,NH
+1292,Liverpool,Southampton,NH,H
+1293,Man United,Man City,H,NH
+1294,Middlesbrough,Charlton,NH,NH
+1295,Newcastle,Tottenham,H,H
+1296,Portsmouth,Everton,NH,NH
+1297,Arsenal,Blackburn,H,H
+1298,Aston Villa,Wolves,H,NH
+1299,Leeds,Fulham,H,H
+1300,Blackburn,Aston Villa,NH,NH
+1301,Bolton,Arsenal,NH,NH
+1302,Charlton,Newcastle,NH,NH
+1303,Everton,Leicester,H,NH
+1304,Fulham,Chelsea,NH,NH
+1305,Southampton,Portsmouth,H,NH
+1306,Tottenham,Man United,NH,H
+1307,Man City,Leeds,NH,NH
+1308,Arsenal,Wolves,H,NH
+1309,Birmingham,Man City,H,NH
+1310,Blackburn,Middlesbrough,NH,NH
+1311,Charlton,Chelsea,H,NH
+1312,Fulham,Southampton,H,H
+1313,Leeds,Aston Villa,NH,NH
+1314,Leicester,Newcastle,NH,NH
+1315,Liverpool,Bolton,H,NH
+1316,Man United,Everton,H,H
+1317,Portsmouth,Tottenham,H,H
+1318,Aston Villa,Fulham,H,NH
+1319,Bolton,Leicester,NH,NH
+1320,Chelsea,Portsmouth,H,NH
+1321,Everton,Birmingham,H,NH
+1322,Man City,Liverpool,NH,NH
+1323,Middlesbrough,Man United,NH,H
+1324,Newcastle,Blackburn,NH,H
+1325,Tottenham,Charlton,NH,NH
+1326,Wolves,Leeds,H,NH
+1327,Southampton,Arsenal,NH,H
+1328,Aston Villa,Portsmouth,H,H
+1329,Bolton,Man United,NH,H
+1330,Chelsea,Liverpool,NH,H
+1331,Everton,Arsenal,NH,NH
+1332,Man City,Charlton,NH,NH
+1333,Middlesbrough,Fulham,H,NH
+1334,Newcastle,Leeds,H,H
+1335,Southampton,Leicester,NH,H
+1336,Tottenham,Birmingham,H,H
+1337,Wolves,Blackburn,NH,H
+1338,Arsenal,Middlesbrough,H,H
+1339,Birmingham,Southampton,H,NH
+1340,Blackburn,Bolton,NH,H
+1341,Charlton,Wolves,H,NH
+1342,Fulham,Everton,H,NH
+1343,Leeds,Tottenham,NH,NH
+1344,Liverpool,Aston Villa,H,NH
+1345,Portsmouth,Man City,H,NH
+1346,Leicester,Chelsea,NH,H
+1347,Man United,Newcastle,NH,H
+1348,Bolton,Portsmouth,H,H
+1349,Everton,Charlton,NH,H
+1350,Man City,Blackburn,NH,NH
+1351,Middlesbrough,Leicester,NH,H
+1352,Southampton,Leeds,H,NH
+1353,Tottenham,Liverpool,H,NH
+1354,Wolves,Man United,H,NH
+1355,Aston Villa,Arsenal,NH,NH
+1356,Chelsea,Birmingham,NH,H
+1357,Newcastle,Fulham,H,NH
+1358,Wolves,Liverpool,NH,H
+1359,Birmingham,Newcastle,NH,NH
+1360,Charlton,Bolton,NH,NH
+1361,Fulham,Tottenham,H,NH
+1362,Leeds,Middlesbrough,NH,H
+1363,Leicester,Aston Villa,NH,NH
+1364,Liverpool,Everton,NH,NH
+1365,Man United,Southampton,H,H
+1366,Portsmouth,Wolves,NH,H
+1367,Arsenal,Man City,H,H
+1368,Blackburn,Chelsea,NH,
+1369,Aston Villa,Leeds,H,
+1370,Bolton,Liverpool,NH,
+1371,Everton,Man United,NH,
+1372,Middlesbrough,Blackburn,NH,
+1373,Newcastle,Leicester,H,
+1374,Southampton,Fulham,NH,
+1375,Tottenham,Portsmouth,H,
+1376,Wolves,Arsenal,NH,
+1377,Chelsea,Charlton,H,
+1378,Man City,Birmingham,NH,
+1379,Arsenal,Southampton,H,
+1380,Leeds,Wolves,H,
+1381,Leicester,Bolton,NH,
+1382,Birmingham,Everton,H,
+1383,Blackburn,Newcastle,NH,
+1384,Charlton,Tottenham,NH,
+1385,Fulham,Aston Villa,NH,
+1386,Liverpool,Man City,H,
+1387,Man United,Middlesbrough,NH,
+1388,Portsmouth,Chelsea,NH,
+1389,Bolton,Man City,NH,
+1390,Charlton,Blackburn,H,
+1391,Chelsea,Arsenal,NH,
+1392,Man United,Leeds,NH,
+1393,Newcastle,Middlesbrough,H,
+1394,Southampton,Everton,NH,
+1395,Wolves,Fulham,H,
+1396,Aston Villa,Birmingham,NH,
+1397,Tottenham,Leicester,NH,
+1398,Arsenal,Charlton,H,
+1399,Blackburn,Southampton,NH,
+1400,Everton,Aston Villa,H,
+1401,Fulham,Man United,NH,
+1402,Leicester,Wolves,NH,
+1403,Man City,Chelsea,NH,
+1404,Leeds,Liverpool,NH,
+1405,Portsmouth,Newcastle,NH,
+1406,Birmingham,Middlesbrough,H,
+1407,Birmingham,Bolton,H,
+1408,Middlesbrough,Tottenham,H,
+1409,Birmingham,Leicester,NH,
+1410,Blackburn,Arsenal,NH,
+1411,Bolton,Chelsea,NH,
+1412,Charlton,Middlesbrough,H,
+1413,Everton,Portsmouth,H,
+1414,Fulham,Leeds,H,
+1415,Man City,Man United,H,
+1416,Southampton,Liverpool,H,
+1417,Tottenham,Newcastle,H,
+1418,Wolves,Aston Villa,NH,
+1419,Liverpool,Portsmouth,H,
+1420,Arsenal,Bolton,H,
+1421,Aston Villa,Blackburn,NH,
+1422,Chelsea,Fulham,H,
+1423,Leicester,Everton,NH,
+1424,Liverpool,Wolves,H,
+1425,Man United,Tottenham,H,
+1426,Middlesbrough,Birmingham,H,
+1427,Newcastle,Charlton,H,
+1428,Portsmouth,Southampton,H,
+1429,Leeds,Man City,H,
+1430,Birmingham,Leeds,H,
+1431,Blackburn,Portsmouth,NH,
+1432,Charlton,Aston Villa,NH,
+1433,Chelsea,Wolves,H,
+1434,Everton,Middlesbrough,NH,
+1435,Man City,Fulham,NH,
+1436,Southampton,Tottenham,H,
+1437,Arsenal,Man United,NH,
+1438,Bolton,Newcastle,H,
+1439,Leicester,Liverpool,NH,
+1440,Fulham,Birmingham,NH,
+1441,Middlesbrough,Bolton,H,
+1442,Newcastle,Everton,H,
+1443,Tottenham,Chelsea,NH,
+1444,Wolves,Southampton,NH,
+1445,Aston Villa,Man City,NH,
+1446,Liverpool,Blackburn,H,
+1447,Leeds,Leicester,H,
+1448,Arsenal,Liverpool,H,
+1449,Everton,Tottenham,H,
+1450,Birmingham,Man United,NH,
+1451,Blackburn,Leeds,NH,
+1452,Bolton,Aston Villa,NH,
+1453,Charlton,Portsmouth,NH,
+1454,Chelsea,Middlesbrough,NH,
+1455,Leicester,Fulham,NH,
+1456,Man City,Wolves,NH,
+1457,Newcastle,Arsenal,NH,
+1458,Aston Villa,Chelsea,H,
+1459,Fulham,Blackburn,NH,
+1460,Liverpool,Charlton,NH,
+1461,Middlesbrough,Southampton,H,
+1462,Portsmouth,Birmingham,H,
+1463,Tottenham,Man City,NH,
+1464,Wolves,Bolton,NH,
+1465,Leeds,Everton,NH,
+1466,Man United,Leicester,H,
+1467,Arsenal,Leeds,H,
+1468,Blackburn,Leicester,H,
+1469,Bolton,Tottenham,H,
+1470,Charlton,Birmingham,NH,
+1471,Chelsea,Everton,NH,
+1472,Liverpool,Fulham,NH,
+1473,Man City,Southampton,NH,
+1474,Portsmouth,Man United,H,
+1475,Wolves,Middlesbrough,H,
+1476,Aston Villa,Newcastle,NH,
+1477,Man United,Charlton,H,
+1478,Everton,Blackburn,NH,
+1479,Fulham,Charlton,H,
+1480,Leicester,Man City,NH,
+1481,Man United,Liverpool,NH,
+1482,Middlesbrough,Aston Villa,NH,
+1483,Southampton,Bolton,NH,
+1484,Birmingham,Wolves,NH,
+1485,Leeds,Portsmouth,NH,
+1486,Newcastle,Chelsea,H,
+1487,Tottenham,Arsenal,NH,
+1488,Arsenal,Birmingham,NH,
+1489,Blackburn,Man United,H,
+1490,Charlton,Leicester,NH,
+1491,Chelsea,Southampton,H,
+1492,Man City,Newcastle,H,
+1493,Portsmouth,Fulham,NH,
+1494,Wolves,Everton,H,
+1495,Aston Villa,Tottenham,H,
+1496,Bolton,Leeds,H,
+1497,Liverpool,Middlesbrough,H,
+1498,Portsmouth,Arsenal,NH,
+1499,Birmingham,Liverpool,NH,
+1500,Everton,Bolton,NH,
+1501,Leeds,Charlton,NH,
+1502,Leicester,Portsmouth,H,
+1503,Man United,Chelsea,NH,
+1504,Middlesbrough,Man City,H,
+1505,Southampton,Aston Villa,NH,
+1506,Tottenham,Blackburn,H,
+1507,Fulham,Arsenal,NH,
+1508,Newcastle,Wolves,NH,
+1509,Southampton,Newcastle,NH,
+1510,Arsenal,Leicester,H,
+1511,Aston Villa,Man United,NH,
+1512,Blackburn,Birmingham,NH,
+1513,Bolton,Fulham,NH,
+1514,Charlton,Southampton,H,
+1515,Chelsea,Leeds,H,
+1516,Liverpool,Newcastle,NH,
+1517,Man City,Everton,H,
+1518,Portsmouth,Middlesbrough,H,
+1519,Wolves,Tottenham,NH,
+1520,Aston Villa,Southampton,H,
+1521,Blackburn,West Brom,NH,
+1522,Bolton,Charlton,H,
+1523,Man City,Fulham,NH,
+1524,Middlesbrough,Newcastle,NH,
+1525,Norwich,Crystal Palace,NH,
+1526,Portsmouth,Birmingham,NH,
+1527,Tottenham,Liverpool,NH,
+1528,Chelsea,Man United,H,
+1529,Everton,Arsenal,NH,
+1530,Birmingham,Chelsea,NH,
+1531,Charlton,Portsmouth,H,
+1532,Crystal Palace,Everton,NH,
+1533,Fulham,Bolton,H,
+1534,Liverpool,Man City,H,
+1535,Man United,Norwich,H,
+1536,Newcastle,Tottenham,NH,
+1537,Southampton,Blackburn,H,
+1538,Arsenal,Middlesbrough,H,
+1539,West Brom,Aston Villa,NH,
+1540,Birmingham,Man City,H,
+1541,Crystal Palace,Chelsea,NH,
+1542,Arsenal,Blackburn,H,
+1543,Charlton,Aston Villa,H,
+1544,Fulham,Middlesbrough,NH,
+1545,Newcastle,Norwich,NH,
+1546,Southampton,Bolton,NH,
+1547,West Brom,Tottenham,NH,
+1548,Aston Villa,Newcastle,H,
+1549,Blackburn,Man United,NH,
+1550,Chelsea,Southampton,H,
+1551,Everton,West Brom,H,
+1552,Man City,Charlton,H,
+1553,Middlesbrough,Crystal Palace,H,
+1554,Norwich,Arsenal,NH,
+1555,Tottenham,Birmingham,H,
+1556,Bolton,Liverpool,H,
+1557,Man United,Everton,NH,
+1558,Portsmouth,Fulham,H,
+1559,Aston Villa,Chelsea,NH,
+1560,Bolton,Man United,NH,
+1561,Fulham,Arsenal,NH,
+1562,Liverpool,West Brom,H,
+1563,Man City,Everton,NH,
+1564,Middlesbrough,Birmingham,H,
+1565,Newcastle,Blackburn,H,
+1566,Portsmouth,Crystal Palace,H,
+1567,Tottenham,Norwich,NH,
+1568,Charlton,Southampton,NH,
+1569,Arsenal,Bolton,NH,
+1570,Birmingham,Charlton,NH,
+1571,Blackburn,Portsmouth,H,
+1572,Crystal Palace,Man City,NH,
+1573,Norwich,Aston Villa,NH,
+1574,West Brom,Fulham,NH,
+1575,Chelsea,Tottenham,NH,
+1576,Everton,Middlesbrough,H,
+1577,Southampton,Newcastle,NH,
+1578,Man United,Liverpool,H,
+1579,Aston Villa,Crystal Palace,NH,
+1580,Bolton,Birmingham,NH,
+1581,Fulham,Southampton,H,
+1582,Liverpool,Norwich,H,
+1583,Man City,Arsenal,NH,
+1584,Middlesbrough,Chelsea,NH,
+1585,Newcastle,West Brom,H,
+1586,Tottenham,Man United,NH,
+1587,Portsmouth,Everton,NH,
+1588,Charlton,Blackburn,H,
+1589,Arsenal,Charlton,H,
+1590,Blackburn,Aston Villa,NH,
+1591,Everton,Tottenham,NH,
+1592,Norwich,Portsmouth,NH,
+1593,Southampton,Man City,NH,
+1594,West Brom,Bolton,H,
+1595,Birmingham,Newcastle,NH,
+1596,Chelsea,Liverpool,H,
+1597,Man United,Middlesbrough,NH,
+1598,Crystal Palace,Fulham,H,
+1599,Arsenal,Aston Villa,H,
+1600,Birmingham,Man United,NH,
+1601,Blackburn,Middlesbrough,NH,
+1602,Bolton,Crystal Palace,H,
+1603,Everton,Southampton,H,
+1604,Fulham,Liverpool,NH,
+1605,Man City,Chelsea,H,
+1606,West Brom,Norwich,NH,
+1607,Charlton,Newcastle,NH,
+1608,Portsmouth,Tottenham,H,
+1609,Aston Villa,Fulham,H,
+1610,Chelsea,Blackburn,H,
+1611,Crystal Palace,West Brom,H,
+1612,Liverpool,Charlton,H,
+1613,Norwich,Everton,NH,
+1614,Tottenham,Bolton,NH,
+1615,Man United,Arsenal,H,
+1616,Middlesbrough,Portsmouth,NH,
+1617,Newcastle,Man City,H,
+1618,Southampton,Birmingham,NH,
+1619,Arsenal,Southampton,NH,
+1620,Birmingham,Crystal Palace,NH,
+1621,Blackburn,Liverpool,NH,
+1622,Charlton,Middlesbrough,NH,
+1623,Everton,Aston Villa,NH,
+1624,Fulham,Tottenham,H,
+1625,Portsmouth,Man United,H,
+1626,West Brom,Chelsea,NH,
+1627,Bolton,Newcastle,H,
+1628,Man City,Norwich,NH,
+1629,Aston Villa,Portsmouth,H,
+1630,Chelsea,Everton,H,
+1631,Crystal Palace,Arsenal,NH,
+1632,Liverpool,Birmingham,NH,
+1633,Norwich,Blackburn,NH,
+1634,Southampton,West Brom,NH,
+1635,Tottenham,Charlton,NH,
+1636,Man United,Man City,NH,
+1637,Middlesbrough,Bolton,NH,
+1638,Newcastle,Fulham,NH,
+1639,Birmingham,Everton,NH,
+1640,Bolton,Aston Villa,NH,
+1641,Charlton,Norwich,H,
+1642,Fulham,Chelsea,NH,
+1643,Liverpool,Crystal Palace,H,
+1644,Man City,Blackburn,NH,
+1645,Southampton,Portsmouth,H,
+1646,Tottenham,Arsenal,NH,
+1647,Newcastle,Man United,NH,
+1648,West Brom,Middlesbrough,NH,
+1649,Arsenal,West Brom,NH,
+1650,Chelsea,Bolton,NH,
+1651,Crystal Palace,Newcastle,NH,
+1652,Everton,Fulham,H,
+1653,Man United,Charlton,H,
+1654,Middlesbrough,Liverpool,H,
+1655,Norwich,Southampton,H,
+1656,Portsmouth,Man City,NH,
+1657,Blackburn,Birmingham,NH,
+1658,Aston Villa,Tottenham,H,
+1659,Birmingham,Norwich,NH,
+1660,Bolton,Portsmouth,NH,
+1661,Charlton,Chelsea,NH,
+1662,Fulham,Blackburn,NH,
+1663,Man City,Aston Villa,H,
+1664,Southampton,Crystal Palace,NH,
+1665,West Brom,Man United,NH,
+1666,Liverpool,Arsenal,H,
+1667,Newcastle,Everton,NH,
+1668,Tottenham,Middlesbrough,H,
+1669,Arsenal,Birmingham,H,
+1670,Aston Villa,Liverpool,NH,
+1671,Blackburn,Tottenham,NH,
+1672,Chelsea,Newcastle,H,
+1673,Everton,Bolton,H,
+1674,Man United,Southampton,H,
+1675,Norwich,Fulham,NH,
+1676,Portsmouth,West Brom,H,
+1677,Crystal Palace,Charlton,NH,
+1678,Middlesbrough,Man City,H,
+1679,Crystal Palace,Blackburn,NH,
+1680,Everton,Liverpool,H,
+1681,Man City,Tottenham,NH,
+1682,Newcastle,Portsmouth,NH,
+1683,Norwich,Bolton,H,
+1684,Southampton,Middlesbrough,NH,
+1685,West Brom,Charlton,NH,
+1686,Arsenal,Chelsea,NH,
+1687,Aston Villa,Birmingham,NH,
+1688,Fulham,Man United,NH,
+1689,Liverpool,Portsmouth,NH,
+1690,Birmingham,West Brom,H,
+1691,Blackburn,Everton,NH,
+1692,Bolton,Man City,NH,
+1693,Chelsea,Norwich,H,
+1694,Man United,Crystal Palace,H,
+1695,Middlesbrough,Aston Villa,H,
+1696,Tottenham,Southampton,H,
+1697,Liverpool,Newcastle,H,
+1698,Portsmouth,Arsenal,NH,
+1699,Charlton,Fulham,H,
+1700,Arsenal,Fulham,H,
+1701,Birmingham,Middlesbrough,H,
+1702,Blackburn,Newcastle,NH,
+1703,Chelsea,Aston Villa,H,
+1704,Crystal Palace,Portsmouth,NH,
+1705,Everton,Man City,H,
+1706,Man United,Bolton,H,
+1707,Norwich,Tottenham,NH,
+1708,Southampton,Charlton,NH,
+1709,West Brom,Liverpool,NH,
+1710,Aston Villa,Man United,NH,
+1711,Bolton,Blackburn,NH,
+1712,Charlton,Everton,H,
+1713,Fulham,Birmingham,NH,
+1714,Liverpool,Southampton,H,
+1715,Man City,West Brom,NH,
+1716,Middlesbrough,Norwich,H,
+1717,Portsmouth,Chelsea,NH,
+1718,Tottenham,Crystal Palace,NH,
+1719,Newcastle,Arsenal,NH,
+1720,Aston Villa,Blackburn,H,
+1721,Bolton,West Brom,NH,
+1722,Charlton,Arsenal,NH,
+1723,Fulham,Crystal Palace,H,
+1724,Liverpool,Chelsea,NH,
+1725,Man City,Southampton,H,
+1726,Middlesbrough,Man United,NH,
+1727,Newcastle,Birmingham,H,
+1728,Portsmouth,Norwich,NH,
+1729,Tottenham,Everton,H,
+1730,Blackburn,Charlton,H,
+1731,Crystal Palace,Aston Villa,H,
+1732,Norwich,Liverpool,NH,
+1733,West Brom,Newcastle,NH,
+1734,Arsenal,Man City,NH,
+1735,Birmingham,Bolton,NH,
+1736,Chelsea,Middlesbrough,H,
+1737,Everton,Portsmouth,H,
+1738,Man United,Tottenham,NH,
+1739,Southampton,Fulham,NH,
+1740,Aston Villa,Norwich,H,
+1741,Bolton,Arsenal,H,
+1742,Charlton,Birmingham,H,
+1743,Liverpool,Man United,NH,
+1744,Man City,Crystal Palace,H,
+1745,Newcastle,Southampton,H,
+1746,Portsmouth,Blackburn,NH,
+1747,Tottenham,Chelsea,NH,
+1748,Fulham,West Brom,H,
+1749,Middlesbrough,Everton,NH,
+1750,Birmingham,Fulham,NH,
+1751,Chelsea,Portsmouth,H,
+1752,Crystal Palace,Tottenham,H,
+1753,Everton,Charlton,NH,
+1754,Man United,Aston Villa,H,
+1755,Norwich,Middlesbrough,NH,
+1756,Southampton,Liverpool,H,
+1757,West Brom,Man City,H,
+1758,Arsenal,Newcastle,H,
+1759,Blackburn,Bolton,NH,
+1760,Arsenal,Man United,NH,
+1761,Bolton,Tottenham,H,
+1762,Charlton,Liverpool,NH,
+1763,Portsmouth,Middlesbrough,H,
+1764,West Brom,Crystal Palace,NH,
+1765,Birmingham,Southampton,H,
+1766,Blackburn,Chelsea,NH,
+1767,Everton,Norwich,H,
+1768,Fulham,Aston Villa,NH,
+1769,Man City,Newcastle,NH,
+1770,Aston Villa,Arsenal,NH,
+1771,Crystal Palace,Bolton,NH,
+1772,Liverpool,Fulham,H,
+1773,Man United,Birmingham,H,
+1774,Middlesbrough,Blackburn,H,
+1775,Newcastle,Charlton,NH,
+1776,Norwich,West Brom,H,
+1777,Tottenham,Portsmouth,H,
+1778,Chelsea,Man City,NH,
+1779,Southampton,Everton,NH,
+1780,Birmingham,Liverpool,H,
+1781,Blackburn,Norwich,H,
+1782,Bolton,Middlesbrough,NH,
+1783,Everton,Chelsea,NH,
+1784,Portsmouth,Aston Villa,NH,
+1785,Man City,Man United,NH,
+1786,Arsenal,Crystal Palace,H,
+1787,West Brom,Southampton,NH,
+1788,Aston Villa,Everton,NH,
+1789,Crystal Palace,Birmingham,H,
+1790,Man United,Portsmouth,H,
+1791,Southampton,Arsenal,NH,
+1792,Tottenham,Fulham,H,
+1793,Middlesbrough,Charlton,NH,
+1794,Newcastle,Bolton,H,
+1795,Norwich,Man City,NH,
+1796,Arsenal,Portsmouth,H,
+1797,Aston Villa,Middlesbrough,H,
+1798,Crystal Palace,Man United,NH,
+1799,Fulham,Charlton,NH,
+1800,Newcastle,Liverpool,H,
+1801,Norwich,Chelsea,NH,
+1802,Southampton,Tottenham,H,
+1803,Everton,Blackburn,NH,
+1804,West Brom,Birmingham,H,
+1805,Man City,Bolton,NH,
+1806,Chelsea,West Brom,H,
+1807,Charlton,Tottenham,H,
+1808,Liverpool,Blackburn,NH,
+1809,Blackburn,Arsenal,NH,
+1810,Bolton,Norwich,H,
+1811,Charlton,West Brom,NH,
+1812,Chelsea,Crystal Palace,H,
+1813,Man United,Fulham,H,
+1814,Portsmouth,Newcastle,NH,
+1815,Tottenham,Man City,H,
+1816,Birmingham,Aston Villa,H,
+1817,Liverpool,Everton,H,
+1818,Middlesbrough,Southampton,NH,
+1819,Arsenal,Norwich,H,
+1820,Birmingham,Tottenham,NH,
+1821,Charlton,Man City,NH,
+1822,Crystal Palace,Middlesbrough,NH,
+1823,Liverpool,Bolton,H,
+1824,Man United,Blackburn,NH,
+1825,Newcastle,Aston Villa,NH,
+1826,Southampton,Chelsea,NH,
+1827,Fulham,Portsmouth,H,
+1828,West Brom,Everton,H,
+1829,Blackburn,Southampton,H,
+1830,Bolton,Fulham,H,
+1831,Chelsea,Birmingham,NH,
+1832,Man City,Liverpool,H,
+1833,Middlesbrough,Arsenal,NH,
+1834,Norwich,Man United,H,
+1835,Portsmouth,Charlton,H,
+1836,Aston Villa,West Brom,NH,
+1837,Everton,Crystal Palace,H,
+1838,Tottenham,Newcastle,H,
+1839,Birmingham,Portsmouth,NH,
+1840,Charlton,Bolton,NH,
+1841,Crystal Palace,Norwich,NH,
+1842,Fulham,Man City,NH,
+1843,Liverpool,Tottenham,NH,
+1844,Southampton,Aston Villa,NH,
+1845,Bolton,Southampton,NH,
+1846,Middlesbrough,Fulham,NH,
+1847,Aston Villa,Charlton,NH,
+1848,Blackburn,Crystal Palace,H,
+1849,Chelsea,Arsenal,NH,
+1850,Everton,Man United,H,
+1851,Man City,Birmingham,H,
+1852,Norwich,Newcastle,H,
+1853,Portsmouth,Liverpool,NH,
+1854,Tottenham,West Brom,NH,
+1855,Aston Villa,Bolton,NH,
+1856,Blackburn,Man City,NH,
+1857,Chelsea,Fulham,H,
+1858,Crystal Palace,Liverpool,H,
+1859,Everton,Birmingham,NH,
+1860,Middlesbrough,West Brom,H,
+1861,Norwich,Charlton,H,
+1862,Man United,Newcastle,H,
+1863,Portsmouth,Southampton,H,
+1864,Arsenal,Tottenham,H,
+1865,West Brom,Blackburn,NH,
+1866,Newcastle,Middlesbrough,NH,
+1867,Birmingham,Blackburn,H,
+1868,Bolton,Chelsea,NH,
+1869,Fulham,Everton,H,
+1870,Liverpool,Middlesbrough,NH,
+1871,Man City,Portsmouth,H,
+1872,Newcastle,Crystal Palace,NH,
+1873,Southampton,Norwich,H,
+1874,Charlton,Man United,NH,
+1875,Tottenham,Aston Villa,H,
+1876,West Brom,Arsenal,NH,
+1877,Fulham,Newcastle,NH,
+1878,Aston Villa,Man City,NH,
+1879,Blackburn,Fulham,NH,
+1880,Chelsea,Charlton,H,
+1881,Crystal Palace,Southampton,NH,
+1882,Everton,Newcastle,H,
+1883,Man United,West Brom,NH,
+1884,Middlesbrough,Tottenham,H,
+1885,Norwich,Birmingham,H,
+1886,Portsmouth,Bolton,NH,
+1887,Arsenal,Liverpool,H,
+1888,Man United,Chelsea,NH,
+1889,Arsenal,Everton,H,
+1890,Birmingham,Arsenal,H,
+1891,Bolton,Everton,H,
+1892,Charlton,Crystal Palace,NH,
+1893,Fulham,Norwich,H,
+1894,Liverpool,Aston Villa,H,
+1895,Man City,Middlesbrough,NH,
+1896,Newcastle,Chelsea,NH,
+1897,Southampton,Man United,NH,
+1898,Tottenham,Blackburn,NH,
+1899,West Brom,Portsmouth,H,
+1900,Aston Villa,Bolton,NH,
+1901,Everton,Man United,NH,
+1902,Fulham,Birmingham,NH,
+1903,Man City,West Brom,NH,
+1904,Middlesbrough,Liverpool,NH,
+1905,Portsmouth,Tottenham,NH,
+1906,Sunderland,Charlton,NH,
+1907,West Ham,Blackburn,H,
+1908,Arsenal,Newcastle,H,
+1909,Wigan,Chelsea,NH,
+1910,Birmingham,Man City,NH,
+1911,Blackburn,Fulham,H,
+1912,Charlton,Wigan,H,
+1913,Liverpool,Sunderland,H,
+1914,Man United,Aston Villa,H,
+1915,Newcastle,West Ham,NH,
+1916,Tottenham,Middlesbrough,H,
+1917,West Brom,Portsmouth,H,
+1918,Bolton,Everton,NH,
+1919,Chelsea,Arsenal,H,
+1920,Birmingham,Middlesbrough,NH,
+1921,Portsmouth,Aston Villa,NH,
+1922,Sunderland,Man City,NH,
+1923,Arsenal,Fulham,H,
+1924,Blackburn,Tottenham,NH,
+1925,Bolton,Newcastle,H,
+1926,Chelsea,West Brom,H,
+1927,Aston Villa,Blackburn,H,
+1928,Fulham,Everton,H,
+1929,Man City,Portsmouth,H,
+1930,Tottenham,Chelsea,NH,
+1931,West Brom,Birmingham,NH,
+1932,West Ham,Bolton,NH,
+1933,Wigan,Sunderland,H,
+1934,Middlesbrough,Charlton,NH,
+1935,Newcastle,Man United,NH,
+1936,Birmingham,Charlton,NH,
+1937,Chelsea,Sunderland,H,
+1938,Everton,Portsmouth,NH,
+1939,Man United,Man City,NH,
+1940,Middlesbrough,Arsenal,H,
+1941,Newcastle,Fulham,NH,
+1942,Tottenham,Liverpool,NH,
+1943,West Brom,Wigan,NH,
+1944,Bolton,Blackburn,NH,
+1945,West Ham,Aston Villa,H,
+1946,Aston Villa,Tottenham,NH,
+1947,Charlton,Chelsea,NH,
+1948,Fulham,West Ham,NH,
+1949,Portsmouth,Birmingham,NH,
+1950,Sunderland,West Brom,NH,
+1951,Blackburn,Newcastle,NH,
+1952,Liverpool,Man United,NH,
+1953,Man City,Bolton,NH,
+1954,Wigan,Middlesbrough,NH,
+1955,Arsenal,Everton,H,
+1956,Birmingham,Liverpool,NH,
+1957,Bolton,Portsmouth,H,
+1958,Chelsea,Aston Villa,H,
+1959,Everton,Wigan,NH,
+1960,Man United,Blackburn,NH,
+1961,Newcastle,Man City,H,
+1962,West Brom,Charlton,NH,
+1963,West Ham,Arsenal,NH,
+1964,Middlesbrough,Sunderland,NH,
+1965,Tottenham,Fulham,H,
+1966,Blackburn,West Brom,H,
+1967,Charlton,Tottenham,NH,
+1968,Fulham,Man United,NH,
+1969,Portsmouth,Newcastle,NH,
+1970,Sunderland,West Ham,NH,
+1971,Arsenal,Birmingham,H,
+1972,Aston Villa,Middlesbrough,NH,
+1973,Liverpool,Chelsea,NH,
+1974,Man City,Everton,H,
+1975,Wigan,Bolton,H,
+1976,Chelsea,Bolton,H,
+1977,Liverpool,Blackburn,H,
+1978,Middlesbrough,Portsmouth,NH,
+1979,Sunderland,Man United,NH,
+1980,Tottenham,Everton,H,
+1981,West Brom,Arsenal,H,
+1982,Wigan,Newcastle,H,
+1983,Birmingham,Aston Villa,NH,
+1984,Man City,West Ham,H,
+1985,Charlton,Fulham,NH,
+1986,Arsenal,Man City,H,
+1987,Aston Villa,Wigan,NH,
+1988,Blackburn,Birmingham,H,
+1989,Fulham,Liverpool,H,
+1990,Man United,Tottenham,NH,
+1991,Portsmouth,Charlton,NH,
+1992,Bolton,West Brom,H,
+1993,Everton,Chelsea,NH,
+1994,Newcastle,Sunderland,H,
+1995,West Ham,Middlesbrough,H,
+1996,Birmingham,Everton,NH,
+1997,Charlton,Bolton,NH,
+1998,Chelsea,Blackburn,H,
+1999,Liverpool,West Ham,H,
+2000,Middlesbrough,Man United,H,
+2001,Sunderland,Portsmouth,NH,
+2002,Tottenham,Arsenal,NH,
+2003,Wigan,Fulham,H,
+2004,West Brom,Newcastle,NH,
+2005,Man City,Aston Villa,H,
+2006,Arsenal,Sunderland,H,
+2007,Aston Villa,Liverpool,NH,
+2008,Blackburn,Charlton,H,
+2009,Fulham,Man City,H,
+2010,Newcastle,Birmingham,H,
+2011,Portsmouth,Wigan,NH,
+2012,West Ham,West Brom,H,
+2013,Everton,Middlesbrough,H,
+2014,Man United,Chelsea,H,
+2015,Bolton,Tottenham,H,
+2016,Charlton,Man United,NH,
+2017,Chelsea,Newcastle,H,
+2018,Liverpool,Portsmouth,H,
+2019,Man City,Blackburn,NH,
+2020,Sunderland,Aston Villa,NH,
+2021,West Brom,Everton,H,
+2022,Wigan,Arsenal,NH,
+2023,Middlesbrough,Fulham,H,
+2024,Tottenham,West Ham,NH,
+2025,Arsenal,Blackburn,H,
+2026,Aston Villa,Charlton,H,
+2027,Man City,Liverpool,NH,
+2028,Portsmouth,Chelsea,NH,
+2029,Sunderland,Birmingham,NH,
+2030,Wigan,Tottenham,NH,
+2031,Everton,Newcastle,H,
+2032,Fulham,Bolton,H,
+2033,Middlesbrough,West Brom,NH,
+2034,West Ham,Man United,NH,
+2035,Sunderland,Liverpool,NH,
+2036,Blackburn,Everton,NH,
+2037,Bolton,Arsenal,H,
+2038,Chelsea,Middlesbrough,H,
+2039,Liverpool,Wigan,H,
+2040,Man United,Portsmouth,H,
+2041,Newcastle,Aston Villa,NH,
+2042,Tottenham,Sunderland,H,
+2043,West Brom,Fulham,NH,
+2044,Charlton,Man City,NH,
+2045,Birmingham,West Ham,NH,
+2046,Birmingham,Fulham,H,
+2047,Blackburn,West Ham,H,
+2048,Bolton,Aston Villa,NH,
+2049,Charlton,Sunderland,H,
+2050,Chelsea,Wigan,H,
+2051,Liverpool,Middlesbrough,H,
+2052,Newcastle,Arsenal,H,
+2053,West Brom,Man City,H,
+2054,Man United,Everton,NH,
+2055,Tottenham,Portsmouth,H,
+2056,Everton,West Ham,NH,
+2057,Man United,Wigan,H,
+2058,Aston Villa,Man United,NH,
+2059,Everton,Bolton,NH,
+2060,Fulham,Blackburn,H,
+2061,Man City,Birmingham,H,
+2062,Portsmouth,West Brom,H,
+2063,West Ham,Newcastle,NH,
+2064,Wigan,Charlton,H,
+2065,Arsenal,Chelsea,NH,
+2066,Middlesbrough,Tottenham,NH,
+2067,Aston Villa,Everton,H,
+2068,Charlton,Arsenal,NH,
+2069,Chelsea,Fulham,H,
+2070,Liverpool,Newcastle,H,
+2071,Man United,West Brom,H,
+2072,Middlesbrough,Blackburn,NH,
+2073,Portsmouth,West Ham,NH,
+2074,Sunderland,Bolton,NH,
+2075,Tottenham,Birmingham,H,
+2076,Wigan,Man City,H,
+2077,Arsenal,Portsmouth,H,
+2078,Birmingham,Man United,NH,
+2079,Everton,Liverpool,NH,
+2080,Fulham,Aston Villa,NH,
+2081,Man City,Chelsea,NH,
+2082,West Brom,Tottenham,H,
+2083,West Ham,Wigan,NH,
+2084,Aston Villa,Arsenal,NH,
+2085,Charlton,West Ham,H,
+2086,Chelsea,Birmingham,H,
+2087,Liverpool,West Brom,H,
+2088,Man United,Bolton,H,
+2089,Middlesbrough,Man City,NH,
+2090,Portsmouth,Fulham,H,
+2091,Sunderland,Everton,NH,
+2092,Tottenham,Newcastle,H,
+2093,Wigan,Blackburn,NH,
+2094,Birmingham,Wigan,H,
+2095,Blackburn,Portsmouth,H,
+2096,Bolton,Liverpool,NH,
+2097,Everton,Charlton,H,
+2098,Fulham,Sunderland,H,
+2099,Newcastle,Middlesbrough,NH,
+2100,West Brom,Aston Villa,NH,
+2101,West Ham,Chelsea,NH,
+2102,Arsenal,Man United,NH,
+2103,Man City,Tottenham,NH,
+2104,Arsenal,Middlesbrough,H,
+2105,Aston Villa,West Ham,NH,
+2106,Blackburn,Bolton,NH,
+2107,Charlton,Birmingham,H,
+2108,Fulham,Newcastle,H,
+2109,Liverpool,Tottenham,H,
+2110,Man City,Man United,H,
+2111,Portsmouth,Everton,NH,
+2112,Sunderland,Chelsea,NH,
+2113,Wigan,West Brom,NH,
+2114,Birmingham,Portsmouth,H,
+2115,Bolton,Man City,H,
+2116,Everton,Arsenal,H,
+2117,Middlesbrough,Wigan,NH,
+2118,Newcastle,Blackburn,NH,
+2119,Tottenham,Aston Villa,NH,
+2120,West Brom,Sunderland,NH,
+2121,Chelsea,Charlton,NH,
+2122,Man United,Liverpool,H,
+2123,West Ham,Fulham,H,
+2124,Charlton,West Brom,NH,
+2125,Fulham,Tottenham,H,
+2126,Sunderland,Middlesbrough,NH,
+2127,Wigan,Everton,NH,
+2128,Arsenal,West Ham,NH,
+2129,Aston Villa,Chelsea,NH,
+2130,Blackburn,Man United,H,
+2131,Liverpool,Birmingham,NH,
+2132,Man City,Newcastle,H,
+2133,Portsmouth,Bolton,NH,
+2134,Birmingham,Arsenal,NH,
+2135,Bolton,Wigan,NH,
+2136,Everton,Man City,H,
+2137,Man United,Fulham,H,
+2138,Middlesbrough,Aston Villa,NH,
+2139,Newcastle,Portsmouth,H,
+2140,West Brom,Blackburn,H,
+2141,West Ham,Sunderland,H,
+2142,Chelsea,Liverpool,H,
+2143,Tottenham,Charlton,H,
+2144,Charlton,Liverpool,H,
+2145,Arsenal,Bolton,NH,
+2146,Aston Villa,Newcastle,NH,
+2147,Everton,Blackburn,H,
+2148,Fulham,West Brom,H,
+2149,Middlesbrough,Chelsea,H,
+2150,Portsmouth,Man United,NH,
+2151,Wigan,Liverpool,NH,
+2152,Man City,Charlton,H,
+2153,Sunderland,Tottenham,NH,
+2154,West Ham,Birmingham,H,
+2155,Liverpool,Arsenal,H,
+2156,Blackburn,Sunderland,H,
+2157,Tottenham,Wigan,NH,
+2158,Newcastle,Charlton,NH,
+2159,Birmingham,Sunderland,H,
+2160,Blackburn,Arsenal,H,
+2161,Charlton,Aston Villa,NH,
+2162,Chelsea,Portsmouth,H,
+2163,Newcastle,Everton,H,
+2164,Bolton,Fulham,H,
+2165,Liverpool,Man City,H,
+2166,West Brom,Middlesbrough,NH,
+2167,Aston Villa,Portsmouth,H,
+2168,Fulham,Arsenal,NH,
+2169,Liverpool,Charlton,NH,
+2170,Middlesbrough,Birmingham,H,
+2171,Newcastle,Bolton,H,
+2172,West Brom,Chelsea,NH,
+2173,West Ham,Everton,NH,
+2174,Man City,Sunderland,H,
+2175,Tottenham,Blackburn,H,
+2176,Wigan,Man United,NH,
+2177,Birmingham,West Brom,NH,
+2178,Blackburn,Aston Villa,H,
+2179,Bolton,West Ham,H,
+2180,Chelsea,Tottenham,H,
+2181,Everton,Fulham,H,
+2182,Portsmouth,Man City,H,
+2183,Sunderland,Wigan,NH,
+2184,Arsenal,Liverpool,H,
+2185,Charlton,Middlesbrough,H,
+2186,Man United,Newcastle,H,
+2187,Liverpool,Fulham,H,
+2188,Arsenal,Charlton,H,
+2189,Birmingham,Tottenham,NH,
+2190,Blackburn,Middlesbrough,H,
+2191,Bolton,Sunderland,H,
+2192,Everton,Aston Villa,H,
+2193,Man City,Wigan,NH,
+2194,West Brom,Man United,NH,
+2195,West Ham,Portsmouth,NH,
+2196,Fulham,Chelsea,H,
+2197,Newcastle,Liverpool,NH,
+2198,Aston Villa,Fulham,NH,
+2199,Chelsea,Man City,H,
+2200,Liverpool,Everton,H,
+2201,Sunderland,Blackburn,NH,
+2202,Wigan,West Ham,NH,
+2203,Charlton,Newcastle,H,
+2204,Man United,Birmingham,H,
+2205,Middlesbrough,Bolton,H,
+2206,Tottenham,West Brom,H,
+2207,Man United,West Ham,H,
+2208,Arsenal,Aston Villa,H,
+2209,Birmingham,Chelsea,NH,
+2210,Bolton,Man United,NH,
+2211,Everton,Sunderland,NH,
+2212,Fulham,Portsmouth,NH,
+2213,Newcastle,Tottenham,H,
+2214,West Brom,Liverpool,NH,
+2215,Man City,Middlesbrough,NH,
+2216,West Ham,Charlton,NH,
+2217,Blackburn,Wigan,NH,
+2218,Birmingham,Bolton,H,
+2219,Charlton,Everton,NH,
+2220,Portsmouth,Blackburn,NH,
+2221,Tottenham,Man City,H,
+2222,Wigan,Birmingham,NH,
+2223,Aston Villa,West Brom,NH,
+2224,Chelsea,West Ham,H,
+2225,Liverpool,Bolton,H,
+2226,Man United,Arsenal,H,
+2227,Middlesbrough,Newcastle,NH,
+2228,Portsmouth,Arsenal,NH,
+2229,Man United,Sunderland,NH,
+2230,Arsenal,West Brom,H,
+2231,Bolton,Chelsea,NH,
+2232,Everton,Tottenham,NH,
+2233,Fulham,Charlton,H,
+2234,Newcastle,Wigan,H,
+2235,Portsmouth,Middlesbrough,H,
+2236,West Ham,Man City,H,
+2237,Aston Villa,Birmingham,H,
+2238,Blackburn,Liverpool,NH,
+2239,Charlton,Portsmouth,H,
+2240,Chelsea,Everton,H,
+2241,Middlesbrough,West Ham,H,
+2242,Sunderland,Newcastle,NH,
+2243,Tottenham,Man United,NH,
+2244,West Brom,Bolton,NH,
+2245,Wigan,Aston Villa,H,
+2246,Birmingham,Blackburn,H,
+2247,Arsenal,Tottenham,NH,
+2248,Bolton,Charlton,H,
+2249,Everton,Birmingham,NH,
+2250,Newcastle,West Brom,H,
+2251,Portsmouth,Sunderland,H,
+2252,Fulham,Wigan,H,
+2253,Aston Villa,Man City,NH,
+2254,West Ham,Liverpool,NH,
+2255,Birmingham,Newcastle,NH,
+2256,Charlton,Blackburn,NH,
+2257,Chelsea,Man United,H,
+2258,Liverpool,Aston Villa,H,
+2259,Man City,Fulham,NH,
+2260,Middlesbrough,Everton,NH,
+2261,Wigan,Portsmouth,NH,
+2262,Tottenham,Bolton,H,
+2263,Man United,Middlesbrough,NH,
+2264,Sunderland,Arsenal,NH,
+2265,West Brom,West Ham,NH,
+2266,Blackburn,Chelsea,H,
+2267,Bolton,Middlesbrough,NH,
+2268,Man City,Arsenal,NH,
+2269,Sunderland,Fulham,H,
+2270,Arsenal,Wigan,H,
+2271,Aston Villa,Sunderland,H,
+2272,Blackburn,Man City,H,
+2273,Bolton,Birmingham,H,
+2274,Everton,West Brom,NH,
+2275,Fulham,Middlesbrough,H,
+2276,Man United,Charlton,H,
+2277,Newcastle,Chelsea,H,
+2278,Portsmouth,Liverpool,NH,
+2279,West Ham,Tottenham,H,
+2280,Arsenal,Aston Villa,NH,
+2281,Bolton,Tottenham,H,
+2282,Everton,Watford,H,
+2283,Newcastle,Wigan,H,
+2284,Portsmouth,Blackburn,H,
+2285,Reading,Middlesbrough,H,
+2286,Sheffield United,Liverpool,NH,
+2287,West Ham,Charlton,H,
+2288,Chelsea,Man City,H,
+2289,Man United,Fulham,H,
+2290,Tottenham,Sheffield United,H,
+2291,Watford,West Ham,NH,
+2292,Aston Villa,Reading,H,
+2293,Blackburn,Everton,NH,
+2294,Charlton,Man United,NH,
+2295,Fulham,Bolton,NH,
+2296,Man City,Portsmouth,NH,
+2297,Middlesbrough,Chelsea,H,
+2298,Charlton,Bolton,H,
+2299,Fulham,Sheffield United,H,
+2300,Liverpool,West Ham,H,
+2301,Man City,Arsenal,H,
+2302,Tottenham,Everton,NH,
+2303,Watford,Man United,NH,
+2304,Wigan,Reading,H,
+2305,Aston Villa,Newcastle,H,
+2306,Blackburn,Chelsea,NH,
+2307,Middlesbrough,Portsmouth,NH,
+2308,Arsenal,Middlesbrough,NH,
+2309,Bolton,Watford,H,
+2310,Chelsea,Charlton,H,
+2311,Everton,Liverpool,H,
+2312,Man United,Tottenham,H,
+2313,Newcastle,Fulham,NH,
+2314,Portsmouth,Wigan,H,
+2315,Sheffield United,Blackburn,NH,
+2316,West Ham,Aston Villa,NH,
+2317,Reading,Man City,H,
+2318,Bolton,Middlesbrough,NH,
+2319,Charlton,Portsmouth,NH,
+2320,Everton,Wigan,NH,
+2321,Sheffield United,Reading,NH,
+2322,Watford,Aston Villa,NH,
+2323,Blackburn,Man City,H,
+2324,Chelsea,Liverpool,H,
+2325,Man United,Arsenal,NH,
+2326,Tottenham,Fulham,NH,
+2327,West Ham,Newcastle,NH,
+2328,Liverpool,Newcastle,H,
+2329,Arsenal,Sheffield United,H,
+2330,Aston Villa,Charlton,H,
+2331,Fulham,Chelsea,NH,
+2332,Liverpool,Tottenham,H,
+2333,Man City,West Ham,H,
+2334,Middlesbrough,Blackburn,NH,
+2335,Reading,Man United,NH,
+2336,Wigan,Watford,NH,
+2337,Newcastle,Everton,NH,
+2338,Portsmouth,Bolton,NH,
+2339,Bolton,Liverpool,H,
+2340,Charlton,Arsenal,NH,
+2341,Chelsea,Aston Villa,NH,
+2342,Everton,Man City,NH,
+2343,Sheffield United,Middlesbrough,H,
+2344,Blackburn,Wigan,H,
+2345,Man United,Newcastle,H,
+2346,Tottenham,Portsmouth,H,
+2347,West Ham,Reading,NH,
+2348,Watford,Fulham,NH,
+2349,Arsenal,Watford,H,
+2350,Aston Villa,Tottenham,NH,
+2351,Liverpool,Blackburn,NH,
+2352,Man City,Sheffield United,NH,
+2353,Middlesbrough,Everton,H,
+2354,Portsmouth,West Ham,H,
+2355,Reading,Chelsea,NH,
+2356,Wigan,Man United,NH,
+2357,Newcastle,Bolton,NH,
+2358,Fulham,Charlton,H,
+2359,Aston Villa,Fulham,NH,
+2360,Charlton,Watford,NH,
+2361,Chelsea,Portsmouth,H,
+2362,Everton,Sheffield United,H,
+2363,Wigan,Man City,H,
+2364,Blackburn,Bolton,NH,
+2365,Man United,Liverpool,H,
+2366,Middlesbrough,Newcastle,H,
+2367,Reading,Arsenal,NH,
+2368,Tottenham,West Ham,H,
+2369,Arsenal,Everton,NH,
+2370,Bolton,Man United,NH,
+2371,Fulham,Wigan,NH,
+2372,Liverpool,Aston Villa,H,
+2373,Newcastle,Charlton,NH,
+2374,Portsmouth,Reading,H,
+2375,Sheffield United,Chelsea,NH,
+2376,Watford,Tottenham,NH,
+2377,West Ham,Blackburn,H,
+2378,Man City,Middlesbrough,H,
+2379,Bolton,Wigan,NH,
+2380,Charlton,Man City,H,
+2381,Fulham,Everton,H,
+2382,Liverpool,Reading,H,
+2383,Man United,Portsmouth,H,
+2384,Newcastle,Sheffield United,NH,
+2385,Watford,Middlesbrough,H,
+2386,Aston Villa,Blackburn,H,
+2387,Tottenham,Chelsea,H,
+2388,West Ham,Arsenal,H,
+2389,Blackburn,Man United,NH,
+2390,Chelsea,Watford,H,
+2391,Everton,Aston Villa,NH,
+2392,Man City,Newcastle,NH,
+2393,Middlesbrough,West Ham,H,
+2394,Portsmouth,Fulham,NH,
+2395,Sheffield United,Bolton,NH,
+2396,Wigan,Charlton,H,
+2397,Arsenal,Liverpool,H,
+2398,Reading,Tottenham,H,
+2399,Arsenal,Newcastle,NH,
+2400,Chelsea,West Ham,H,
+2401,Everton,Bolton,H,
+2402,Man City,Fulham,H,
+2403,Middlesbrough,Liverpool,NH,
+2404,Portsmouth,Watford,H,
+2405,Reading,Charlton,H,
+2406,Sheffield United,Man United,NH,
+2407,Blackburn,Tottenham,NH,
+2408,Wigan,Aston Villa,NH,
+2409,Aston Villa,Middlesbrough,NH,
+2410,Bolton,Arsenal,H,
+2411,Charlton,Everton,NH,
+2412,Fulham,Reading,NH,
+2413,Liverpool,Man City,H,
+2414,West Ham,Sheffield United,H,
+2415,Man United,Chelsea,NH,
+2416,Newcastle,Portsmouth,H,
+2417,Tottenham,Wigan,H,
+2418,Watford,Sheffield United,NH,
+2419,Aston Villa,Man City,NH,
+2420,Bolton,Chelsea,NH,
+2421,Fulham,Arsenal,H,
+2422,Liverpool,Portsmouth,NH,
+2423,Man United,Everton,H,
+2424,Arsenal,Tottenham,H,
+2425,Blackburn,Fulham,H,
+2426,Middlesbrough,Man United,NH,
+2427,Portsmouth,Aston Villa,NH,
+2428,Reading,Bolton,H,
+2429,Sheffield United,Charlton,H,
+2430,Wigan,Liverpool,NH,
+2431,Everton,West Ham,H,
+2432,Man City,Watford,NH,
+2433,Charlton,Blackburn,H,
+2434,Tottenham,Middlesbrough,H,
+2435,Newcastle,Reading,H,
+2436,West Ham,Wigan,NH,
+2437,Blackburn,Newcastle,NH,
+2438,Bolton,West Ham,H,
+2439,Liverpool,Fulham,H,
+2440,Man United,Man City,H,
+2441,Middlesbrough,Wigan,NH,
+2442,Portsmouth,Everton,H,
+2443,Tottenham,Charlton,H,
+2444,Watford,Reading,NH,
+2445,Chelsea,Arsenal,NH,
+2446,Sheffield United,Aston Villa,NH,
+2447,Chelsea,Newcastle,H,
+2448,Wigan,Arsenal,NH,
+2449,Arsenal,Portsmouth,NH,
+2450,Aston Villa,Bolton,NH,
+2451,Charlton,Liverpool,NH,
+2452,Newcastle,Watford,H,
+2453,Reading,Blackburn,NH,
+2454,Wigan,Sheffield United,NH,
+2455,Everton,Chelsea,NH,
+2456,Man City,Tottenham,NH,
+2457,West Ham,Man United,H,
+2458,Fulham,Middlesbrough,H,
+2459,Arsenal,Blackburn,H,
+2460,Aston Villa,Man United,NH,
+2461,Fulham,West Ham,NH,
+2462,Liverpool,Watford,H,
+2463,Man City,Bolton,NH,
+2464,Middlesbrough,Charlton,H,
+2465,Newcastle,Tottenham,H,
+2466,Portsmouth,Sheffield United,H,
+2467,Reading,Everton,NH,
+2468,Wigan,Chelsea,NH,
+2469,Blackburn,Liverpool,H,
+2470,Bolton,Newcastle,H,
+2471,Chelsea,Reading,NH,
+2472,Everton,Middlesbrough,NH,
+2473,Man United,Wigan,H,
+2474,Sheffield United,Man City,NH,
+2475,Tottenham,Aston Villa,H,
+2476,Watford,Arsenal,NH,
+2477,West Ham,Portsmouth,NH,
+2478,Charlton,Fulham,NH,
+2479,Blackburn,Middlesbrough,H,
+2480,Bolton,Portsmouth,H,
+2481,Charlton,Aston Villa,H,
+2482,Chelsea,Fulham,NH,
+2483,Everton,Newcastle,H,
+2484,Man United,Reading,H,
+2485,Sheffield United,Arsenal,H,
+2486,Tottenham,Liverpool,NH,
+2487,West Ham,Man City,NH,
+2488,Fulham,Watford,NH,
+2489,Liverpool,Bolton,H,
+2490,Man City,Everton,H,
+2491,Middlesbrough,Sheffield United,H,
+2492,Newcastle,Man United,NH,
+2493,Portsmouth,Tottenham,NH,
+2494,Reading,West Ham,H,
+2495,Wigan,Blackburn,NH,
+2496,Arsenal,Charlton,H,
+2497,Aston Villa,Chelsea,NH,
+2498,Blackburn,Arsenal,NH,
+2499,Bolton,Man City,NH,
+2500,Charlton,Middlesbrough,NH,
+2501,Chelsea,Wigan,H,
+2502,Man United,Aston Villa,H,
+2503,Sheffield United,Portsmouth,NH,
+2504,Watford,Liverpool,NH,
+2505,West Ham,Fulham,NH,
+2506,Everton,Reading,NH,
+2507,Tottenham,Newcastle,NH,
+2508,Aston Villa,Watford,H,
+2509,Fulham,Tottenham,NH,
+2510,Liverpool,Chelsea,H,
+2511,Man City,Blackburn,NH,
+2512,Middlesbrough,Bolton,H,
+2513,Newcastle,West Ham,NH,
+2514,Portsmouth,Charlton,NH,
+2515,Reading,Sheffield United,H,
+2516,Arsenal,Man United,H,
+2517,Wigan,Everton,NH,
+2518,Watford,Blackburn,H,
+2519,Portsmouth,Middlesbrough,NH,
+2520,Reading,Wigan,H,
+2521,Sheffield United,Fulham,H,
+2522,West Ham,Liverpool,NH,
+2523,Bolton,Charlton,NH,
+2524,Chelsea,Blackburn,H,
+2525,Man United,Watford,H,
+2526,Newcastle,Aston Villa,H,
+2527,Aston Villa,West Ham,H,
+2528,Blackburn,Sheffield United,H,
+2529,Charlton,Chelsea,NH,
+2530,Fulham,Newcastle,H,
+2531,Liverpool,Everton,NH,
+2532,Man City,Reading,NH,
+2533,Middlesbrough,Arsenal,NH,
+2534,Watford,Bolton,NH,
+2535,Wigan,Portsmouth,H,
+2536,Tottenham,Man United,NH,
+2537,Chelsea,Middlesbrough,H,
+2538,Everton,Blackburn,H,
+2539,Man United,Charlton,H,
+2540,Newcastle,Liverpool,H,
+2541,Portsmouth,Man City,H,
+2542,Reading,Aston Villa,H,
+2543,Sheffield United,Tottenham,H,
+2544,West Ham,Watford,NH,
+2545,Arsenal,Wigan,H,
+2546,Bolton,Fulham,H,
+2547,Everton,Tottenham,NH,
+2548,Watford,Wigan,NH,
+2549,Charlton,West Ham,H,
+2550,Fulham,Man United,NH,
+2551,Liverpool,Sheffield United,H,
+2552,Middlesbrough,Reading,H,
+2553,Watford,Everton,NH,
+2554,Blackburn,Portsmouth,H,
+2555,Tottenham,Bolton,H,
+2556,Wigan,Newcastle,H,
+2557,Arsenal,Reading,H,
+2558,Fulham,Aston Villa,NH,
+2559,Liverpool,Man United,NH,
+2560,Man City,Wigan,NH,
+2561,Newcastle,Middlesbrough,NH,
+2562,Portsmouth,Chelsea,NH,
+2563,Sheffield United,Everton,NH,
+2564,Watford,Charlton,NH,
+2565,Bolton,Blackburn,NH,
+2566,West Ham,Tottenham,NH,
+2567,Aston Villa,Arsenal,NH,
+2568,Man City,Chelsea,NH,
+2569,Blackburn,West Ham,NH,
+2570,Chelsea,Sheffield United,H,
+2571,Man United,Bolton,H,
+2572,Middlesbrough,Man City,NH,
+2573,Reading,Portsmouth,NH,
+2574,Tottenham,Watford,H,
+2575,Wigan,Fulham,NH,
+2576,Aston Villa,Liverpool,NH,
+2577,Charlton,Newcastle,H,
+2578,Everton,Arsenal,H,
+2579,Bolton,Sheffield United,H,
+2580,Charlton,Wigan,H,
+2581,Fulham,Portsmouth,NH,
+2582,Liverpool,Arsenal,H,
+2583,Man United,Blackburn,H,
+2584,Newcastle,Man City,NH,
+2585,Watford,Chelsea,NH,
+2586,West Ham,Middlesbrough,H,
+2587,Tottenham,Reading,H,
+2588,Aston Villa,Everton,NH,
+2589,Everton,Fulham,H,
+2590,Man City,Charlton,NH,
+2591,Arsenal,West Ham,NH,
+2592,Blackburn,Aston Villa,NH,
+2593,Chelsea,Tottenham,H,
+2594,Middlesbrough,Watford,H,
+2595,Portsmouth,Man United,H,
+2596,Reading,Liverpool,NH,
+2597,Sheffield United,Newcastle,NH,
+2598,Wigan,Bolton,NH,
+2599,Aston Villa,Wigan,NH,
+2600,Bolton,Everton,NH,
+2601,Charlton,Reading,NH,
+2602,Fulham,Man City,NH,
+2603,Newcastle,Arsenal,NH,
+2604,Watford,Portsmouth,H,
+2605,Arsenal,Bolton,H,
+2606,Man City,Liverpool,NH,
+2607,Middlesbrough,Aston Villa,NH,
+2608,Portsmouth,Newcastle,H,
+2609,Reading,Fulham,H,
+2610,Sheffield United,West Ham,H,
+2611,Everton,Charlton,H,
+2612,Wigan,Tottenham,NH,
+2613,Arsenal,Man City,H,
+2614,Man United,Sheffield United,H,
+2615,Blackburn,Watford,H,
+2616,Liverpool,Middlesbrough,H,
+2617,West Ham,Chelsea,NH,
+2618,Bolton,Reading,NH,
+2619,Charlton,Sheffield United,NH,
+2620,Fulham,Blackburn,NH,
+2621,Liverpool,Wigan,H,
+2622,Man United,Middlesbrough,NH,
+2623,Tottenham,Arsenal,NH,
+2624,Watford,Man City,NH,
+2625,West Ham,Everton,H,
+2626,Aston Villa,Portsmouth,NH,
+2627,Newcastle,Chelsea,NH,
+2628,Blackburn,Charlton,H,
+2629,Chelsea,Bolton,NH,
+2630,Everton,Man United,NH,
+2631,Man City,Aston Villa,NH,
+2632,Middlesbrough,Tottenham,NH,
+2633,Portsmouth,Liverpool,H,
+2634,Sheffield United,Watford,H,
+2635,Wigan,West Ham,NH,
+2636,Arsenal,Fulham,H,
+2637,Reading,Newcastle,H,
+2638,Aston Villa,Sheffield United,H,
+2639,Everton,Portsmouth,H,
+2640,Fulham,Liverpool,H,
+2641,Man City,Man United,NH,
+2642,Newcastle,Blackburn,NH,
+2643,Reading,Watford,NH,
+2644,West Ham,Bolton,H,
+2645,Wigan,Middlesbrough,NH,
+2646,Arsenal,Chelsea,NH,
+2647,Charlton,Tottenham,NH,
+2648,Chelsea,Man United,NH,
+2649,Tottenham,Blackburn,NH,
+2650,Blackburn,Reading,NH,
+2651,Bolton,Aston Villa,NH,
+2652,Chelsea,Everton,NH,
+2653,Liverpool,Charlton,NH,
+2654,Man United,West Ham,NH,
+2655,Middlesbrough,Fulham,H,
+2656,Portsmouth,Arsenal,NH,
+2657,Sheffield United,Wigan,NH,
+2658,Tottenham,Man City,H,
+2659,Watford,Newcastle,NH,
+2660,Aston Villa,Liverpool,NH,
+2661,Bolton,Newcastle,NH,
+2662,Derby,Portsmouth,NH,
+2663,Everton,Wigan,H,
+2664,Middlesbrough,Blackburn,NH,
+2665,Sunderland,Tottenham,H,
+2666,West Ham,Man City,NH,
+2667,Arsenal,Fulham,H,
+2668,Chelsea,Birmingham,H,
+2669,Man United,Reading,NH,
+2670,Tottenham,Everton,NH,
+2671,Birmingham,Sunderland,NH,
+2672,Fulham,Bolton,H,
+2673,Man City,Derby,H,
+2674,Portsmouth,Man United,NH,
+2675,Reading,Chelsea,NH,
+2676,Wigan,Middlesbrough,H,
+2677,Birmingham,West Ham,NH,
+2678,Fulham,Middlesbrough,NH,
+2679,Newcastle,Aston Villa,NH,
+2680,Portsmouth,Bolton,H,
+2681,Reading,Everton,H,
+2682,Tottenham,Derby,H,
+2683,Wigan,Sunderland,H,
+2684,Blackburn,Arsenal,NH,
+2685,Liverpool,Chelsea,NH,
+2686,Man City,Man United,H,
+2687,Arsenal,Man City,H,
+2688,Aston Villa,Fulham,H,
+2689,Bolton,Reading,H,
+2690,Chelsea,Portsmouth,H,
+2691,Derby,Birmingham,NH,
+2692,Everton,Blackburn,NH,
+2693,Sunderland,Liverpool,NH,
+2694,West Ham,Wigan,NH,
+2695,Man United,Tottenham,H,
+2696,Middlesbrough,Newcastle,NH,
+2697,Bolton,Everton,NH,
+2698,Fulham,Tottenham,NH,
+2699,Liverpool,Derby,H,
+2700,Man United,Sunderland,H,
+2701,Middlesbrough,Birmingham,H,
+2702,Newcastle,Wigan,H,
+2703,Reading,West Ham,NH,
+2704,Arsenal,Portsmouth,H,
+2705,Aston Villa,Chelsea,H,
+2706,Blackburn,Man City,H,
+2707,Birmingham,Bolton,H,
+2708,Chelsea,Blackburn,NH,
+2709,Everton,Man United,NH,
+2710,Portsmouth,Liverpool,NH,
+2711,Sunderland,Reading,H,
+2712,Tottenham,Arsenal,NH,
+2713,West Ham,Middlesbrough,H,
+2714,Wigan,Fulham,NH,
+2715,Man City,Aston Villa,H,
+2716,Derby,Newcastle,H,
+2717,Arsenal,Derby,H,
+2718,Fulham,Man City,NH,
+2719,Liverpool,Birmingham,NH,
+2720,Middlesbrough,Sunderland,NH,
+2721,Reading,Wigan,H,
+2722,Aston Villa,Everton,H,
+2723,Blackburn,Portsmouth,NH,
+2724,Bolton,Tottenham,NH,
+2725,Man United,Chelsea,H,
+2726,Newcastle,West Ham,H,
+2727,Birmingham,Man United,NH,
+2728,Chelsea,Fulham,NH,
+2729,Derby,Bolton,NH,
+2730,Man City,Newcastle,H,
+2731,Portsmouth,Reading,H,
+2732,Sunderland,Blackburn,NH,
+2733,West Ham,Arsenal,NH,
+2734,Wigan,Liverpool,NH,
+2735,Everton,Middlesbrough,H,
+2736,Tottenham,Aston Villa,NH,
+2737,Aston Villa,West Ham,H,
+2738,Man United,Wigan,H,
+2739,Arsenal,Sunderland,H,
+2740,Blackburn,Birmingham,H,
+2741,Bolton,Chelsea,NH,
+2742,Fulham,Portsmouth,NH,
+2743,Liverpool,Tottenham,NH,
+2744,Man City,Middlesbrough,H,
+2745,Newcastle,Everton,H,
+2746,Reading,Derby,H,
+2747,Arsenal,Bolton,H,
+2748,Aston Villa,Man United,NH,
+2749,Blackburn,Reading,H,
+2750,Everton,Liverpool,NH,
+2751,Fulham,Derby,NH,
+2752,Man City,Birmingham,H,
+2753,Middlesbrough,Chelsea,NH,
+2754,Wigan,Portsmouth,NH,
+2755,West Ham,Sunderland,H,
+2756,Newcastle,Tottenham,H,
+2757,Birmingham,Wigan,H,
+2758,Chelsea,Man City,H,
+2759,Man United,Middlesbrough,H,
+2760,Portsmouth,West Ham,NH,
+2761,Reading,Newcastle,H,
+2762,Sunderland,Fulham,NH,
+2763,Bolton,Aston Villa,NH,
+2764,Derby,Everton,NH,
+2765,Liverpool,Arsenal,NH,
+2766,Tottenham,Blackburn,NH,
+2767,Arsenal,Man United,NH,
+2768,Aston Villa,Derby,H,
+2769,Blackburn,Liverpool,NH,
+2770,Everton,Birmingham,H,
+2771,Fulham,Reading,H,
+2772,Middlesbrough,Tottenham,NH,
+2773,Newcastle,Portsmouth,NH,
+2774,Wigan,Chelsea,NH,
+2775,West Ham,Bolton,NH,
+2776,Man City,Sunderland,H,
+2777,Derby,West Ham,NH,
+2778,Liverpool,Fulham,H,
+2779,Sunderland,Newcastle,NH,
+2780,Birmingham,Aston Villa,NH,
+2781,Bolton,Middlesbrough,NH,
+2782,Chelsea,Everton,NH,
+2783,Man United,Blackburn,H,
+2784,Portsmouth,Man City,NH,
+2785,Tottenham,Wigan,H,
+2786,Reading,Arsenal,NH,
+2787,Arsenal,Wigan,H,
+2788,Birmingham,Portsmouth,NH,
+2789,Bolton,Man United,H,
+2790,Derby,Chelsea,NH,
+2791,Everton,Sunderland,H,
+2792,Man City,Reading,H,
+2793,Middlesbrough,Aston Villa,NH,
+2794,Newcastle,Liverpool,NH,
+2795,Fulham,Blackburn,NH,
+2796,West Ham,Tottenham,NH,
+2797,Blackburn,Aston Villa,NH,
+2798,Aston Villa,Arsenal,NH,
+2799,Blackburn,Newcastle,H,
+2800,Chelsea,West Ham,H,
+2801,Portsmouth,Everton,NH,
+2802,Reading,Middlesbrough,NH,
+2803,Sunderland,Derby,H,
+2804,Wigan,Man City,NH,
+2805,Liverpool,Bolton,H,
+2806,Tottenham,Birmingham,NH,
+2807,Man United,Fulham,H,
+2808,Newcastle,Arsenal,NH,
+2809,Aston Villa,Portsmouth,NH,
+2810,Chelsea,Sunderland,H,
+2811,Everton,Fulham,H,
+2812,Man United,Derby,H,
+2813,Newcastle,Birmingham,H,
+2814,Reading,Liverpool,H,
+2815,Blackburn,West Ham,NH,
+2816,Bolton,Wigan,H,
+2817,Middlesbrough,Arsenal,H,
+2818,Tottenham,Man City,H,
+2819,Birmingham,Reading,NH,
+2820,Derby,Middlesbrough,NH,
+2821,Fulham,Newcastle,NH,
+2822,Man City,Bolton,H,
+2823,Portsmouth,Tottenham,NH,
+2824,Sunderland,Aston Villa,NH,
+2825,West Ham,Everton,NH,
+2826,Wigan,Blackburn,H,
+2827,Arsenal,Chelsea,H,
+2828,Liverpool,Man United,NH,
+2829,Arsenal,Tottenham,H,
+2830,Aston Villa,Man City,NH,
+2831,Bolton,Birmingham,H,
+2832,Fulham,Wigan,NH,
+2833,Liverpool,Portsmouth,H,
+2834,Middlesbrough,West Ham,NH,
+2835,Reading,Sunderland,H,
+2836,Blackburn,Chelsea,NH,
+2837,Man United,Everton,H,
+2838,Newcastle,Derby,NH,
+2839,Birmingham,Middlesbrough,H,
+2840,Chelsea,Aston Villa,NH,
+2841,Derby,Liverpool,NH,
+2842,Everton,Bolton,H,
+2843,Portsmouth,Arsenal,NH,
+2844,Sunderland,Man United,NH,
+2845,Tottenham,Fulham,H,
+2846,West Ham,Reading,NH,
+2847,Wigan,Newcastle,H,
+2848,Man City,Blackburn,NH,
+2849,Birmingham,Fulham,NH,
+2850,Chelsea,Newcastle,H,
+2851,Everton,Arsenal,NH,
+2852,Portsmouth,Middlesbrough,NH,
+2853,Sunderland,Bolton,H,
+2854,Tottenham,Reading,H,
+2855,West Ham,Man United,H,
+2856,Wigan,Aston Villa,NH,
+2857,Derby,Blackburn,NH,
+2858,Man City,Liverpool,NH,
+2859,Arsenal,West Ham,H,
+2860,Aston Villa,Tottenham,H,
+2861,Fulham,Chelsea,NH,
+2862,Man United,Birmingham,H,
+2863,Middlesbrough,Everton,NH,
+2864,Reading,Portsmouth,NH,
+2865,Blackburn,Sunderland,H,
+2866,Bolton,Derby,H,
+2867,Liverpool,Wigan,NH,
+2868,Newcastle,Man City,NH,
+2869,Arsenal,Birmingham,NH,
+2870,Aston Villa,Reading,H,
+2871,Chelsea,Tottenham,H,
+2872,Derby,Wigan,NH,
+2873,Everton,Man City,H,
+2874,Man United,Newcastle,H,
+2875,Middlesbrough,Liverpool,NH,
+2876,West Ham,Fulham,H,
+2877,Bolton,Blackburn,NH,
+2878,Sunderland,Portsmouth,H,
+2879,Birmingham,Chelsea,NH,
+2880,Blackburn,Middlesbrough,NH,
+2881,Fulham,Arsenal,NH,
+2882,Newcastle,Bolton,NH,
+2883,Portsmouth,Derby,H,
+2884,Reading,Man United,NH,
+2885,Tottenham,Sunderland,H,
+2886,Man City,West Ham,NH,
+2887,Wigan,Everton,NH,
+2888,Liverpool,Aston Villa,NH,
+2889,Aston Villa,Blackburn,NH,
+2890,Arsenal,Newcastle,H,
+2891,Bolton,Fulham,NH,
+2892,Middlesbrough,Wigan,H,
+2893,Sunderland,Birmingham,H,
+2894,Chelsea,Reading,H,
+2895,Derby,Man City,NH,
+2896,Everton,Tottenham,NH,
+2897,Man United,Portsmouth,H,
+2898,West Ham,Liverpool,H,
+2899,Birmingham,Derby,NH,
+2900,Blackburn,Everton,NH,
+2901,Liverpool,Sunderland,H,
+2902,Man City,Arsenal,NH,
+2903,Portsmouth,Chelsea,NH,
+2904,Reading,Bolton,NH,
+2905,Tottenham,Man United,NH,
+2906,Wigan,West Ham,H,
+2907,Fulham,Aston Villa,H,
+2908,Newcastle,Middlesbrough,NH,
+2909,Aston Villa,Newcastle,H,
+2910,Bolton,Portsmouth,NH,
+2911,Derby,Tottenham,NH,
+2912,Everton,Reading,H,
+2913,Middlesbrough,Fulham,H,
+2914,Sunderland,Wigan,H,
+2915,West Ham,Birmingham,NH,
+2916,Chelsea,Liverpool,NH,
+2917,Man United,Man City,NH,
+2918,Arsenal,Blackburn,H,
+2919,Birmingham,Arsenal,NH,
+2920,Fulham,West Ham,NH,
+2921,Liverpool,Middlesbrough,H,
+2922,Newcastle,Man United,NH,
+2923,Portsmouth,Sunderland,H,
+2924,Wigan,Derby,H,
+2925,Blackburn,Bolton,H,
+2926,Reading,Aston Villa,NH,
+2927,Man City,Everton,NH,
+2928,Arsenal,Aston Villa,NH,
+2929,Birmingham,Tottenham,H,
+2930,Derby,Sunderland,NH,
+2931,Fulham,Man United,NH,
+2932,Man City,Wigan,NH,
+2933,Middlesbrough,Reading,NH,
+2934,Newcastle,Blackburn,NH,
+2935,West Ham,Chelsea,NH,
+2936,Bolton,Liverpool,NH,
+2937,Everton,Portsmouth,H,
+2938,Liverpool,West Ham,H,
+2939,Blackburn,Fulham,NH,
+2940,Liverpool,Newcastle,H,
+2941,Reading,Man City,H,
+2942,Sunderland,Everton,NH,
+2943,Tottenham,West Ham,H,
+2944,Wigan,Arsenal,NH,
+2945,Aston Villa,Middlesbrough,NH,
+2946,Chelsea,Derby,H,
+2947,Portsmouth,Birmingham,H,
+2948,Arsenal,Middlesbrough,NH,
+2949,Derby,Man United,NH,
+2950,Liverpool,Reading,H,
+2951,Portsmouth,Aston Villa,H,
+2952,Sunderland,Chelsea,NH,
+2953,West Ham,Blackburn,H,
+2954,Fulham,Everton,H,
+2955,Man City,Tottenham,H,
+2956,Wigan,Bolton,H,
+2957,Birmingham,Newcastle,NH,
+2958,Man United,Bolton,H,
+2959,Tottenham,Chelsea,NH,
+2960,Aston Villa,Sunderland,NH,
+2961,Blackburn,Wigan,H,
+2962,Bolton,Man City,NH,
+2963,Everton,West Ham,NH,
+2964,Middlesbrough,Derby,H,
+2965,Newcastle,Fulham,H,
+2966,Reading,Birmingham,H,
+2967,Tottenham,Portsmouth,H,
+2968,Chelsea,Arsenal,H,
+2969,Man United,Liverpool,H,
+2970,Birmingham,Man City,H,
+2971,Bolton,Arsenal,NH,
+2972,Derby,Fulham,NH,
+2973,Man United,Aston Villa,H,
+2974,Portsmouth,Wigan,H,
+2975,Reading,Blackburn,NH,
+2976,Sunderland,West Ham,H,
+2977,Chelsea,Middlesbrough,H,
+2978,Liverpool,Everton,H,
+2979,Tottenham,Newcastle,NH,
+2980,Arsenal,Liverpool,NH,
+2981,Aston Villa,Bolton,H,
+2982,Blackburn,Tottenham,NH,
+2983,Fulham,Sunderland,NH,
+2984,Man City,Chelsea,NH,
+2985,Newcastle,Reading,H,
+2986,Wigan,Birmingham,H,
+2987,Everton,Derby,H,
+2988,Middlesbrough,Man United,NH,
+2989,West Ham,Portsmouth,NH,
+2990,Birmingham,Everton,NH,
+2991,Bolton,West Ham,H,
+2992,Derby,Aston Villa,NH,
+2993,Portsmouth,Newcastle,NH,
+2994,Reading,Fulham,NH,
+2995,Sunderland,Man City,NH,
+2996,Tottenham,Middlesbrough,NH,
+2997,Liverpool,Blackburn,H,
+2998,Man United,Arsenal,H,
+2999,Chelsea,Wigan,NH,
+3000,Everton,Chelsea,NH,
+3001,Arsenal,Reading,H,
+3002,Blackburn,Man United,NH,
+3003,Fulham,Liverpool,NH,
+3004,Middlesbrough,Bolton,NH,
+3005,West Ham,Derby,H,
+3006,Wigan,Tottenham,NH,
+3007,Aston Villa,Birmingham,H,
+3008,Man City,Portsmouth,H,
+3009,Newcastle,Sunderland,H,
+3010,Birmingham,Liverpool,NH,
+3011,Chelsea,Man United,H,
+3012,Man City,Fulham,NH,
+3013,Sunderland,Middlesbrough,H,
+3014,Tottenham,Bolton,NH,
+3015,West Ham,Newcastle,NH,
+3016,Wigan,Reading,NH,
+3017,Everton,Aston Villa,NH,
+3018,Portsmouth,Blackburn,NH,
+3019,Derby,Arsenal,NH,
+3020,Aston Villa,Wigan,NH,
+3021,Blackburn,Derby,H,
+3022,Bolton,Sunderland,H,
+3023,Fulham,Birmingham,H,
+3024,Man United,West Ham,H,
+3025,Middlesbrough,Portsmouth,H,
+3026,Reading,Tottenham,NH,
+3027,Arsenal,Everton,H,
+3028,Liverpool,Man City,H,
+3029,Newcastle,Chelsea,NH,
+3030,Birmingham,Blackburn,H,
+3031,Chelsea,Bolton,NH,
+3032,Derby,Reading,NH,
+3033,Everton,Newcastle,H,
+3034,Middlesbrough,Man City,H,
+3035,Portsmouth,Fulham,NH,
+3036,Sunderland,Arsenal,NH,
+3037,Tottenham,Liverpool,NH,
+3038,West Ham,Aston Villa,NH,
+3039,Wigan,Man United,NH,
+3040,Arsenal,West Brom,H,
+3041,Bolton,Stoke,H,
+3042,Everton,Blackburn,NH,
+3043,Hull,Fulham,H,
+3044,Middlesbrough,Tottenham,H,
+3045,Sunderland,Liverpool,NH,
+3046,West Ham,Wigan,H,
+3047,Aston Villa,Man City,H,
+3048,Chelsea,Portsmouth,H,
+3049,Man United,Newcastle,NH,
+3050,Blackburn,Hull,NH,
+3051,Fulham,Arsenal,H,
+3052,Liverpool,Middlesbrough,H,
+3053,Newcastle,Bolton,H,
+3054,Stoke,Aston Villa,H,
+3055,Tottenham,Sunderland,NH,
+3056,West Brom,Everton,NH,
+3057,Man City,West Ham,H,
+3058,Wigan,Chelsea,NH,
+3059,Portsmouth,Man United,NH,
+3060,Arsenal,Newcastle,H,
+3061,Bolton,West Brom,NH,
+3062,Everton,Portsmouth,NH,
+3063,Hull,Wigan,NH,
+3064,Middlesbrough,Stoke,H,
+3065,West Ham,Blackburn,H,
+3066,Aston Villa,Liverpool,NH,
+3067,Chelsea,Tottenham,NH,
+3068,Sunderland,Man City,NH,
+3069,Blackburn,Arsenal,NH,
+3070,Fulham,Bolton,H,
+3071,Liverpool,Man United,H,
+3072,Man City,Chelsea,NH,
+3073,Newcastle,Hull,NH,
+3074,Portsmouth,Middlesbrough,H,
+3075,West Brom,West Ham,H,
+3076,Wigan,Sunderland,NH,
+3077,Stoke,Everton,NH,
+3078,Tottenham,Aston Villa,NH,
+3079,Blackburn,Fulham,H,
+3080,Bolton,Arsenal,NH,
+3081,Liverpool,Stoke,NH,
+3082,Sunderland,Middlesbrough,H,
+3083,West Ham,Newcastle,H,
+3084,Chelsea,Man United,NH,
+3085,Hull,Everton,NH,
+3086,Man City,Portsmouth,H,
+3087,Tottenham,Wigan,NH,
+3088,West Brom,Aston Villa,NH,
+3089,Arsenal,Hull,NH,
+3090,Aston Villa,Sunderland,H,
+3091,Everton,Liverpool,NH,
+3092,Fulham,West Ham,NH,
+3093,Man United,Bolton,H,
+3094,Middlesbrough,West Brom,NH,
+3095,Newcastle,Blackburn,NH,
+3096,Stoke,Chelsea,NH,
+3097,Portsmouth,Tottenham,H,
+3098,Wigan,Man City,H,
+3099,Blackburn,Man United,NH,
+3100,Sunderland,Arsenal,NH,
+3101,West Brom,Fulham,H,
+3102,Wigan,Middlesbrough,NH,
+3103,Chelsea,Aston Villa,H,
+3104,Everton,Newcastle,NH,
+3105,Man City,Liverpool,NH,
+3106,Portsmouth,Stoke,H,
+3107,Tottenham,Hull,NH,
+3108,West Ham,Bolton,NH,
+3109,Arsenal,Everton,H,
+3110,Aston Villa,Portsmouth,NH,
+3111,Bolton,Blackburn,NH,
+3112,Fulham,Sunderland,NH,
+3113,Liverpool,Wigan,H,
+3114,Man United,West Brom,H,
+3115,Middlesbrough,Chelsea,NH,
+3116,Hull,West Ham,H,
+3117,Stoke,Tottenham,H,
+3118,Newcastle,Man City,NH,
+3119,Blackburn,Middlesbrough,NH,
+3120,Everton,Man United,NH,
+3121,Sunderland,Newcastle,H,
+3122,West Brom,Hull,NH,
+3123,Chelsea,Liverpool,NH,
+3124,Man City,Stoke,H,
+3125,Portsmouth,Fulham,NH,
+3126,Tottenham,Bolton,H,
+3127,West Ham,Arsenal,NH,
+3128,Wigan,Aston Villa,NH,
+3129,Newcastle,West Brom,H,
+3130,Arsenal,Tottenham,NH,
+3131,Aston Villa,Blackburn,H,
+3132,Bolton,Everton,NH,
+3133,Fulham,Wigan,H,
+3134,Hull,Chelsea,NH,
+3135,Liverpool,Portsmouth,H,
+3136,Man United,West Ham,H,
+3137,Middlesbrough,Man City,H,
+3138,Stoke,Sunderland,H,
+3139,Chelsea,Sunderland,H,
+3140,Everton,Fulham,H,
+3141,Man United,Hull,H,
+3142,Middlesbrough,West Ham,NH,
+3143,Portsmouth,Wigan,NH,
+3144,Stoke,Arsenal,H,
+3145,Tottenham,Liverpool,H,
+3146,West Brom,Blackburn,NH,
+3147,Bolton,Man City,H,
+3148,Newcastle,Aston Villa,H,
+3149,Arsenal,Man United,H,
+3150,Hull,Bolton,NH,
+3151,Liverpool,West Brom,H,
+3152,Sunderland,Portsmouth,NH,
+3153,West Ham,Everton,NH,
+3154,Wigan,Stoke,NH,
+3155,Aston Villa,Middlesbrough,NH,
+3156,Blackburn,Chelsea,NH,
+3157,Fulham,Newcastle,H,
+3158,Man City,Tottenham,NH,
+3159,Arsenal,Aston Villa,NH,
+3160,Blackburn,Sunderland,NH,
+3161,Bolton,Liverpool,NH,
+3162,Fulham,Tottenham,H,
+3163,Man United,Stoke,H,
+3164,Newcastle,Wigan,NH,
+3165,West Brom,Chelsea,NH,
+3166,West Ham,Portsmouth,NH,
+3167,Everton,Middlesbrough,NH,
+3168,Hull,Man City,NH,
+3169,Aston Villa,Man United,NH,
+3170,Chelsea,Newcastle,NH,
+3171,Liverpool,Fulham,NH,
+3172,Man City,Arsenal,H,
+3173,Middlesbrough,Bolton,NH,
+3174,Portsmouth,Hull,NH,
+3175,Stoke,West Brom,H,
+3176,Sunderland,West Ham,NH,
+3177,Tottenham,Blackburn,H,
+3178,Wigan,Everton,H,
+3179,Aston Villa,Fulham,NH,
+3180,Middlesbrough,Newcastle,NH,
+3181,Stoke,Hull,NH,
+3182,Sunderland,Bolton,NH,
+3183,Wigan,West Brom,H,
+3184,Chelsea,Arsenal,NH,
+3185,Man City,Man United,NH,
+3186,Portsmouth,Blackburn,H,
+3187,Tottenham,Everton,NH,
+3188,Liverpool,West Ham,NH,
+3189,Arsenal,Wigan,H,
+3190,Blackburn,Liverpool,NH,
+3191,Bolton,Chelsea,NH,
+3192,Fulham,Man City,NH,
+3193,Hull,Middlesbrough,H,
+3194,Man United,Sunderland,H,
+3195,Newcastle,Stoke,NH,
+3196,Everton,Aston Villa,NH,
+3197,West Brom,Portsmouth,NH,
+3198,West Ham,Tottenham,NH,
+3199,Aston Villa,Bolton,H,
+3200,Liverpool,Hull,NH,
+3201,Man City,Everton,NH,
+3202,Middlesbrough,Arsenal,NH,
+3203,Stoke,Fulham,NH,
+3204,Sunderland,West Brom,H,
+3205,Tottenham,Man United,NH,
+3206,Wigan,Blackburn,H,
+3207,Chelsea,West Ham,NH,
+3208,Portsmouth,Newcastle,NH,
+3209,Blackburn,Stoke,H,
+3210,Bolton,Portsmouth,H,
+3211,Fulham,Middlesbrough,H,
+3212,Hull,Sunderland,NH,
+3213,West Ham,Aston Villa,NH,
+3214,Arsenal,Liverpool,NH,
+3215,Newcastle,Tottenham,H,
+3216,West Brom,Man City,H,
+3217,Everton,Chelsea,NH,
+3218,Aston Villa,Arsenal,NH,
+3219,Chelsea,West Brom,H,
+3220,Liverpool,Bolton,H,
+3221,Man City,Hull,H,
+3222,Middlesbrough,Everton,NH,
+3223,Portsmouth,West Ham,NH,
+3224,Stoke,Man United,NH,
+3225,Sunderland,Blackburn,NH,
+3226,Tottenham,Fulham,NH,
+3227,Wigan,Newcastle,H,
+3228,Arsenal,Portsmouth,H,
+3229,Blackburn,Man City,NH,
+3230,Bolton,Wigan,NH,
+3231,Everton,Sunderland,H,
+3232,Fulham,Chelsea,NH,
+3233,Newcastle,Liverpool,NH,
+3234,West Brom,Tottenham,H,
+3235,West Ham,Stoke,H,
+3236,Man United,Middlesbrough,H,
+3237,Hull,Aston Villa,NH,
+3238,Arsenal,Bolton,H,
+3239,Aston Villa,West Brom,H,
+3240,Everton,Hull,H,
+3241,Middlesbrough,Sunderland,NH,
+3242,Newcastle,West Ham,NH,
+3243,Stoke,Liverpool,NH,
+3244,Man United,Chelsea,H,
+3245,Wigan,Tottenham,H,
+3246,Man United,Wigan,H,
+3247,Blackburn,Newcastle,H,
+3248,Bolton,Man United,NH,
+3249,Chelsea,Stoke,H,
+3250,Hull,Arsenal,NH,
+3251,Man City,Wigan,H,
+3252,Sunderland,Aston Villa,NH,
+3253,West Brom,Middlesbrough,H,
+3254,Tottenham,Portsmouth,NH,
+3255,West Ham,Fulham,H,
+3256,Liverpool,Everton,NH,
+3257,Portsmouth,Aston Villa,NH,
+3258,Sunderland,Fulham,H,
+3259,Tottenham,Stoke,H,
+3260,West Brom,Man United,NH,
+3261,Blackburn,Bolton,NH,
+3262,Chelsea,Middlesbrough,H,
+3263,Everton,Arsenal,NH,
+3264,Man City,Newcastle,H,
+3265,West Ham,Hull,H,
+3266,Wigan,Liverpool,NH,
+3267,Arsenal,West Ham,NH,
+3268,Aston Villa,Wigan,NH,
+3269,Bolton,Tottenham,H,
+3270,Fulham,Portsmouth,H,
+3271,Hull,West Brom,NH,
+3272,Man United,Everton,H,
+3273,Middlesbrough,Blackburn,NH,
+3274,Stoke,Man City,H,
+3275,Liverpool,Chelsea,H,
+3276,Newcastle,Sunderland,NH,
+3277,Blackburn,Aston Villa,NH,
+3278,Chelsea,Hull,NH,
+3279,Everton,Bolton,H,
+3280,Man City,Middlesbrough,H,
+3281,Portsmouth,Liverpool,NH,
+3282,Sunderland,Stoke,H,
+3283,West Brom,Newcastle,NH,
+3284,Wigan,Fulham,NH,
+3285,Tottenham,Arsenal,NH,
+3286,West Ham,Man United,NH,
+3287,Portsmouth,Man City,H,
+3288,Man United,Fulham,H,
+3289,Arsenal,Sunderland,NH,
+3290,Aston Villa,Chelsea,NH,
+3291,Bolton,West Ham,H,
+3292,Man United,Blackburn,H,
+3293,Middlesbrough,Wigan,NH,
+3294,Stoke,Portsmouth,NH,
+3295,Fulham,West Brom,H,
+3296,Liverpool,Man City,NH,
+3297,Newcastle,Everton,NH,
+3298,Hull,Tottenham,NH,
+3299,Arsenal,Fulham,NH,
+3300,Chelsea,Wigan,H,
+3301,Everton,West Brom,H,
+3302,Middlesbrough,Liverpool,H,
+3303,Aston Villa,Stoke,NH,
+3304,Bolton,Newcastle,H,
+3305,Hull,Blackburn,NH,
+3306,West Ham,Man City,H,
+3307,Liverpool,Sunderland,H,
+3308,Portsmouth,Chelsea,NH,
+3309,West Brom,Arsenal,NH,
+3310,Blackburn,Everton,NH,
+3311,Fulham,Hull,NH,
+3312,Man City,Aston Villa,H,
+3313,Newcastle,Man United,NH,
+3314,Stoke,Bolton,H,
+3315,Tottenham,Middlesbrough,H,
+3316,Wigan,West Ham,NH,
+3317,Sunderland,Tottenham,NH,
+3318,Fulham,Blackburn,NH,
+3319,Arsenal,Blackburn,H,
+3320,Bolton,Fulham,NH,
+3321,Everton,Stoke,H,
+3322,Hull,Newcastle,NH,
+3323,Man United,Liverpool,NH,
+3324,Middlesbrough,Portsmouth,NH,
+3325,Sunderland,Wigan,NH,
+3326,Aston Villa,Tottenham,NH,
+3327,Chelsea,Man City,H,
+3328,West Ham,West Brom,NH,
+3329,Blackburn,West Ham,NH,
+3330,Fulham,Man United,H,
+3331,Newcastle,Arsenal,NH,
+3332,Portsmouth,Everton,H,
+3333,Stoke,Middlesbrough,H,
+3334,Tottenham,Chelsea,H,
+3335,West Brom,Bolton,NH,
+3336,Liverpool,Aston Villa,H,
+3337,Man City,Sunderland,H,
+3338,Wigan,Hull,H,
+3339,Arsenal,Man City,H,
+3340,Blackburn,Tottenham,H,
+3341,Bolton,Middlesbrough,H,
+3342,Fulham,Liverpool,NH,
+3343,Hull,Portsmouth,NH,
+3344,Newcastle,Chelsea,NH,
+3345,West Brom,Stoke,NH,
+3346,West Ham,Sunderland,H,
+3347,Everton,Wigan,H,
+3348,Man United,Aston Villa,H,
+3349,Chelsea,Bolton,H,
+3350,Liverpool,Blackburn,H,
+3351,Middlesbrough,Hull,H,
+3352,Portsmouth,West Brom,NH,
+3353,Stoke,Newcastle,NH,
+3354,Sunderland,Man United,NH,
+3355,Tottenham,West Ham,H,
+3356,Wigan,Arsenal,NH,
+3357,Aston Villa,Everton,NH,
+3358,Man City,Fulham,NH,
+3359,Aston Villa,West Ham,NH,
+3360,Middlesbrough,Fulham,NH,
+3361,Portsmouth,Bolton,H,
+3362,Stoke,Blackburn,H,
+3363,Sunderland,Hull,H,
+3364,Man City,West Brom,H,
+3365,Tottenham,Newcastle,H,
+3366,Liverpool,Arsenal,NH,
+3367,Chelsea,Everton,NH,
+3368,Man United,Portsmouth,H,
+3369,Bolton,Aston Villa,NH,
+3370,Everton,Man City,NH,
+3371,Fulham,Stoke,H,
+3372,Hull,Liverpool,NH,
+3373,Man United,Tottenham,H,
+3374,West Brom,Sunderland,H,
+3375,West Ham,Chelsea,NH,
+3376,Arsenal,Middlesbrough,H,
+3377,Blackburn,Wigan,H,
+3378,Newcastle,Portsmouth,NH,
+3379,Chelsea,Fulham,H,
+3380,Man City,Blackburn,H,
+3381,Middlesbrough,Man United,NH,
+3382,Portsmouth,Arsenal,NH,
+3383,Stoke,West Ham,NH,
+3384,Tottenham,West Brom,H,
+3385,Wigan,Bolton,NH,
+3386,Liverpool,Newcastle,H,
+3387,Sunderland,Everton,NH,
+3388,Aston Villa,Hull,H,
+3389,Blackburn,Portsmouth,H,
+3390,Bolton,Sunderland,NH,
+3391,Everton,Tottenham,NH,
+3392,Fulham,Aston Villa,H,
+3393,Hull,Stoke,NH,
+3394,West Brom,Wigan,H,
+3395,West Ham,Liverpool,NH,
+3396,Arsenal,Chelsea,NH,
+3397,Man United,Man City,H,
+3398,Newcastle,Middlesbrough,H,
+3399,Wigan,Man United,NH,
+3400,Bolton,Hull,NH,
+3401,Everton,West Ham,H,
+3402,Man United,Arsenal,NH,
+3403,Middlesbrough,Aston Villa,NH,
+3404,Newcastle,Fulham,NH,
+3405,Stoke,Wigan,H,
+3406,Tottenham,Man City,H,
+3407,Chelsea,Blackburn,H,
+3408,West Brom,Liverpool,NH,
+3409,Portsmouth,Sunderland,H,
+3410,Arsenal,Stoke,H,
+3411,Aston Villa,Newcastle,H,
+3412,Blackburn,West Brom,NH,
+3413,Fulham,Everton,NH,
+3414,Hull,Man United,NH,
+3415,Liverpool,Tottenham,H,
+3416,Man City,Bolton,H,
+3417,Sunderland,Chelsea,NH,
+3418,West Ham,Middlesbrough,H,
+3419,Wigan,Portsmouth,H,
+3420,Aston Villa,Wigan,NH,
+3421,Blackburn,Man City,NH,
+3422,Bolton,Sunderland,NH,
+3423,Chelsea,Hull,H,
+3424,Everton,Arsenal,NH,
+3425,Portsmouth,Fulham,NH,
+3426,Stoke,Burnley,H,
+3427,Wolves,West Ham,NH,
+3428,Man United,Birmingham,H,
+3429,Tottenham,Liverpool,H,
+3430,Sunderland,Chelsea,NH,
+3431,Wigan,Wolves,NH,
+3432,Birmingham,Portsmouth,H,
+3433,Burnley,Man United,H,
+3434,Hull,Tottenham,NH,
+3435,Liverpool,Stoke,H,
+3436,Arsenal,Portsmouth,H,
+3437,Birmingham,Stoke,NH,
+3438,Hull,Bolton,H,
+3439,Man City,Wolves,H,
+3440,Sunderland,Blackburn,H,
+3441,Wigan,Man United,NH,
+3442,Burnley,Everton,H,
+3443,Fulham,Chelsea,NH,
+3444,West Ham,Tottenham,NH,
+3445,Liverpool,Aston Villa,NH,
+3446,Blackburn,West Ham,NH,
+3447,Bolton,Liverpool,NH,
+3448,Chelsea,Burnley,H,
+3449,Man United,Arsenal,H,
+3450,Stoke,Sunderland,H,
+3451,Tottenham,Birmingham,H,
+3452,Wolves,Hull,NH,
+3453,Aston Villa,Fulham,H,
+3454,Everton,Wigan,H,
+3455,Portsmouth,Man City,NH,
+3456,Blackburn,Wolves,H,
+3457,Liverpool,Burnley,H,
+3458,Man City,Arsenal,H,
+3459,Portsmouth,Bolton,NH,
+3460,Stoke,Chelsea,NH,
+3461,Sunderland,Hull,H,
+3462,Tottenham,Man United,NH,
+3463,Wigan,West Ham,H,
+3464,Birmingham,Aston Villa,NH,
+3465,Fulham,Everton,H,
+3466,Arsenal,Wigan,H,
+3467,Aston Villa,Portsmouth,H,
+3468,Bolton,Stoke,NH,
+3469,Burnley,Sunderland,H,
+3470,Hull,Birmingham,NH,
+3471,West Ham,Liverpool,NH,
+3472,Chelsea,Tottenham,H,
+3473,Everton,Blackburn,H,
+3474,Man United,Man City,H,
+3475,Wolves,Fulham,H,
+3476,Birmingham,Bolton,NH,
+3477,Blackburn,Aston Villa,H,
+3478,Fulham,Arsenal,NH,
+3479,Liverpool,Hull,H,
+3480,Portsmouth,Everton,NH,
+3481,Stoke,Man United,NH,
+3482,Tottenham,Burnley,H,
+3483,Wigan,Chelsea,H,
+3484,Sunderland,Wolves,H,
+3485,Man City,West Ham,H,
+3486,Bolton,Tottenham,NH,
+3487,Burnley,Birmingham,H,
+3488,Hull,Wigan,H,
+3489,Man United,Sunderland,NH,
+3490,Wolves,Portsmouth,NH,
+3491,Arsenal,Blackburn,H,
+3492,Chelsea,Liverpool,H,
+3493,Everton,Stoke,NH,
+3494,West Ham,Fulham,NH,
+3495,Aston Villa,Man City,NH,
+3496,Arsenal,Birmingham,H,
+3497,Aston Villa,Chelsea,H,
+3498,Everton,Wolves,NH,
+3499,Man United,Bolton,H,
+3500,Portsmouth,Tottenham,NH,
+3501,Stoke,West Ham,H,
+3502,Sunderland,Liverpool,H,
+3503,Blackburn,Burnley,H,
+3504,Wigan,Man City,NH,
+3505,Fulham,Hull,H,
+3506,Birmingham,Sunderland,H,
+3507,Burnley,Wigan,NH,
+3508,Chelsea,Blackburn,H,
+3509,Hull,Portsmouth,NH,
+3510,Tottenham,Stoke,NH,
+3511,Wolves,Aston Villa,NH,
+3512,Bolton,Everton,H,
+3513,Liverpool,Man United,H,
+3514,Man City,Fulham,NH,
+3515,West Ham,Arsenal,NH,
+3516,Arsenal,Tottenham,H,
+3517,Bolton,Chelsea,NH,
+3518,Burnley,Hull,H,
+3519,Everton,Aston Villa,NH,
+3520,Fulham,Liverpool,H,
+3521,Man United,Blackburn,H,
+3522,Portsmouth,Wigan,H,
+3523,Stoke,Wolves,NH,
+3524,Sunderland,West Ham,NH,
+3525,Birmingham,Man City,NH,
+3526,West Ham,Aston Villa,H,
+3527,Aston Villa,Bolton,H,
+3528,Blackburn,Portsmouth,H,
+3529,Man City,Burnley,NH,
+3530,Tottenham,Sunderland,H,
+3531,Wolves,Arsenal,NH,
+3532,Chelsea,Man United,H,
+3533,Hull,Stoke,H,
+3534,West Ham,Everton,NH,
+3535,Wigan,Fulham,NH,
+3536,Liverpool,Birmingham,NH,
+3537,Birmingham,Fulham,H,
+3538,Burnley,Aston Villa,NH,
+3539,Chelsea,Wolves,H,
+3540,Hull,West Ham,NH,
+3541,Liverpool,Man City,NH,
+3542,Man United,Everton,H,
+3543,Sunderland,Arsenal,H,
+3544,Bolton,Blackburn,NH,
+3545,Stoke,Portsmouth,H,
+3546,Tottenham,Wigan,H,
+3547,Fulham,Blackburn,H,
+3548,Hull,Everton,H,
+3549,Aston Villa,Tottenham,NH,
+3550,Blackburn,Stoke,NH,
+3551,Fulham,Bolton,NH,
+3552,Man City,Hull,NH,
+3553,Portsmouth,Man United,NH,
+3554,West Ham,Burnley,H,
+3555,Wigan,Sunderland,H,
+3556,Arsenal,Chelsea,NH,
+3557,Everton,Liverpool,NH,
+3558,Wolves,Birmingham,NH,
+3559,Arsenal,Stoke,H,
+3560,Aston Villa,Hull,H,
+3561,Blackburn,Liverpool,NH,
+3562,Man City,Chelsea,H,
+3563,Portsmouth,Burnley,H,
+3564,West Ham,Man United,NH,
+3565,Wigan,Birmingham,NH,
+3566,Wolves,Bolton,H,
+3567,Everton,Tottenham,NH,
+3568,Fulham,Sunderland,H,
+3569,Birmingham,West Ham,H,
+3570,Bolton,Man City,NH,
+3571,Burnley,Fulham,NH,
+3572,Chelsea,Everton,NH,
+3573,Hull,Blackburn,NH,
+3574,Man United,Aston Villa,NH,
+3575,Stoke,Wigan,NH,
+3576,Sunderland,Portsmouth,NH,
+3577,Tottenham,Wolves,NH,
+3578,Liverpool,Arsenal,NH,
+3579,Birmingham,Blackburn,H,
+3580,Bolton,West Ham,H,
+3581,Man United,Wolves,H,
+3582,Sunderland,Aston Villa,NH,
+3583,Burnley,Arsenal,NH,
+3584,Chelsea,Portsmouth,H,
+3585,Liverpool,Wigan,H,
+3586,Tottenham,Man City,H,
+3587,Arsenal,Hull,H,
+3588,Aston Villa,Stoke,H,
+3589,Blackburn,Tottenham,NH,
+3590,Fulham,Man United,H,
+3591,Man City,Sunderland,H,
+3592,Portsmouth,Liverpool,H,
+3593,Everton,Birmingham,NH,
+3594,West Ham,Chelsea,NH,
+3595,Wolves,Burnley,H,
+3596,Birmingham,Chelsea,NH,
+3597,Burnley,Bolton,NH,
+3598,Fulham,Tottenham,NH,
+3599,Liverpool,Wolves,H,
+3600,Man City,Stoke,H,
+3601,Sunderland,Everton,NH,
+3602,West Ham,Portsmouth,H,
+3603,Wigan,Blackburn,NH,
+3604,Arsenal,Aston Villa,H,
+3605,Hull,Man United,NH,
+3606,Blackburn,Sunderland,NH,
+3607,Chelsea,Fulham,H,
+3608,Everton,Burnley,H,
+3609,Stoke,Birmingham,NH,
+3610,Tottenham,West Ham,H,
+3611,Wolves,Man City,NH,
+3612,Aston Villa,Liverpool,NH,
+3613,Bolton,Hull,NH,
+3614,Man United,Wigan,H,
+3615,Portsmouth,Arsenal,NH,
+3616,Stoke,Fulham,H,
+3617,Arsenal,Everton,NH,
+3618,Birmingham,Man United,NH,
+3619,Man City,Blackburn,H,
+3620,Chelsea,Sunderland,H,
+3621,Everton,Man City,H,
+3622,Man United,Burnley,H,
+3623,Stoke,Liverpool,NH,
+3624,Tottenham,Hull,NH,
+3625,Wolves,Wigan,NH,
+3626,Aston Villa,West Ham,NH,
+3627,Blackburn,Fulham,H,
+3628,Bolton,Arsenal,NH,
+3629,Arsenal,Bolton,H,
+3630,Liverpool,Tottenham,H,
+3631,Man United,Hull,H,
+3632,Bolton,Burnley,H,
+3633,Portsmouth,West Ham,NH,
+3634,Tottenham,Fulham,H,
+3635,Wolves,Liverpool,NH,
+3636,Aston Villa,Arsenal,NH,
+3637,Blackburn,Wigan,H,
+3638,Chelsea,Birmingham,H,
+3639,Everton,Sunderland,H,
+3640,Birmingham,Tottenham,NH,
+3641,Burnley,Chelsea,NH,
+3642,Fulham,Aston Villa,NH,
+3643,Hull,Wolves,NH,
+3644,Liverpool,Bolton,H,
+3645,West Ham,Blackburn,NH,
+3646,Wigan,Everton,NH,
+3647,Arsenal,Man United,NH,
+3648,Man City,Portsmouth,H,
+3649,Sunderland,Stoke,NH,
+3650,Hull,Chelsea,NH,
+3651,Fulham,Portsmouth,H,
+3652,Bolton,Fulham,NH,
+3653,Burnley,West Ham,H,
+3654,Hull,Man City,H,
+3655,Liverpool,Everton,H,
+3656,Man United,Portsmouth,H,
+3657,Stoke,Blackburn,H,
+3658,Sunderland,Wigan,NH,
+3659,Tottenham,Aston Villa,NH,
+3660,Birmingham,Wolves,H,
+3661,Chelsea,Arsenal,H,
+3662,Fulham,Burnley,H,
+3663,Man City,Bolton,H,
+3664,Portsmouth,Sunderland,NH,
+3665,Wigan,Stoke,NH,
+3666,Arsenal,Liverpool,H,
+3667,Aston Villa,Man United,NH,
+3668,Blackburn,Hull,H,
+3669,Everton,Chelsea,H,
+3670,West Ham,Birmingham,H,
+3671,Wolves,Tottenham,H,
+3672,Stoke,Man City,NH,
+3673,Wigan,Bolton,NH,
+3674,Arsenal,Sunderland,H,
+3675,Everton,Man United,H,
+3676,Portsmouth,Stoke,NH,
+3677,West Ham,Hull,H,
+3678,Wolves,Chelsea,NH,
+3679,Aston Villa,Burnley,H,
+3680,Blackburn,Bolton,H,
+3681,Fulham,Birmingham,H,
+3682,Man City,Liverpool,NH,
+3683,Wigan,Tottenham,NH,
+3684,Man United,West Ham,H,
+3685,Birmingham,Wigan,H,
+3686,Bolton,Wolves,H,
+3687,Burnley,Portsmouth,NH,
+3688,Chelsea,Man City,NH,
+3689,Stoke,Arsenal,NH,
+3690,Liverpool,Blackburn,H,
+3691,Sunderland,Fulham,NH,
+3692,Tottenham,Everton,H,
+3693,Arsenal,Burnley,H,
+3694,West Ham,Bolton,NH,
+3695,Wolves,Man United,NH,
+3696,Everton,Hull,H,
+3697,Wigan,Liverpool,H,
+3698,Portsmouth,Birmingham,NH,
+3699,Sunderland,Bolton,H,
+3700,Burnley,Stoke,NH,
+3701,Birmingham,Everton,NH,
+3702,Bolton,Wigan,H,
+3703,Burnley,Wolves,NH,
+3704,Chelsea,West Ham,H,
+3705,Hull,Arsenal,NH,
+3706,Stoke,Aston Villa,NH,
+3707,Tottenham,Blackburn,H,
+3708,Man United,Fulham,H,
+3709,Sunderland,Man City,NH,
+3710,Liverpool,Portsmouth,H,
+3711,Wigan,Aston Villa,NH,
+3712,Arsenal,West Ham,H,
+3713,Aston Villa,Wolves,NH,
+3714,Everton,Bolton,H,
+3715,Portsmouth,Hull,H,
+3716,Stoke,Tottenham,NH,
+3717,Sunderland,Birmingham,H,
+3718,Wigan,Burnley,H,
+3719,Blackburn,Chelsea,NH,
+3720,Fulham,Man City,NH,
+3721,Man United,Liverpool,H,
+3722,West Ham,Wolves,NH,
+3723,Aston Villa,Sunderland,NH,
+3724,Blackburn,Birmingham,H,
+3725,Man City,Everton,NH,
+3726,Portsmouth,Chelsea,NH,
+3727,Birmingham,Arsenal,NH,
+3728,Bolton,Man United,NH,
+3729,Chelsea,Aston Villa,H,
+3730,Hull,Fulham,H,
+3731,Tottenham,Portsmouth,H,
+3732,West Ham,Stoke,NH,
+3733,Wolves,Everton,NH,
+3734,Burnley,Blackburn,NH,
+3735,Liverpool,Sunderland,H,
+3736,Man City,Wigan,H,
+3737,Arsenal,Wolves,H,
+3738,Bolton,Aston Villa,NH,
+3739,Burnley,Man City,NH,
+3740,Man United,Chelsea,NH,
+3741,Portsmouth,Blackburn,NH,
+3742,Stoke,Hull,H,
+3743,Sunderland,Tottenham,H,
+3744,Birmingham,Liverpool,NH,
+3745,Everton,West Ham,NH,
+3746,Fulham,Wigan,H,
+3747,Hull,Burnley,NH,
+3748,West Ham,Sunderland,H,
+3749,Blackburn,Man United,NH,
+3750,Liverpool,Fulham,NH,
+3751,Man City,Birmingham,H,
+3752,Wolves,Stoke,NH,
+3753,Chelsea,Bolton,H,
+3754,Aston Villa,Everton,NH,
+3755,Tottenham,Arsenal,H,
+3756,Wigan,Portsmouth,NH,
+3757,Birmingham,Hull,NH,
+3758,Blackburn,Everton,NH,
+3759,Fulham,Wolves,NH,
+3760,Man City,Man United,NH,
+3761,Stoke,Bolton,NH,
+3762,Sunderland,Burnley,H,
+3763,Tottenham,Chelsea,H,
+3764,Portsmouth,Aston Villa,NH,
+3765,Wigan,Arsenal,H,
+3766,Liverpool,West Ham,H,
+3767,Hull,Aston Villa,NH,
+3768,Arsenal,Man City,NH,
+3769,Bolton,Portsmouth,NH,
+3770,Hull,Sunderland,NH,
+3771,Man United,Tottenham,H,
+3772,West Ham,Wigan,H,
+3773,Wolves,Blackburn,NH,
+3774,Aston Villa,Birmingham,H,
+3775,Burnley,Liverpool,NH,
+3776,Chelsea,Stoke,H,
+3777,Everton,Fulham,H,
+3778,Birmingham,Burnley,H,
+3779,Man City,Aston Villa,H,
+3780,Portsmouth,Wolves,H,
+3781,Stoke,Everton,NH,
+3782,Tottenham,Bolton,H,
+3783,Fulham,West Ham,H,
+3784,Liverpool,Chelsea,NH,
+3785,Sunderland,Man United,NH,
+3786,Blackburn,Arsenal,H,
+3787,Wigan,Hull,NH,
+3788,Fulham,Stoke,NH,
+3789,Man City,Tottenham,NH,
+3790,Arsenal,Fulham,H,
+3791,Aston Villa,Blackburn,NH,
+3792,Bolton,Birmingham,H,
+3793,Burnley,Tottenham,H,
+3794,Chelsea,Wigan,H,
+3795,Everton,Portsmouth,H,
+3796,Hull,Liverpool,NH,
+3797,Man United,Stoke,H,
+3798,West Ham,Man City,NH,
+3799,Wolves,Sunderland,H,
+3800,Aston Villa,West Ham,H,
+3801,Blackburn,Everton,H,
+3802,Bolton,Fulham,NH,
+3803,Chelsea,West Brom,H,
+3804,Sunderland,Birmingham,NH,
+3805,Tottenham,Man City,NH,
+3806,Wigan,Blackpool,NH,
+3807,Wolves,Stoke,H,
+3808,Liverpool,Arsenal,NH,
+3809,Man United,Newcastle,H,
+3810,Arsenal,Blackpool,H,
+3811,Birmingham,Blackburn,H,
+3812,Everton,Wolves,NH,
+3813,Stoke,Tottenham,NH,
+3814,West Brom,Sunderland,H,
+3815,West Ham,Bolton,NH,
+3816,Wigan,Chelsea,NH,
+3817,Fulham,Man United,NH,
+3818,Newcastle,Aston Villa,H,
+3819,Man City,Liverpool,H,
+3820,Blackburn,Arsenal,NH,
+3821,Blackpool,Fulham,NH,
+3822,Chelsea,Stoke,H,
+3823,Man United,West Ham,H,
+3824,Tottenham,Wigan,NH,
+3825,Wolves,Newcastle,NH,
+3826,Aston Villa,Everton,H,
+3827,Bolton,Birmingham,NH,
+3828,Liverpool,West Brom,H,
+3829,Sunderland,Man City,H,
+3830,Arsenal,Bolton,H,
+3831,Everton,Man United,NH,
+3832,Fulham,Wolves,H,
+3833,Man City,Blackburn,NH,
+3834,Newcastle,Blackpool,NH,
+3835,West Brom,Tottenham,NH,
+3836,West Ham,Chelsea,NH,
+3837,Wigan,Sunderland,NH,
+3838,Birmingham,Liverpool,NH,
+3839,Stoke,Aston Villa,H,
+3840,Aston Villa,Bolton,NH,
+3841,Blackburn,Fulham,NH,
+3842,Everton,Newcastle,NH,
+3843,Stoke,West Ham,NH,
+3844,Sunderland,Arsenal,NH,
+3845,Tottenham,Wolves,H,
+3846,West Brom,Birmingham,H,
+3847,Chelsea,Blackpool,H,
+3848,Man United,Liverpool,H,
+3849,Wigan,Man City,NH,
+3850,Arsenal,West Brom,NH,
+3851,Birmingham,Wigan,NH,
+3852,Blackpool,Blackburn,NH,
+3853,Fulham,Everton,NH,
+3854,Liverpool,Sunderland,NH,
+3855,Man City,Chelsea,H,
+3856,West Ham,Tottenham,H,
+3857,Bolton,Man United,NH,
+3858,Newcastle,Stoke,NH,
+3859,Wolves,Aston Villa,NH,
+3860,Birmingham,Everton,NH,
+3861,Stoke,Blackburn,H,
+3862,Sunderland,Man United,NH,
+3863,Tottenham,Aston Villa,H,
+3864,West Brom,Bolton,NH,
+3865,West Ham,Fulham,NH,
+3866,Wigan,Wolves,H,
+3867,Chelsea,Arsenal,H,
+3868,Liverpool,Blackpool,NH,
+3869,Man City,Newcastle,H,
+3870,Arsenal,Birmingham,H,
+3871,Aston Villa,Chelsea,NH,
+3872,Bolton,Stoke,H,
+3873,Fulham,Tottenham,NH,
+3874,Man United,West Brom,NH,
+3875,Newcastle,Wigan,NH,
+3876,Wolves,West Ham,NH,
+3877,Blackpool,Man City,NH,
+3878,Everton,Liverpool,H,
+3879,Blackburn,Sunderland,NH,
+3880,Birmingham,Blackpool,H,
+3881,Chelsea,Wolves,H,
+3882,Sunderland,Aston Villa,H,
+3883,Tottenham,Everton,NH,
+3884,West Brom,Fulham,H,
+3885,West Ham,Newcastle,NH,
+3886,Wigan,Bolton,NH,
+3887,Liverpool,Blackburn,H,
+3888,Man City,Arsenal,NH,
+3889,Stoke,Man United,NH,
+3890,Arsenal,West Ham,H,
+3891,Blackburn,Chelsea,NH,
+3892,Everton,Stoke,H,
+3893,Fulham,Wigan,H,
+3894,Man United,Tottenham,H,
+3895,Wolves,Man City,H,
+3896,Aston Villa,Birmingham,NH,
+3897,Bolton,Liverpool,NH,
+3898,Newcastle,Sunderland,H,
+3899,Blackpool,West Brom,H,
+3900,Birmingham,West Ham,NH,
+3901,Blackburn,Wigan,H,
+3902,Blackpool,Everton,NH,
+3903,Bolton,Tottenham,H,
+3904,Fulham,Aston Villa,NH,
+3905,Man United,Wolves,H,
+3906,Sunderland,Stoke,H,
+3907,Arsenal,Newcastle,NH,
+3908,Liverpool,Chelsea,H,
+3909,West Brom,Man City,NH,
+3910,Stoke,Birmingham,H,
+3911,Tottenham,Sunderland,NH,
+3912,Aston Villa,Blackpool,H,
+3913,Chelsea,Fulham,H,
+3914,Everton,Bolton,NH,
+3915,Man City,Man United,NH,
+3916,Newcastle,Blackburn,NH,
+3917,West Ham,West Brom,NH,
+3918,Wigan,Liverpool,NH,
+3919,Wolves,Arsenal,NH,
+3920,Aston Villa,Man United,NH,
+3921,Man City,Birmingham,NH,
+3922,Newcastle,Fulham,NH,
+3923,Stoke,Liverpool,H,
+3924,Tottenham,Blackburn,H,
+3925,West Ham,Blackpool,NH,
+3926,Wigan,West Brom,H,
+3927,Wolves,Bolton,NH,
+3928,Chelsea,Sunderland,NH,
+3929,Everton,Arsenal,NH,
+3930,Arsenal,Tottenham,NH,
+3931,Birmingham,Chelsea,H,
+3932,Blackpool,Wolves,H,
+3933,Bolton,Newcastle,H,
+3934,Liverpool,West Ham,H,
+3935,Man United,Wigan,H,
+3936,West Brom,Stoke,NH,
+3937,Blackburn,Aston Villa,H,
+3938,Fulham,Man City,NH,
+3939,Sunderland,Everton,NH,
+3940,Aston Villa,Arsenal,NH,
+3941,Bolton,Blackpool,NH,
+3942,Everton,West Brom,NH,
+3943,Fulham,Birmingham,NH,
+3944,Man United,Blackburn,H,
+3945,Stoke,Man City,NH,
+3946,West Ham,Wigan,H,
+3947,Wolves,Sunderland,H,
+3948,Newcastle,Chelsea,NH,
+3949,Tottenham,Liverpool,H,
+3950,Arsenal,Fulham,H,
+3951,Birmingham,Tottenham,NH,
+3952,Blackburn,Wolves,H,
+3953,Chelsea,Everton,NH,
+3954,Man City,Bolton,H,
+3955,Wigan,Stoke,NH,
+3956,Sunderland,West Ham,H,
+3957,West Brom,Newcastle,H,
+3958,Liverpool,Aston Villa,H,
+3959,Aston Villa,West Brom,H,
+3960,Everton,Wigan,NH,
+3961,Fulham,Sunderland,NH,
+3962,Newcastle,Liverpool,H,
+3963,Stoke,Blackpool,NH,
+3964,West Ham,Man City,NH,
+3965,Bolton,Blackburn,H,
+3966,Tottenham,Chelsea,NH,
+3967,Wolves,Birmingham,H,
+3968,Man United,Arsenal,H,
+3969,Blackburn,West Ham,NH,
+3970,Sunderland,Bolton,H,
+3971,Man City,Everton,NH,
+3972,Aston Villa,Tottenham,NH,
+3973,Blackburn,Stoke,NH,
+3974,Bolton,West Brom,H,
+3975,Fulham,West Ham,NH,
+3976,Man United,Sunderland,H,
+3977,Newcastle,Man City,NH,
+3978,Wolves,Wigan,NH,
+3979,Arsenal,Chelsea,H,
+3980,Birmingham,Man United,NH,
+3981,Man City,Aston Villa,H,
+3982,Stoke,Fulham,NH,
+3983,Sunderland,Blackpool,NH,
+3984,Tottenham,Newcastle,H,
+3985,West Brom,Blackburn,NH,
+3986,West Ham,Everton,NH,
+3987,Chelsea,Bolton,H,
+3988,Liverpool,Wolves,NH,
+3989,Wigan,Arsenal,NH,
+3990,Birmingham,Arsenal,NH,
+3991,Liverpool,Bolton,H,
+3992,Man City,Blackpool,H,
+3993,Stoke,Everton,H,
+3994,Sunderland,Blackburn,H,
+3995,Tottenham,Fulham,H,
+3996,West Brom,Man United,NH,
+3997,West Ham,Wolves,H,
+3998,Chelsea,Aston Villa,NH,
+3999,Wigan,Newcastle,NH,
+4000,Blackpool,Birmingham,NH,
+4001,Fulham,West Brom,H,
+4002,Man United,Stoke,H,
+4003,Arsenal,Man City,NH,
+4004,Aston Villa,Sunderland,NH,
+4005,Blackburn,Liverpool,H,
+4006,Bolton,Wigan,NH,
+4007,Everton,Tottenham,H,
+4008,Newcastle,West Ham,H,
+4009,Wolves,Chelsea,H,
+4010,Blackpool,Liverpool,H,
+4011,Chelsea,Blackburn,H,
+4012,Man City,Wolves,H,
+4013,Stoke,Bolton,H,
+4014,West Brom,Blackpool,H,
+4015,West Ham,Arsenal,NH,
+4016,Wigan,Fulham,NH,
+4017,Birmingham,Aston Villa,NH,
+4018,Liverpool,Everton,NH,
+4019,Sunderland,Newcastle,NH,
+4020,Tottenham,Man United,NH,
+4021,Arsenal,Wigan,H,
+4022,Aston Villa,Man City,H,
+4023,Blackpool,Sunderland,NH,
+4024,Everton,West Ham,NH,
+4025,Fulham,Stoke,H,
+4026,Man United,Birmingham,H,
+4027,Newcastle,Tottenham,NH,
+4028,Wolves,Liverpool,NH,
+4029,Blackburn,West Brom,H,
+4030,Bolton,Chelsea,NH,
+4031,Blackpool,Man United,NH,
+4032,Wigan,Aston Villa,NH,
+4033,Liverpool,Fulham,H,
+4034,Arsenal,Everton,H,
+4035,Man United,Aston Villa,H,
+4036,Sunderland,Chelsea,NH,
+4037,West Brom,Wigan,NH,
+4038,Birmingham,Man City,NH,
+4039,Blackburn,Tottenham,NH,
+4040,Blackpool,West Ham,NH,
+4041,Bolton,Wolves,H,
+4042,Fulham,Newcastle,H,
+4043,Liverpool,Stoke,H,
+4044,Aston Villa,Fulham,NH,
+4045,Everton,Blackpool,H,
+4046,Man City,West Brom,H,
+4047,Newcastle,Arsenal,NH,
+4048,Stoke,Sunderland,H,
+4049,Tottenham,Bolton,H,
+4050,Wigan,Blackburn,H,
+4051,Wolves,Man United,H,
+4052,Chelsea,Liverpool,NH,
+4053,West Ham,Birmingham,NH,
+4054,Arsenal,Wolves,H,
+4055,Birmingham,Stoke,H,
+4056,Blackburn,Newcastle,NH,
+4057,Blackpool,Aston Villa,NH,
+4058,Liverpool,Wigan,NH,
+4059,Man United,Man City,H,
+4060,Sunderland,Tottenham,NH,
+4061,West Brom,West Ham,NH,
+4062,Bolton,Everton,H,
+4063,Fulham,Chelsea,NH,
+4064,Birmingham,Newcastle,NH,
+4065,West Brom,Wolves,NH,
+4066,Blackpool,Tottenham,H,
+4067,Arsenal,Stoke,H,
+4068,Aston Villa,Blackburn,H,
+4069,Everton,Sunderland,H,
+4070,Newcastle,Bolton,NH,
+4071,Wigan,Man United,NH,
+4072,Wolves,Blackpool,H,
+4073,Man City,Fulham,NH,
+4074,West Ham,Liverpool,H,
+4075,Stoke,West Brom,NH,
+4076,Chelsea,Man United,H,
+4077,Arsenal,Sunderland,NH,
+4078,Birmingham,West Brom,NH,
+4079,Bolton,Aston Villa,H,
+4080,Fulham,Blackburn,H,
+4081,Man City,Wigan,H,
+4082,Newcastle,Everton,NH,
+4083,West Ham,Stoke,H,
+4084,Liverpool,Man United,H,
+4085,Wolves,Tottenham,NH,
+4086,Blackpool,Chelsea,NH,
+4087,Everton,Birmingham,NH,
+4088,Aston Villa,Wolves,NH,
+4089,Blackburn,Blackpool,NH,
+4090,Everton,Fulham,H,
+4091,Man United,Bolton,H,
+4092,Stoke,Newcastle,H,
+4093,Tottenham,West Ham,NH,
+4094,West Brom,Arsenal,NH,
+4095,Wigan,Birmingham,H,
+4096,Chelsea,Man City,H,
+4097,Sunderland,Liverpool,NH,
+4098,Arsenal,Blackburn,NH,
+4099,Birmingham,Bolton,H,
+4100,Everton,Aston Villa,NH,
+4101,Newcastle,Wolves,H,
+4102,Stoke,Chelsea,NH,
+4103,West Brom,Liverpool,H,
+4104,West Ham,Man United,NH,
+4105,Wigan,Tottenham,NH,
+4106,Fulham,Blackpool,H,
+4107,Man City,Sunderland,H,
+4108,Blackburn,Birmingham,NH,
+4109,Bolton,West Ham,H,
+4110,Chelsea,Wigan,H,
+4111,Man United,Fulham,H,
+4112,Sunderland,West Brom,NH,
+4113,Tottenham,Stoke,H,
+4114,Wolves,Everton,NH,
+4115,Aston Villa,Newcastle,H,
+4116,Blackpool,Arsenal,NH,
+4117,Liverpool,Man City,H,
+4118,Birmingham,Sunderland,H,
+4119,Blackpool,Wigan,NH,
+4120,Everton,Blackburn,H,
+4121,West Brom,Chelsea,NH,
+4122,West Ham,Aston Villa,NH,
+4123,Arsenal,Liverpool,NH,
+4124,Newcastle,Man United,NH,
+4125,Chelsea,Birmingham,H,
+4126,Tottenham,Arsenal,NH,
+4127,Aston Villa,Stoke,NH,
+4128,Blackpool,Newcastle,NH,
+4129,Chelsea,West Ham,H,
+4130,Liverpool,Birmingham,H,
+4131,Man United,Everton,H,
+4132,Sunderland,Wigan,H,
+4133,Tottenham,West Brom,NH,
+4134,Wolves,Fulham,NH,
+4135,Bolton,Arsenal,H,
+4136,Blackburn,Man City,NH,
+4137,Stoke,Wolves,H,
+4138,Fulham,Bolton,H,
+4139,Blackburn,Bolton,H,
+4140,Blackpool,Stoke,NH,
+4141,Chelsea,Tottenham,H,
+4142,Sunderland,Fulham,NH,
+4143,West Brom,Aston Villa,H,
+4144,Wigan,Everton,NH,
+4145,Arsenal,Man United,H,
+4146,Birmingham,Wolves,NH,
+4147,Liverpool,Newcastle,H,
+4148,Man City,West Ham,H,
+4149,Aston Villa,Wigan,NH,
+4150,Bolton,Sunderland,NH,
+4151,Everton,Man City,H,
+4152,Newcastle,Birmingham,H,
+4153,Tottenham,Blackpool,NH,
+4154,West Ham,Blackburn,NH,
+4155,Man United,Chelsea,H,
+4156,Stoke,Arsenal,H,
+4157,Wolves,West Brom,H,
+4158,Fulham,Liverpool,NH,
+4159,Man City,Tottenham,H,
+4160,Blackburn,Man United,NH,
+4161,Blackpool,Bolton,H,
+4162,Sunderland,Wolves,NH,
+4163,West Brom,Everton,H,
+4164,Arsenal,Aston Villa,NH,
+4165,Birmingham,Fulham,NH,
+4166,Chelsea,Newcastle,NH,
+4167,Liverpool,Tottenham,NH,
+4168,Wigan,West Ham,H,
+4169,Man City,Stoke,H,
+4170,Aston Villa,Liverpool,H,
+4171,Bolton,Man City,NH,
+4172,Everton,Chelsea,H,
+4173,Fulham,Arsenal,NH,
+4174,Man United,Blackpool,H,
+4175,Newcastle,West Brom,NH,
+4176,Stoke,Wigan,NH,
+4177,Tottenham,Birmingham,H,
+4178,West Ham,Sunderland,NH,
+4179,Wolves,Blackburn,NH,
+4180,Blackburn,Wolves,NH,
+4181,Fulham,Aston Villa,NH,
+4182,Liverpool,Sunderland,NH,
+4183,Newcastle,Arsenal,NH,
+4184,QPR,Bolton,NH,
+4185,Wigan,Norwich,NH,
+4186,Stoke,Chelsea,NH,
+4187,West Brom,Man United,NH,
+4188,Man City,Swansea,H,
+4189,Arsenal,Liverpool,NH,
+4190,Aston Villa,Blackburn,H,
+4191,Chelsea,West Brom,H,
+4192,Everton,QPR,NH,
+4193,Sunderland,Newcastle,NH,
+4194,Swansea,Wigan,NH,
+4195,Bolton,Man City,NH,
+4196,Norwich,Stoke,NH,
+4197,Wolves,Fulham,H,
+4198,Man United,Tottenham,H,
+4199,Aston Villa,Wolves,NH,
+4200,Blackburn,Everton,NH,
+4201,Chelsea,Norwich,H,
+4202,Liverpool,Bolton,H,
+4203,Swansea,Sunderland,NH,
+4204,Wigan,QPR,H,
+4205,Man United,Arsenal,H,
+4206,Newcastle,Fulham,H,
+4207,Tottenham,Man City,NH,
+4208,West Brom,Stoke,NH,
+4209,Arsenal,Swansea,H,
+4210,Bolton,Man United,NH,
+4211,Everton,Aston Villa,NH,
+4212,Man City,Wigan,H,
+4213,Stoke,Liverpool,H,
+4214,Sunderland,Chelsea,NH,
+4215,Wolves,Tottenham,NH,
+4216,Fulham,Blackburn,NH,
+4217,Norwich,West Brom,NH,
+4218,QPR,Newcastle,NH,
+4219,Aston Villa,Newcastle,NH,
+4220,Blackburn,Arsenal,H,
+4221,Bolton,Norwich,NH,
+4222,Everton,Wigan,H,
+4223,Swansea,West Brom,H,
+4224,Wolves,QPR,NH,
+4225,Fulham,Man City,NH,
+4226,Man United,Chelsea,H,
+4227,Sunderland,Stoke,H,
+4228,Tottenham,Liverpool,H,
+4229,Arsenal,Bolton,H,
+4230,Chelsea,Swansea,H,
+4231,Liverpool,Wolves,H,
+4232,Man City,Everton,H,
+4233,Newcastle,Blackburn,H,
+4234,Stoke,Man United,NH,
+4235,West Brom,Fulham,NH,
+4236,Wigan,Tottenham,NH,
+4237,QPR,Aston Villa,NH,
+4238,Norwich,Sunderland,H,
+4239,Aston Villa,Wigan,H,
+4240,Blackburn,Man City,NH,
+4241,Everton,Liverpool,NH,
+4242,Man United,Norwich,H,
+4243,Sunderland,West Brom,NH,
+4244,Wolves,Newcastle,NH,
+4245,Bolton,Chelsea,NH,
+4246,Fulham,QPR,H,
+4247,Swansea,Stoke,H,
+4248,Tottenham,Arsenal,H,
+4249,Chelsea,Everton,H,
+4250,Liverpool,Man United,NH,
+4251,Man City,Aston Villa,H,
+4252,Norwich,Swansea,H,
+4253,QPR,Blackburn,NH,
+4254,Stoke,Fulham,H,
+4255,Wigan,Bolton,NH,
+4256,Arsenal,Sunderland,H,
+4257,Newcastle,Tottenham,NH,
+4258,West Brom,Wolves,H,
+4259,Aston Villa,West Brom,NH,
+4260,Bolton,Sunderland,NH,
+4261,Liverpool,Norwich,NH,
+4262,Newcastle,Wigan,H,
+4263,Wolves,Swansea,NH,
+4264,Arsenal,Stoke,H,
+4265,Blackburn,Tottenham,NH,
+4266,Fulham,Everton,NH,
+4267,Man United,Man City,NH,
+4268,QPR,Chelsea,H,
+4269,Chelsea,Arsenal,NH,
+4270,Everton,Man United,NH,
+4271,Man City,Wolves,H,
+4272,Norwich,Blackburn,NH,
+4273,Sunderland,Aston Villa,NH,
+4274,Swansea,Bolton,H,
+4275,West Brom,Liverpool,NH,
+4276,Wigan,Fulham,NH,
+4277,Tottenham,QPR,H,
+4278,Stoke,Newcastle,NH,
+4279,Arsenal,West Brom,H,
+4280,Aston Villa,Norwich,H,
+4281,Blackburn,Chelsea,NH,
+4282,Liverpool,Swansea,NH,
+4283,Man United,Sunderland,H,
+4284,Newcastle,Everton,H,
+4285,QPR,Man City,NH,
+4286,Bolton,Stoke,H,
+4287,Fulham,Tottenham,NH,
+4288,Wolves,Wigan,H,
+4289,Everton,Wolves,H,
+4290,Man City,Newcastle,H,
+4291,Norwich,Arsenal,NH,
+4292,Stoke,QPR,NH,
+4293,Sunderland,Fulham,NH,
+4294,Swansea,Man United,NH,
+4295,West Brom,Bolton,H,
+4296,Wigan,Blackburn,NH,
+4297,Chelsea,Liverpool,NH,
+4298,Tottenham,Aston Villa,H,
+4299,Arsenal,Fulham,NH,
+4300,Bolton,Everton,NH,
+4301,Chelsea,Wolves,H,
+4302,Man United,Newcastle,NH,
+4303,Norwich,QPR,H,
+4304,Stoke,Blackburn,H,
+4305,Sunderland,Wigan,NH,
+4306,West Brom,Tottenham,NH,
+4307,Liverpool,Man City,NH,
+4308,Swansea,Aston Villa,NH,
+4309,Aston Villa,Man United,NH,
+4310,Blackburn,Swansea,H,
+4311,Man City,Norwich,H,
+4312,Newcastle,Chelsea,NH,
+4313,QPR,West Brom,NH,
+4314,Tottenham,Bolton,H,
+4315,Wigan,Arsenal,NH,
+4316,Everton,Stoke,NH,
+4317,Wolves,Sunderland,H,
+4318,Fulham,Liverpool,H,
+4319,Arsenal,Everton,H,
+4320,Bolton,Aston Villa,NH,
+4321,Liverpool,QPR,H,
+4322,Man United,Wolves,H,
+4323,Norwich,Newcastle,H,
+4324,Swansea,Fulham,H,
+4325,West Brom,Wigan,NH,
+4326,Stoke,Tottenham,H,
+4327,Sunderland,Blackburn,H,
+4328,Chelsea,Man City,H,
+4329,Blackburn,West Brom,NH,
+4330,Everton,Norwich,NH,
+4331,Fulham,Bolton,H,
+4332,Newcastle,Swansea,NH,
+4333,Wigan,Chelsea,NH,
+4334,Wolves,Stoke,NH,
+4335,Aston Villa,Liverpool,NH,
+4336,Man City,Arsenal,H,
+4337,QPR,Man United,NH,
+4338,Tottenham,Sunderland,H,
+4339,Blackburn,Bolton,NH,
+4340,Wolves,Norwich,NH,
+4341,Aston Villa,Arsenal,NH,
+4342,Everton,Swansea,H,
+4343,Fulham,Man United,NH,
+4344,Man City,Stoke,H,
+4345,Newcastle,West Brom,NH,
+4346,QPR,Sunderland,NH,
+4347,Wigan,Liverpool,NH,
+4348,Tottenham,Chelsea,NH,
+4349,Bolton,Newcastle,NH,
+4350,Chelsea,Fulham,NH,
+4351,Liverpool,Blackburn,NH,
+4352,Man United,Wigan,H,
+4353,Stoke,Aston Villa,NH,
+4354,Sunderland,Everton,NH,
+4355,West Brom,Man City,NH,
+4356,Arsenal,Wolves,NH,
+4357,Norwich,Tottenham,NH,
+4358,Swansea,QPR,NH,
+4359,Liverpool,Newcastle,H,
+4360,Arsenal,QPR,H,
+4361,Bolton,Wolves,NH,
+4362,Chelsea,Aston Villa,NH,
+4363,Man United,Blackburn,NH,
+4364,Norwich,Fulham,NH,
+4365,Stoke,Wigan,NH,
+4366,Swansea,Tottenham,NH,
+4367,Sunderland,Man City,H,
+4368,West Brom,Everton,NH,
+4369,Aston Villa,Swansea,NH,
+4370,Blackburn,Stoke,NH,
+4371,Fulham,Arsenal,H,
+4372,QPR,Norwich,NH,
+4373,Wolves,Chelsea,NH,
+4374,Man City,Liverpool,H,
+4375,Tottenham,West Brom,H,
+4376,Wigan,Sunderland,NH,
+4377,Everton,Bolton,NH,
+4378,Newcastle,Man United,H,
+4379,Tottenham,Everton,H,
+4380,Aston Villa,Everton,NH,
+4381,Blackburn,Fulham,H,
+4382,Chelsea,Sunderland,H,
+4383,Liverpool,Stoke,NH,
+4384,Man United,Bolton,H,
+4385,Tottenham,Wolves,NH,
+4386,West Brom,Norwich,NH,
+4387,Newcastle,QPR,H,
+4388,Swansea,Arsenal,H,
+4389,Wigan,Man City,NH,
+4390,Bolton,Liverpool,H,
+4391,Everton,Blackburn,NH,
+4392,Fulham,Newcastle,H,
+4393,Norwich,Chelsea,NH,
+4394,QPR,Wigan,H,
+4395,Stoke,West Brom,NH,
+4396,Sunderland,Swansea,H,
+4397,Wolves,Aston Villa,NH,
+4398,Arsenal,Man United,NH,
+4399,Man City,Tottenham,H,
+4400,Everton,Man City,H,
+4401,Man United,Stoke,H,
+4402,Swansea,Chelsea,NH,
+4403,Tottenham,Wigan,H,
+4404,Wolves,Liverpool,NH,
+4405,Aston Villa,QPR,NH,
+4406,Blackburn,Newcastle,NH,
+4407,Bolton,Arsenal,NH,
+4408,Fulham,West Brom,NH,
+4409,Sunderland,Norwich,H,
+4410,Arsenal,Blackburn,H,
+4411,Man City,Fulham,H,
+4412,Norwich,Bolton,H,
+4413,QPR,Wolves,NH,
+4414,Stoke,Sunderland,NH,
+4415,West Brom,Swansea,NH,
+4416,Wigan,Everton,NH,
+4417,Chelsea,Man United,NH,
+4418,Newcastle,Aston Villa,H,
+4419,Liverpool,Tottenham,NH,
+4420,Blackburn,QPR,H,
+4421,Bolton,Wigan,NH,
+4422,Everton,Chelsea,H,
+4423,Fulham,Stoke,H,
+4424,Man United,Liverpool,H,
+4425,Sunderland,Arsenal,NH,
+4426,Swansea,Norwich,NH,
+4427,Tottenham,Newcastle,H,
+4428,Aston Villa,Man City,NH,
+4429,Wolves,West Brom,NH,
+4430,Chelsea,Bolton,H,
+4431,Man City,Blackburn,H,
+4432,Newcastle,Wolves,NH,
+4433,QPR,Fulham,NH,
+4434,West Brom,Sunderland,H,
+4435,Wigan,Aston Villa,NH,
+4436,Arsenal,Tottenham,H,
+4437,Norwich,Man United,NH,
+4438,Stoke,Swansea,H,
+4439,Blackburn,Aston Villa,NH,
+4440,Liverpool,Arsenal,NH,
+4441,Man City,Bolton,H,
+4442,QPR,Everton,NH,
+4443,Stoke,Norwich,H,
+4444,West Brom,Chelsea,H,
+4445,Wigan,Swansea,NH,
+4446,Fulham,Wolves,H,
+4447,Newcastle,Sunderland,NH,
+4448,Tottenham,Man United,NH,
+4449,Aston Villa,Fulham,H,
+4450,Bolton,QPR,H,
+4451,Chelsea,Stoke,H,
+4452,Everton,Tottenham,H,
+4453,Sunderland,Liverpool,H,
+4454,Wolves,Blackburn,NH,
+4455,Man United,West Brom,H,
+4456,Norwich,Wigan,NH,
+4457,Swansea,Man City,H,
+4458,Arsenal,Newcastle,H,
+4459,Liverpool,Everton,H,
+4460,Fulham,Swansea,NH,
+4461,Wigan,West Brom,NH,
+4462,Newcastle,Norwich,H,
+4463,Wolves,Man United,NH,
+4464,Blackburn,Sunderland,H,
+4465,Everton,Arsenal,NH,
+4466,Man City,Chelsea,H,
+4467,QPR,Liverpool,H,
+4468,Tottenham,Stoke,NH,
+4469,Arsenal,Aston Villa,H,
+4470,Bolton,Blackburn,H,
+4471,Chelsea,Tottenham,NH,
+4472,Liverpool,Wigan,NH,
+4473,Norwich,Wolves,H,
+4474,Stoke,Man City,NH,
+4475,Sunderland,QPR,H,
+4476,Swansea,Everton,NH,
+4477,West Brom,Newcastle,NH,
+4478,Man United,Fulham,H,
+4479,Aston Villa,Chelsea,NH,
+4480,Everton,West Brom,H,
+4481,Fulham,Norwich,H,
+4482,Man City,Sunderland,NH,
+4483,QPR,Arsenal,H,
+4484,Wigan,Stoke,H,
+4485,Wolves,Bolton,NH,
+4486,Newcastle,Liverpool,H,
+4487,Tottenham,Swansea,H,
+4488,Blackburn,Man United,NH,
+4489,Swansea,Newcastle,NH,
+4490,Bolton,Fulham,NH,
+4491,Chelsea,Wigan,H,
+4492,Liverpool,Aston Villa,NH,
+4493,Norwich,Everton,NH,
+4494,Stoke,Wolves,H,
+4495,Sunderland,Tottenham,NH,
+4496,West Brom,Blackburn,H,
+4497,Arsenal,Man City,H,
+4498,Man United,QPR,H,
+4499,Aston Villa,Stoke,NH,
+4500,Everton,Sunderland,H,
+4501,Fulham,Chelsea,NH,
+4502,Newcastle,Bolton,H,
+4503,Tottenham,Norwich,NH,
+4504,Blackburn,Liverpool,NH,
+4505,Man City,West Brom,H,
+4506,QPR,Swansea,H,
+4507,Wigan,Man United,H,
+4508,Wolves,Arsenal,NH,
+4509,Norwich,Man City,NH,
+4510,Sunderland,Wolves,NH,
+4511,Swansea,Blackburn,H,
+4512,West Brom,QPR,H,
+4513,Man United,Aston Villa,H,
+4514,Arsenal,Wigan,NH,
+4515,Arsenal,Chelsea,NH,
+4516,Aston Villa,Sunderland,NH,
+4517,Blackburn,Norwich,H,
+4518,Bolton,Swansea,NH,
+4519,Fulham,Wigan,H,
+4520,Newcastle,Stoke,H,
+4521,QPR,Tottenham,H,
+4522,Liverpool,West Brom,NH,
+4523,Man United,Everton,NH,
+4524,Wolves,Man City,NH,
+4525,Aston Villa,Bolton,NH,
+4526,Everton,Fulham,H,
+4527,Norwich,Liverpool,NH,
+4528,Stoke,Arsenal,NH,
+4529,Sunderland,Bolton,NH,
+4530,Swansea,Wolves,NH,
+4531,West Brom,Aston Villa,NH,
+4532,Wigan,Newcastle,H,
+4533,Chelsea,QPR,H,
+4534,Tottenham,Blackburn,H,
+4535,Man City,Man United,H,
+4536,Liverpool,Fulham,NH,
+4537,Stoke,Everton,NH,
+4538,Bolton,Tottenham,NH,
+4539,Chelsea,Newcastle,NH,
+4540,Arsenal,Norwich,NH,
+4541,Aston Villa,Tottenham,NH,
+4542,Bolton,West Brom,NH,
+4543,Fulham,Sunderland,H,
+4544,Man United,Swansea,H,
+4545,Newcastle,Man City,NH,
+4546,QPR,Stoke,H,
+4547,Wolves,Everton,NH,
+4548,Blackburn,Wigan,NH,
+4549,Liverpool,Chelsea,H,
+4550,Chelsea,Blackburn,H,
+4551,Everton,Newcastle,H,
+4552,Man City,QPR,H,
+4553,Norwich,Aston Villa,H,
+4554,Stoke,Bolton,NH,
+4555,Sunderland,Man United,NH,
+4556,Swansea,Liverpool,H,
+4557,Tottenham,Fulham,H,
+4558,West Brom,Arsenal,NH,
+4559,Wigan,Wolves,H,
+4560,Arsenal,Sunderland,NH,
+4561,Fulham,Norwich,H,
+4562,Newcastle,Tottenham,H,
+4563,QPR,Swansea,NH,
+4564,Reading,Stoke,NH,
+4565,West Brom,Liverpool,H,
+4566,West Ham,Aston Villa,H,
+4567,Man City,Southampton,H,
+4568,Wigan,Chelsea,NH,
+4569,Everton,Man United,H,
+4570,Chelsea,Reading,H,
+4571,Aston Villa,Everton,NH,
+4572,Chelsea,Newcastle,H,
+4573,Man United,Fulham,H,
+4574,Norwich,QPR,NH,
+4575,Southampton,Wigan,NH,
+4576,Swansea,West Ham,H,
+4577,Tottenham,West Brom,NH,
+4578,Liverpool,Man City,NH,
+4579,Stoke,Arsenal,NH,
+4580,Man City,QPR,H,
+4581,Swansea,Sunderland,NH,
+4582,Tottenham,Norwich,NH,
+4583,West Brom,Everton,H,
+4584,West Ham,Fulham,H,
+4585,Wigan,Stoke,NH,
+4586,Liverpool,Arsenal,NH,
+4587,Newcastle,Aston Villa,NH,
+4588,Southampton,Man United,NH,
+4589,Arsenal,Southampton,H,
+4590,Aston Villa,Swansea,H,
+4591,Fulham,West Brom,H,
+4592,Man United,Wigan,H,
+4593,Norwich,West Ham,NH,
+4594,QPR,Chelsea,NH,
+4595,Stoke,Man City,NH,
+4596,Sunderland,Liverpool,NH,
+4597,Reading,Tottenham,NH,
+4598,Everton,Newcastle,NH,
+4599,Chelsea,Stoke,H,
+4600,Southampton,Aston Villa,H,
+4601,Swansea,Everton,NH,
+4602,West Brom,Reading,H,
+4603,West Ham,Sunderland,NH,
+4604,Wigan,Fulham,NH,
+4605,Liverpool,Man United,NH,
+4606,Man City,Arsenal,NH,
+4607,Newcastle,Norwich,H,
+4608,Tottenham,QPR,H,
+4609,Arsenal,Chelsea,NH,
+4610,Everton,Southampton,H,
+4611,Fulham,Man City,NH,
+4612,Man United,Tottenham,NH,
+4613,Norwich,Liverpool,NH,
+4614,Reading,Newcastle,NH,
+4615,Stoke,Swansea,H,
+4616,Sunderland,Wigan,H,
+4617,Aston Villa,West Brom,NH,
+4618,QPR,West Ham,NH,
+4619,Chelsea,Norwich,H,
+4620,Man City,Sunderland,H,
+4621,Swansea,Reading,NH,
+4622,West Brom,QPR,H,
+4623,West Ham,Arsenal,NH,
+4624,Wigan,Everton,NH,
+4625,Liverpool,Stoke,NH,
+4626,Newcastle,Man United,NH,
+4627,Southampton,Fulham,NH,
+4628,Tottenham,Aston Villa,H,
+4629,Fulham,Aston Villa,H,
+4630,Liverpool,Reading,H,
+4631,Man United,Stoke,H,
+4632,Norwich,Arsenal,H,
+4633,Swansea,Wigan,H,
+4634,Tottenham,Chelsea,NH,
+4635,West Brom,Man City,NH,
+4636,West Ham,Southampton,H,
+4637,QPR,Everton,NH,
+4638,Sunderland,Newcastle,NH,
+4639,Arsenal,QPR,H,
+4640,Aston Villa,Norwich,NH,
+4641,Man City,Swansea,H,
+4642,Reading,Fulham,NH,
+4643,Stoke,Sunderland,NH,
+4644,Wigan,West Ham,H,
+4645,Chelsea,Man United,NH,
+4646,Everton,Liverpool,NH,
+4647,Newcastle,West Brom,H,
+4648,Southampton,Tottenham,NH,
+4649,Fulham,Everton,NH,
+4650,Man United,Arsenal,H,
+4651,Norwich,Stoke,H,
+4652,Sunderland,Aston Villa,NH,
+4653,Swansea,Chelsea,NH,
+4654,Tottenham,Wigan,NH,
+4655,West Ham,Man City,NH,
+4656,Liverpool,Newcastle,NH,
+4657,QPR,Reading,NH,
+4658,West Brom,Southampton,H,
+4659,Arsenal,Fulham,NH,
+4660,Aston Villa,Man United,NH,
+4661,Everton,Sunderland,H,
+4662,Reading,Norwich,NH,
+4663,Southampton,Swansea,NH,
+4664,Stoke,QPR,H,
+4665,Wigan,West Brom,NH,
+4666,Chelsea,Liverpool,NH,
+4667,Man City,Tottenham,H,
+4668,Newcastle,West Ham,NH,
+4669,Arsenal,Tottenham,H,
+4670,Liverpool,Wigan,H,
+4671,Man City,Aston Villa,H,
+4672,Newcastle,Swansea,NH,
+4673,Norwich,Man United,H,
+4674,QPR,Southampton,NH,
+4675,Reading,Everton,H,
+4676,West Brom,Chelsea,H,
+4677,Fulham,Sunderland,NH,
+4678,West Ham,Stoke,NH,
+4679,Aston Villa,Arsenal,NH,
+4680,Everton,Norwich,NH,
+4681,Man United,QPR,H,
+4682,Stoke,Fulham,H,
+4683,Sunderland,West Brom,NH,
+4684,Wigan,Reading,H,
+4685,Chelsea,Man City,NH,
+4686,Southampton,Newcastle,H,
+4687,Swansea,Liverpool,NH,
+4688,Tottenham,West Ham,H,
+4689,Aston Villa,Reading,H,
+4690,Sunderland,QPR,NH,
+4691,Chelsea,Fulham,NH,
+4692,Everton,Arsenal,NH,
+4693,Man United,West Ham,H,
+4694,Southampton,Norwich,NH,
+4695,Stoke,Newcastle,H,
+4696,Swansea,West Brom,H,
+4697,Tottenham,Liverpool,H,
+4698,Wigan,Man City,NH,
+4699,Arsenal,Swansea,NH,
+4700,Fulham,Tottenham,NH,
+4701,Liverpool,Southampton,H,
+4702,Man City,Everton,NH,
+4703,QPR,Aston Villa,NH,
+4704,Reading,Man United,NH,
+4705,West Brom,Stoke,NH,
+4706,West Ham,Chelsea,H,
+4707,Norwich,Sunderland,H,
+4708,Newcastle,Wigan,H,
+4709,Arsenal,West Brom,H,
+4710,Aston Villa,Stoke,NH,
+4711,Southampton,Reading,H,
+4712,Sunderland,Chelsea,NH,
+4713,Swansea,Norwich,NH,
+4714,Wigan,QPR,NH,
+4715,Everton,Tottenham,H,
+4716,Man City,Man United,NH,
+4717,West Ham,Liverpool,NH,
+4718,Fulham,Newcastle,H,
+4719,Sunderland,Reading,H,
+4720,Liverpool,Aston Villa,NH,
+4721,Man United,Sunderland,H,
+4722,Newcastle,Man City,NH,
+4723,Norwich,Wigan,H,
+4724,QPR,Fulham,H,
+4725,Stoke,Everton,NH,
+4726,Tottenham,Swansea,H,
+4727,West Brom,West Ham,NH,
+4728,Reading,Arsenal,NH,
+4729,Liverpool,Fulham,H,
+4730,Man City,Reading,H,
+4731,Newcastle,QPR,H,
+4732,Southampton,Sunderland,NH,
+4733,Tottenham,Stoke,NH,
+4734,West Brom,Norwich,H,
+4735,West Ham,Everton,NH,
+4736,Wigan,Arsenal,NH,
+4737,Chelsea,Aston Villa,H,
+4738,Swansea,Man United,NH,
+4739,Aston Villa,Tottenham,NH,
+4740,Everton,Wigan,H,
+4741,Fulham,Southampton,NH,
+4742,Man United,Newcastle,H,
+4743,Norwich,Chelsea,NH,
+4744,QPR,West Brom,NH,
+4745,Reading,Swansea,NH,
+4746,Stoke,Liverpool,H,
+4747,Sunderland,Man City,H,
+4748,Arsenal,Newcastle,H,
+4749,Aston Villa,Wigan,NH,
+4750,Fulham,Swansea,NH,
+4751,Man United,West Brom,H,
+4752,Norwich,Man City,NH,
+4753,Reading,West Ham,H,
+4754,Stoke,Southampton,NH,
+4755,Sunderland,Tottenham,NH,
+4756,Everton,Chelsea,NH,
+4757,QPR,Liverpool,NH,
+4758,Man City,Stoke,H,
+4759,Southampton,Arsenal,NH,
+4760,Swansea,Aston Villa,NH,
+4761,Tottenham,Reading,H,
+4762,West Brom,Fulham,NH,
+4763,West Ham,Norwich,H,
+4764,Wigan,Man United,NH,
+4765,Chelsea,QPR,NH,
+4766,Liverpool,Sunderland,H,
+4767,Newcastle,Everton,NH,
+4768,Aston Villa,Southampton,NH,
+4769,Everton,Swansea,NH,
+4770,Fulham,Wigan,NH,
+4771,Norwich,Newcastle,NH,
+4772,QPR,Tottenham,NH,
+4773,Reading,West Brom,H,
+4774,Stoke,Chelsea,NH,
+4775,Sunderland,West Ham,H,
+4776,Arsenal,Man City,NH,
+4777,Man United,Liverpool,H,
+4778,Chelsea,Southampton,NH,
+4779,Liverpool,Norwich,H,
+4780,Man City,Fulham,H,
+4781,Newcastle,Reading,NH,
+4782,Swansea,Stoke,H,
+4783,West Brom,Aston Villa,NH,
+4784,West Ham,QPR,NH,
+4785,Wigan,Sunderland,NH,
+4786,Chelsea,Arsenal,H,
+4787,Tottenham,Man United,NH,
+4788,Southampton,Everton,NH,
+4789,Arsenal,West Ham,H,
+4790,Aston Villa,Newcastle,NH,
+4791,QPR,Man City,NH,
+4792,Stoke,Wigan,NH,
+4793,Sunderland,Swansea,NH,
+4794,Arsenal,Liverpool,NH,
+4795,Everton,West Brom,H,
+4796,Fulham,West Ham,H,
+4797,Man United,Southampton,H,
+4798,Norwich,Tottenham,NH,
+4799,Reading,Chelsea,NH,
+4800,Arsenal,Stoke,H,
+4801,Everton,Aston Villa,NH,
+4802,Fulham,Man United,NH,
+4803,Newcastle,Chelsea,H,
+4804,QPR,Norwich,NH,
+4805,Reading,Sunderland,H,
+4806,West Ham,Swansea,H,
+4807,Wigan,Southampton,NH,
+4808,Man City,Liverpool,NH,
+4809,West Brom,Tottenham,NH,
+4810,Chelsea,Wigan,H,
+4811,Norwich,Fulham,NH,
+4812,Southampton,Man City,H,
+4813,Stoke,Reading,H,
+4814,Sunderland,Arsenal,NH,
+4815,Swansea,QPR,H,
+4816,Tottenham,Newcastle,H,
+4817,Aston Villa,West Ham,H,
+4818,Man United,Everton,H,
+4819,Liverpool,West Brom,NH,
+4820,Liverpool,Swansea,H,
+4821,Arsenal,Aston Villa,H,
+4822,Fulham,Stoke,H,
+4823,Norwich,Everton,H,
+4824,QPR,Man United,NH,
+4825,Reading,Wigan,NH,
+4826,West Brom,Sunderland,H,
+4827,Man City,Chelsea,H,
+4828,Newcastle,Southampton,H,
+4829,West Ham,Tottenham,NH,
+4830,Chelsea,West Brom,H,
+4831,Everton,Reading,H,
+4832,Man United,Norwich,H,
+4833,Southampton,QPR,NH,
+4834,Stoke,West Ham,NH,
+4835,Sunderland,Fulham,NH,
+4836,Swansea,Newcastle,H,
+4837,Wigan,Liverpool,NH,
+4838,Tottenham,Arsenal,H,
+4839,Aston Villa,Man City,NH,
+4840,Norwich,Southampton,NH,
+4841,QPR,Sunderland,H,
+4842,Reading,Aston Villa,NH,
+4843,West Brom,Swansea,H,
+4844,Liverpool,Tottenham,H,
+4845,Newcastle,Stoke,H,
+4846,Aston Villa,QPR,H,
+4847,Everton,Man City,H,
+4848,Man United,Reading,H,
+4849,Southampton,Liverpool,H,
+4850,Stoke,West Brom,NH,
+4851,Swansea,Arsenal,NH,
+4852,Chelsea,West Ham,H,
+4853,Sunderland,Norwich,NH,
+4854,Tottenham,Fulham,NH,
+4855,Wigan,Newcastle,H,
+4856,Arsenal,Reading,H,
+4857,Everton,Stoke,H,
+4858,Man City,Newcastle,H,
+4859,Southampton,Chelsea,H,
+4860,Sunderland,Man United,NH,
+4861,Swansea,Tottenham,NH,
+4862,West Ham,West Brom,H,
+4863,Wigan,Norwich,H,
+4864,Aston Villa,Liverpool,NH,
+4865,Fulham,QPR,H,
+4866,Norwich,Swansea,NH,
+4867,Reading,Southampton,NH,
+4868,Stoke,Aston Villa,NH,
+4869,West Brom,Arsenal,NH,
+4870,Chelsea,Sunderland,H,
+4871,Liverpool,West Ham,NH,
+4872,Newcastle,Fulham,H,
+4873,QPR,Wigan,NH,
+4874,Tottenham,Everton,NH,
+4875,Man United,Man City,NH,
+4876,Arsenal,Norwich,H,
+4877,Aston Villa,Fulham,NH,
+4878,Everton,QPR,H,
+4879,Reading,Liverpool,NH,
+4880,Southampton,West Ham,NH,
+4881,Newcastle,Sunderland,NH,
+4882,Stoke,Man United,NH,
+4883,Arsenal,Everton,NH,
+4884,Fulham,Chelsea,NH,
+4885,Man City,Wigan,H,
+4886,West Ham,Man United,NH,
+4887,Fulham,Arsenal,NH,
+4888,Norwich,Reading,H,
+4889,QPR,Stoke,NH,
+4890,Sunderland,Everton,H,
+4891,Swansea,Southampton,NH,
+4892,West Brom,Newcastle,NH,
+4893,West Ham,Wigan,H,
+4894,Liverpool,Chelsea,NH,
+4895,Tottenham,Man City,H,
+4896,Man United,Aston Villa,H,
+4897,Everton,Fulham,H,
+4898,Man City,West Ham,H,
+4899,Newcastle,Liverpool,NH,
+4900,Southampton,West Brom,NH,
+4901,Stoke,Norwich,H,
+4902,Wigan,Tottenham,NH,
+4903,Arsenal,Man United,NH,
+4904,Chelsea,Swansea,H,
+4905,Reading,QPR,NH,
+4906,Aston Villa,Sunderland,H,
+4907,Fulham,Reading,NH,
+4908,Norwich,Aston Villa,NH,
+4909,QPR,Arsenal,NH,
+4910,Swansea,Man City,NH,
+4911,Tottenham,Southampton,H,
+4912,West Brom,Wigan,NH,
+4913,West Ham,Newcastle,NH,
+4914,Liverpool,Everton,NH,
+4915,Man United,Chelsea,NH,
+4916,Sunderland,Stoke,NH,
+4917,Man City,West Brom,H,
+4918,Wigan,Swansea,NH,
+4919,Chelsea,Tottenham,NH,
+4920,Aston Villa,Chelsea,NH,
+4921,Everton,West Ham,H,
+4922,Fulham,Liverpool,NH,
+4923,Man United,Swansea,H,
+4924,Norwich,West Brom,H,
+4925,QPR,Newcastle,NH,
+4926,Stoke,Tottenham,NH,
+4927,Sunderland,Southampton,NH,
+4928,Arsenal,Wigan,H,
+4929,Reading,Man City,NH,
+4930,Chelsea,Everton,H,
+4931,Liverpool,QPR,H,
+4932,Man City,Norwich,NH,
+4933,Newcastle,Arsenal,NH,
+4934,Southampton,Stoke,NH,
+4935,Swansea,Fulham,NH,
+4936,Tottenham,Sunderland,H,
+4937,West Brom,Man United,NH,
+4938,West Ham,Reading,H,
+4939,Wigan,Aston Villa,NH,
+4940,Arsenal,Aston Villa,NH,
+4941,Liverpool,Stoke,H,
+4942,Norwich,Everton,NH,
+4943,Sunderland,Fulham,NH,
+4944,Swansea,Man United,NH,
+4945,West Brom,Southampton,NH,
+4946,West Ham,Cardiff,H,
+4947,Chelsea,Hull,H,
+4948,Crystal Palace,Tottenham,NH,
+4949,Man City,Newcastle,H,
+4950,Chelsea,Aston Villa,H,
+4951,Aston Villa,Liverpool,NH,
+4952,Everton,West Brom,NH,
+4953,Fulham,Arsenal,NH,
+4954,Hull,Norwich,H,
+4955,Newcastle,West Ham,NH,
+4956,Southampton,Sunderland,NH,
+4957,Stoke,Crystal Palace,H,
+4958,Cardiff,Man City,H,
+4959,Tottenham,Swansea,H,
+4960,Man United,Chelsea,NH,
+4961,Cardiff,Everton,NH,
+4962,Crystal Palace,Sunderland,H,
+4963,Man City,Hull,H,
+4964,Newcastle,Fulham,H,
+4965,Norwich,Southampton,H,
+4966,West Ham,Stoke,NH,
+4967,Arsenal,Tottenham,H,
+4968,Liverpool,Man United,H,
+4969,West Brom,Swansea,NH,
+4970,Aston Villa,Newcastle,NH,
+4971,Everton,Chelsea,H,
+4972,Fulham,West Brom,NH,
+4973,Hull,Cardiff,NH,
+4974,Man United,Crystal Palace,H,
+4975,Stoke,Man City,NH,
+4976,Sunderland,Arsenal,NH,
+4977,Tottenham,Norwich,H,
+4978,Southampton,West Ham,NH,
+4979,Swansea,Liverpool,NH,
+4980,Chelsea,Fulham,H,
+4981,Liverpool,Southampton,NH,
+4982,Newcastle,Hull,NH,
+4983,Norwich,Aston Villa,NH,
+4984,West Brom,Sunderland,H,
+4985,West Ham,Everton,NH,
+4986,Arsenal,Stoke,H,
+4987,Cardiff,Tottenham,NH,
+4988,Crystal Palace,Swansea,NH,
+4989,Man City,Man United,H,
+4990,Aston Villa,Man City,H,
+4991,Fulham,Cardiff,NH,
+4992,Hull,West Ham,H,
+4993,Man United,West Brom,NH,
+4994,Southampton,Crystal Palace,H,
+4995,Swansea,Arsenal,NH,
+4996,Tottenham,Chelsea,NH,
+4997,Stoke,Norwich,NH,
+4998,Sunderland,Liverpool,NH,
+4999,Everton,Newcastle,H,
+5000,Cardiff,Newcastle,NH,
+5001,Fulham,Stoke,H,
+5002,Hull,Aston Villa,NH,
+5003,Liverpool,Crystal Palace,H,
+5004,Man City,Everton,H,
+5005,Sunderland,Man United,NH,
+5006,Norwich,Chelsea,NH,
+5007,Southampton,Swansea,H,
+5008,Tottenham,West Ham,NH,
+5009,West Brom,Arsenal,NH,
+5010,Arsenal,Norwich,H,
+5011,Chelsea,Cardiff,H,
+5012,Everton,Hull,H,
+5013,Man United,Southampton,NH,
+5014,Newcastle,Liverpool,NH,
+5015,Stoke,West Brom,NH,
+5016,Swansea,Sunderland,H,
+5017,West Ham,Man City,NH,
+5018,Aston Villa,Tottenham,NH,
+5019,Crystal Palace,Fulham,NH,
+5020,Aston Villa,Everton,NH,
+5021,Crystal Palace,Arsenal,NH,
+5022,Liverpool,West Brom,H,
+5023,Man United,Stoke,H,
+5024,Norwich,Cardiff,NH,
+5025,Southampton,Fulham,H,
+5026,Chelsea,Man City,H,
+5027,Sunderland,Newcastle,H,
+5028,Swansea,West Ham,NH,
+5029,Tottenham,Hull,H,
+5030,Arsenal,Liverpool,H,
+5031,Fulham,Man United,NH,
+5032,Hull,Sunderland,H,
+5033,Man City,Norwich,H,
+5034,Newcastle,Chelsea,H,
+5035,Stoke,Southampton,NH,
+5036,West Brom,Crystal Palace,H,
+5037,West Ham,Aston Villa,NH,
+5038,Cardiff,Swansea,H,
+5039,Everton,Tottenham,NH,
+5040,Aston Villa,Cardiff,H,
+5041,Chelsea,West Brom,NH,
+5042,Crystal Palace,Everton,NH,
+5043,Liverpool,Fulham,H,
+5044,Norwich,West Ham,H,
+5045,Southampton,Hull,H,
+5046,Man United,Arsenal,H,
+5047,Sunderland,Man City,H,
+5048,Swansea,Stoke,NH,
+5049,Tottenham,Newcastle,NH,
+5050,Arsenal,Southampton,H,
+5051,Everton,Liverpool,NH,
+5052,Fulham,Swansea,NH,
+5053,Hull,Crystal Palace,NH,
+5054,Newcastle,Norwich,H,
+5055,Stoke,Sunderland,H,
+5056,West Ham,Chelsea,NH,
+5057,Cardiff,Man United,NH,
+5058,Man City,Tottenham,H,
+5059,West Brom,Aston Villa,NH,
+5060,Aston Villa,Sunderland,NH,
+5061,Cardiff,Arsenal,NH,
+5062,Everton,Stoke,H,
+5063,Newcastle,West Brom,H,
+5064,Norwich,Crystal Palace,H,
+5065,West Ham,Fulham,H,
+5066,Chelsea,Southampton,H,
+5067,Hull,Liverpool,H,
+5068,Man City,Swansea,H,
+5069,Tottenham,Man United,NH,
+5070,Crystal Palace,West Ham,H,
+5071,Arsenal,Hull,H,
+5072,Fulham,Tottenham,NH,
+5073,Liverpool,Norwich,H,
+5074,Man United,Everton,NH,
+5075,Southampton,Aston Villa,NH,
+5076,Stoke,Cardiff,NH,
+5077,Sunderland,Chelsea,NH,
+5078,Swansea,Newcastle,H,
+5079,West Brom,Man City,NH,
+5080,Crystal Palace,Cardiff,H,
+5081,Liverpool,West Ham,H,
+5082,Man United,Newcastle,NH,
+5083,Southampton,Man City,NH,
+5084,Stoke,Chelsea,H,
+5085,Sunderland,Tottenham,NH,
+5086,West Brom,Norwich,NH,
+5087,Arsenal,Everton,NH,
+5088,Fulham,Aston Villa,H,
+5089,Swansea,Hull,NH,
+5090,Cardiff,West Brom,H,
+5091,Chelsea,Crystal Palace,H,
+5092,Everton,Fulham,H,
+5093,Hull,Stoke,NH,
+5094,Man City,Arsenal,H,
+5095,Newcastle,Southampton,NH,
+5096,West Ham,Sunderland,NH,
+5097,Aston Villa,Man United,NH,
+5098,Norwich,Swansea,NH,
+5099,Tottenham,Liverpool,NH,
+5100,Crystal Palace,Newcastle,NH,
+5101,Fulham,Man City,NH,
+5102,Liverpool,Cardiff,H,
+5103,Man United,West Ham,H,
+5104,Stoke,Aston Villa,H,
+5105,Sunderland,Norwich,NH,
+5106,West Brom,Hull,NH,
+5107,Southampton,Tottenham,NH,
+5108,Swansea,Everton,NH,
+5109,Arsenal,Chelsea,NH,
+5110,Aston Villa,Crystal Palace,NH,
+5111,Cardiff,Southampton,NH,
+5112,Chelsea,Swansea,H,
+5113,Everton,Sunderland,NH,
+5114,Hull,Man United,NH,
+5115,Man City,Liverpool,H,
+5116,Newcastle,Stoke,H,
+5117,Norwich,Fulham,NH,
+5118,Tottenham,West Brom,NH,
+5119,West Ham,Arsenal,NH,
+5120,Aston Villa,Swansea,NH,
+5121,Cardiff,Sunderland,NH,
+5122,Hull,Fulham,H,
+5123,Man City,Crystal Palace,H,
+5124,Norwich,Man United,NH,
+5125,West Ham,West Brom,NH,
+5126,Chelsea,Liverpool,H,
+5127,Everton,Southampton,H,
+5128,Newcastle,Arsenal,NH,
+5129,Tottenham,Stoke,H,
+5130,Arsenal,Cardiff,H,
+5131,Crystal Palace,Norwich,NH,
+5132,Fulham,West Ham,H,
+5133,Liverpool,Hull,H,
+5134,Man United,Tottenham,NH,
+5135,Southampton,Chelsea,NH,
+5136,Stoke,Everton,NH,
+5137,Sunderland,Aston Villa,NH,
+5138,Swansea,Man City,NH,
+5139,West Brom,Newcastle,H,
+5140,Cardiff,West Ham,NH,
+5141,Everton,Norwich,H,
+5142,Fulham,Sunderland,NH,
+5143,Hull,Chelsea,NH,
+5144,Man United,Swansea,H,
+5145,Southampton,West Brom,H,
+5146,Tottenham,Crystal Palace,H,
+5147,Newcastle,Man City,NH,
+5148,Stoke,Liverpool,NH,
+5149,Aston Villa,Arsenal,NH,
+5150,Arsenal,Fulham,H,
+5151,Crystal Palace,Stoke,H,
+5152,Liverpool,Aston Villa,NH,
+5153,Man City,Cardiff,H,
+5154,Norwich,Hull,H,
+5155,Sunderland,Southampton,NH,
+5156,West Ham,Newcastle,NH,
+5157,Chelsea,Man United,H,
+5158,Swansea,Tottenham,NH,
+5159,West Brom,Everton,NH,
+5160,Crystal Palace,Hull,H,
+5161,Liverpool,Everton,H,
+5162,Man United,Cardiff,H,
+5163,Norwich,Newcastle,NH,
+5164,Southampton,Arsenal,NH,
+5165,Swansea,Fulham,H,
+5166,Aston Villa,West Brom,H,
+5167,Chelsea,West Ham,NH,
+5168,Sunderland,Stoke,H,
+5169,Tottenham,Man City,NH,
+5170,Cardiff,Norwich,H,
+5171,Everton,Aston Villa,H,
+5172,Fulham,Southampton,NH,
+5173,Hull,Tottenham,NH,
+5174,Newcastle,Sunderland,NH,
+5175,Stoke,Man United,H,
+5176,West Ham,Swansea,H,
+5177,Arsenal,Crystal Palace,H,
+5178,West Brom,Liverpool,NH,
+5179,Man City,Chelsea,NH,
+5180,Aston Villa,West Ham,NH,
+5181,Chelsea,Newcastle,H,
+5182,Crystal Palace,West Brom,H,
+5183,Liverpool,Arsenal,H,
+5184,Norwich,Man City,NH,
+5185,Southampton,Stoke,NH,
+5186,Sunderland,Hull,NH,
+5187,Swansea,Cardiff,H,
+5188,Man United,Fulham,NH,
+5189,Tottenham,Everton,H,
+5190,Cardiff,Aston Villa,NH,
+5191,Hull,Southampton,NH,
+5192,West Brom,Chelsea,NH,
+5193,West Ham,Norwich,H,
+5194,Arsenal,Man United,NH,
+5195,Fulham,Liverpool,NH,
+5196,Newcastle,Tottenham,NH,
+5197,Stoke,Swansea,NH,
+5198,Arsenal,Sunderland,H,
+5199,Cardiff,Hull,NH,
+5200,Chelsea,Everton,H,
+5201,Crystal Palace,Man United,NH,
+5202,Man City,Stoke,H,
+5203,West Brom,Fulham,NH,
+5204,West Ham,Southampton,H,
+5205,Liverpool,Swansea,H,
+5206,Newcastle,Aston Villa,H,
+5207,Norwich,Tottenham,H,
+5208,Everton,West Ham,H,
+5209,Fulham,Chelsea,NH,
+5210,Hull,Newcastle,NH,
+5211,Southampton,Liverpool,NH,
+5212,Stoke,Arsenal,H,
+5213,Aston Villa,Norwich,H,
+5214,Swansea,Crystal Palace,NH,
+5215,Tottenham,Cardiff,H,
+5216,Cardiff,Fulham,H,
+5217,Chelsea,Tottenham,H,
+5218,Crystal Palace,Southampton,NH,
+5219,Norwich,Stoke,NH,
+5220,West Brom,Man United,NH,
+5221,Aston Villa,Chelsea,H,
+5222,Everton,Cardiff,H,
+5223,Fulham,Newcastle,H,
+5224,Hull,Man City,NH,
+5225,Southampton,Norwich,H,
+5226,Stoke,West Ham,H,
+5227,Sunderland,Crystal Palace,NH,
+5228,Swansea,West Brom,NH,
+5229,Man United,Liverpool,NH,
+5230,Tottenham,Arsenal,NH,
+5231,Cardiff,Liverpool,NH,
+5232,Chelsea,Arsenal,H,
+5233,Everton,Swansea,H,
+5234,Hull,West Brom,H,
+5235,Man City,Fulham,H,
+5236,Newcastle,Crystal Palace,H,
+5237,Norwich,Sunderland,H,
+5238,West Ham,Man United,NH,
+5239,Aston Villa,Stoke,NH,
+5240,Tottenham,Southampton,H,
+5241,Arsenal,Swansea,NH,
+5242,Man United,Man City,NH,
+5243,Newcastle,Everton,NH,
+5244,Liverpool,Sunderland,H,
+5245,West Ham,Hull,H,
+5246,Arsenal,Man City,NH,
+5247,Crystal Palace,Chelsea,H,
+5248,Man United,Aston Villa,H,
+5249,Southampton,Newcastle,H,
+5250,Stoke,Hull,H,
+5251,Swansea,Norwich,H,
+5252,West Brom,Cardiff,NH,
+5253,Fulham,Everton,NH,
+5254,Liverpool,Tottenham,H,
+5255,Sunderland,West Ham,NH,
+5256,Aston Villa,Fulham,NH,
+5257,Cardiff,Crystal Palace,NH,
+5258,Chelsea,Stoke,H,
+5259,Hull,Swansea,H,
+5260,Man City,Southampton,H,
+5261,Newcastle,Man United,NH,
+5262,Norwich,West Brom,NH,
+5263,Everton,Arsenal,H,
+5264,West Ham,Liverpool,NH,
+5265,Tottenham,Sunderland,H,
+5266,Crystal Palace,Aston Villa,H,
+5267,Fulham,Norwich,H,
+5268,Southampton,Cardiff,NH,
+5269,Stoke,Newcastle,H,
+5270,Sunderland,Everton,NH,
+5271,West Brom,Tottenham,NH,
+5272,Liverpool,Man City,H,
+5273,Swansea,Chelsea,NH,
+5274,Arsenal,West Ham,H,
+5275,Everton,Crystal Palace,NH,
+5276,Man City,Sunderland,NH,
+5277,Aston Villa,Southampton,NH,
+5278,Cardiff,Stoke,NH,
+5279,Chelsea,Sunderland,NH,
+5280,Newcastle,Swansea,NH,
+5281,Tottenham,Fulham,H,
+5282,West Ham,Crystal Palace,NH,
+5283,Everton,Man United,H,
+5284,Hull,Arsenal,NH,
+5285,Norwich,Liverpool,NH,
+5286,Man City,West Brom,H,
+5287,Fulham,Hull,NH,
+5288,Man United,Norwich,H,
+5289,Southampton,Everton,H,
+5290,Stoke,Tottenham,NH,
+5291,Swansea,Aston Villa,H,
+5292,West Brom,West Ham,H,
+5293,Crystal Palace,Man City,NH,
+5294,Liverpool,Chelsea,NH,
+5295,Sunderland,Cardiff,H,
+5296,Arsenal,Newcastle,H,
+5297,Aston Villa,Hull,H,
+5298,Man United,Sunderland,NH,
+5299,Newcastle,Cardiff,H,
+5300,Stoke,Fulham,H,
+5301,Swansea,Southampton,NH,
+5302,West Ham,Tottenham,H,
+5303,Everton,Man City,NH,
+5304,Arsenal,West Brom,H,
+5305,Chelsea,Norwich,NH,
+5306,Crystal Palace,Liverpool,NH,
+5307,Man United,Hull,H,
+5308,Man City,Aston Villa,H,
+5309,Sunderland,West Brom,H,
+5310,Cardiff,Chelsea,NH,
+5311,Fulham,Crystal Palace,NH,
+5312,Hull,Everton,NH,
+5313,Liverpool,Newcastle,H,
+5314,Man City,West Ham,H,
+5315,Norwich,Arsenal,NH,
+5316,Southampton,Man United,NH,
+5317,Sunderland,Swansea,NH,
+5318,Tottenham,Aston Villa,H,
+5319,West Brom,Stoke,NH,
+5320,Arsenal,Crystal Palace,H,
+5321,Leicester,Everton,NH,
+5322,Man United,Swansea,NH,
+5323,QPR,Hull,NH,
+5324,Stoke,Aston Villa,NH,
+5325,West Brom,Sunderland,NH,
+5326,West Ham,Tottenham,NH,
+5327,Liverpool,Southampton,H,
+5328,Newcastle,Man City,NH,
+5329,Burnley,Chelsea,NH,
+5330,Aston Villa,Newcastle,NH,
+5331,Chelsea,Leicester,H,
+5332,Crystal Palace,West Ham,NH,
+5333,Everton,Arsenal,NH,
+5334,Southampton,West Brom,NH,
+5335,Swansea,Burnley,H,
+5336,Hull,Stoke,NH,
+5337,Sunderland,Man United,NH,
+5338,Tottenham,QPR,H,
+5339,Man City,Liverpool,H,
+5340,Burnley,Man United,NH,
+5341,Everton,Chelsea,NH,
+5342,Man City,Stoke,NH,
+5343,Newcastle,Crystal Palace,NH,
+5344,QPR,Sunderland,H,
+5345,Swansea,West Brom,H,
+5346,West Ham,Southampton,NH,
+5347,Aston Villa,Hull,H,
+5348,Leicester,Arsenal,NH,
+5349,Tottenham,Liverpool,NH,
+5350,Arsenal,Man City,NH,
+5351,Chelsea,Swansea,H,
+5352,Crystal Palace,Burnley,NH,
+5353,Liverpool,Aston Villa,NH,
+5354,Southampton,Newcastle,H,
+5355,Stoke,Leicester,NH,
+5356,Sunderland,Tottenham,NH,
+5357,West Brom,Everton,NH,
+5358,Man United,QPR,H,
+5359,Hull,West Ham,NH,
+5360,Aston Villa,Arsenal,NH,
+5361,Burnley,Sunderland,NH,
+5362,Newcastle,Hull,NH,
+5363,QPR,Stoke,NH,
+5364,Swansea,Southampton,NH,
+5365,West Ham,Liverpool,H,
+5366,Everton,Crystal Palace,NH,
+5367,Leicester,Man United,H,
+5368,Man City,Chelsea,NH,
+5369,Tottenham,West Brom,NH,
+5370,Arsenal,Tottenham,NH,
+5371,Chelsea,Aston Villa,H,
+5372,Crystal Palace,Leicester,H,
+5373,Hull,Man City,NH,
+5374,Liverpool,Everton,NH,
+5375,Man United,West Ham,H,
+5376,Southampton,QPR,H,
+5377,Sunderland,Swansea,NH,
+5378,West Brom,Burnley,H,
+5379,Stoke,Newcastle,H,
+5380,Aston Villa,Man City,NH,
+5381,Hull,Crystal Palace,H,
+5382,Leicester,Burnley,NH,
+5383,Liverpool,West Brom,H,
+5384,Sunderland,Stoke,H,
+5385,Swansea,Newcastle,NH,
+5386,Chelsea,Arsenal,H,
+5387,Man United,Everton,H,
+5388,Tottenham,Southampton,H,
+5389,West Ham,QPR,H,
+5390,Arsenal,Hull,NH,
+5391,Burnley,West Ham,NH,
+5392,Crystal Palace,Chelsea,NH,
+5393,Everton,Aston Villa,H,
+5394,Man City,Tottenham,H,
+5395,Newcastle,Leicester,H,
+5396,Southampton,Sunderland,H,
+5397,QPR,Liverpool,NH,
+5398,Stoke,Swansea,H,
+5399,West Brom,Man United,NH,
+5400,Liverpool,Hull,NH,
+5401,Southampton,Stoke,H,
+5402,Sunderland,Arsenal,NH,
+5403,Swansea,Leicester,H,
+5404,West Brom,Crystal Palace,NH,
+5405,West Ham,Man City,H,
+5406,Burnley,Everton,NH,
+5407,Man United,Chelsea,NH,
+5408,Tottenham,Newcastle,NH,
+5409,QPR,Aston Villa,H,
+5410,Arsenal,Burnley,H,
+5411,Chelsea,QPR,H,
+5412,Everton,Swansea,NH,
+5413,Hull,Southampton,NH,
+5414,Leicester,West Brom,NH,
+5415,Newcastle,Liverpool,H,
+5416,Stoke,West Ham,NH,
+5417,Aston Villa,Tottenham,NH,
+5418,Man City,Man United,H,
+5419,Crystal Palace,Sunderland,NH,
+5420,Burnley,Hull,H,
+5421,Liverpool,Chelsea,NH,
+5422,Man United,Crystal Palace,H,
+5423,QPR,Man City,NH,
+5424,Southampton,Leicester,H,
+5425,West Ham,Aston Villa,NH,
+5426,Sunderland,Everton,NH,
+5427,Swansea,Arsenal,H,
+5428,Tottenham,Stoke,NH,
+5429,West Brom,Newcastle,NH,
+5430,Arsenal,Man United,NH,
+5431,Chelsea,West Brom,H,
+5432,Everton,West Ham,H,
+5433,Leicester,Sunderland,NH,
+5434,Man City,Swansea,H,
+5435,Newcastle,QPR,H,
+5436,Stoke,Burnley,NH,
+5437,Crystal Palace,Liverpool,H,
+5438,Hull,Tottenham,NH,
+5439,Aston Villa,Southampton,NH,
+5440,Burnley,Aston Villa,NH,
+5441,Liverpool,Stoke,H,
+5442,Man United,Hull,H,
+5443,QPR,Leicester,H,
+5444,Sunderland,Chelsea,NH,
+5445,Swansea,Crystal Palace,NH,
+5446,West Brom,Arsenal,NH,
+5447,West Ham,Newcastle,H,
+5448,Southampton,Man City,NH,
+5449,Tottenham,Everton,H,
+5450,Burnley,Newcastle,NH,
+5451,Crystal Palace,Aston Villa,NH,
+5452,Leicester,Liverpool,NH,
+5453,Man United,Stoke,H,
+5454,Swansea,QPR,H,
+5455,West Brom,West Ham,NH,
+5456,Arsenal,Southampton,H,
+5457,Chelsea,Tottenham,H,
+5458,Everton,Hull,NH,
+5459,Sunderland,Man City,NH,
+5460,Hull,West Brom,NH,
+5461,Liverpool,Sunderland,NH,
+5462,Man City,Everton,H,
+5463,Newcastle,Chelsea,H,
+5464,QPR,Burnley,H,
+5465,Stoke,Arsenal,H,
+5466,Tottenham,Crystal Palace,NH,
+5467,Aston Villa,Leicester,H,
+5468,West Ham,Swansea,H,
+5469,Southampton,Man United,NH,
+5470,Arsenal,Newcastle,H,
+5471,Burnley,Southampton,H,
+5472,Chelsea,Hull,H,
+5473,Crystal Palace,Stoke,NH,
+5474,Leicester,Man City,NH,
+5475,Sunderland,West Ham,NH,
+5476,West Brom,Aston Villa,H,
+5477,Man United,Liverpool,H,
+5478,Swansea,Tottenham,NH,
+5479,Everton,QPR,H,
+5480,Aston Villa,Man United,NH,
+5481,Hull,Swansea,NH,
+5482,Man City,Crystal Palace,H,
+5483,QPR,West Brom,H,
+5484,Southampton,Everton,H,
+5485,Tottenham,Burnley,H,
+5486,West Ham,Leicester,H,
+5487,Liverpool,Arsenal,NH,
+5488,Newcastle,Sunderland,NH,
+5489,Stoke,Chelsea,NH,
+5490,Arsenal,QPR,H,
+5491,Burnley,Liverpool,NH,
+5492,Chelsea,West Ham,H,
+5493,Crystal Palace,Southampton,NH,
+5494,Everton,Stoke,NH,
+5495,Leicester,Tottenham,NH,
+5496,Man United,Newcastle,H,
+5497,Sunderland,Hull,NH,
+5498,Swansea,Aston Villa,H,
+5499,West Brom,Man City,NH,
+5500,Aston Villa,Sunderland,NH,
+5501,Hull,Leicester,NH,
+5502,Man City,Burnley,NH,
+5503,Newcastle,Everton,H,
+5504,QPR,Crystal Palace,NH,
+5505,Southampton,Chelsea,NH,
+5506,Stoke,West Brom,H,
+5507,Tottenham,Man United,NH,
+5508,West Ham,Arsenal,NH,
+5509,Liverpool,Swansea,H,
+5510,Aston Villa,Crystal Palace,NH,
+5511,Hull,Everton,H,
+5512,Liverpool,Leicester,NH,
+5513,Man City,Sunderland,H,
+5514,Newcastle,Burnley,NH,
+5515,QPR,Swansea,NH,
+5516,Southampton,Arsenal,H,
+5517,Stoke,Man United,NH,
+5518,Tottenham,Chelsea,H,
+5519,West Ham,West Brom,NH,
+5520,Burnley,QPR,H,
+5521,Chelsea,Newcastle,H,
+5522,Crystal Palace,Tottenham,H,
+5523,Everton,Man City,NH,
+5524,Leicester,Aston Villa,H,
+5525,Sunderland,Liverpool,NH,
+5526,Swansea,West Ham,NH,
+5527,West Brom,Hull,H,
+5528,Arsenal,Stoke,H,
+5529,Man United,Southampton,NH,
+5530,Aston Villa,Liverpool,NH,
+5531,Burnley,Crystal Palace,NH,
+5532,Leicester,Stoke,NH,
+5533,Newcastle,Southampton,NH,
+5534,QPR,Man United,NH,
+5535,Swansea,Chelsea,NH,
+5536,Tottenham,Sunderland,H,
+5537,Man City,Arsenal,NH,
+5538,West Ham,Hull,H,
+5539,Everton,West Brom,NH,
+5540,Chelsea,Man City,NH,
+5541,Crystal Palace,Everton,NH,
+5542,Hull,Newcastle,NH,
+5543,Liverpool,West Ham,H,
+5544,Man United,Leicester,H,
+5545,Stoke,QPR,H,
+5546,Sunderland,Burnley,H,
+5547,West Brom,Tottenham,NH,
+5548,Arsenal,Aston Villa,H,
+5549,Southampton,Swansea,NH,
+5550,Aston Villa,Chelsea,NH,
+5551,Everton,Liverpool,NH,
+5552,Leicester,Crystal Palace,NH,
+5553,Man City,Hull,NH,
+5554,QPR,Southampton,NH,
+5555,Swansea,Sunderland,NH,
+5556,Tottenham,Arsenal,H,
+5557,Burnley,West Brom,NH,
+5558,Newcastle,Stoke,NH,
+5559,West Ham,Man United,NH,
+5560,Arsenal,Leicester,H,
+5561,Hull,Aston Villa,H,
+5562,Liverpool,Tottenham,H,
+5563,Sunderland,QPR,NH,
+5564,Chelsea,Everton,H,
+5565,Crystal Palace,Newcastle,NH,
+5566,Man United,Burnley,H,
+5567,Southampton,West Ham,NH,
+5568,Stoke,Man City,NH,
+5569,West Brom,Swansea,H,
+5570,Aston Villa,Stoke,NH,
+5571,Chelsea,Burnley,NH,
+5572,Crystal Palace,Arsenal,NH,
+5573,Hull,QPR,H,
+5574,Man City,Newcastle,H,
+5575,Sunderland,West Brom,NH,
+5576,Swansea,Man United,H,
+5577,Everton,Leicester,NH,
+5578,Southampton,Liverpool,NH,
+5579,Tottenham,West Ham,NH,
+5580,Burnley,Swansea,NH,
+5581,Man United,Sunderland,H,
+5582,Newcastle,Aston Villa,H,
+5583,Stoke,Hull,H,
+5584,West Brom,Southampton,H,
+5585,West Ham,Crystal Palace,NH,
+5586,Arsenal,Everton,H,
+5587,Liverpool,Man City,H,
+5588,Aston Villa,West Brom,H,
+5589,Hull,Sunderland,NH,
+5590,Southampton,Crystal Palace,H,
+5591,Liverpool,Burnley,H,
+5592,Man City,Leicester,H,
+5593,Newcastle,Man United,NH,
+5594,QPR,Arsenal,NH,
+5595,Stoke,Everton,H,
+5596,Tottenham,Swansea,H,
+5597,West Ham,Chelsea,NH,
+5598,QPR,Tottenham,NH,
+5599,Arsenal,West Ham,H,
+5600,Burnley,Man City,H,
+5601,Crystal Palace,QPR,H,
+5602,Leicester,Hull,NH,
+5603,Sunderland,Aston Villa,NH,
+5604,West Brom,Stoke,H,
+5605,Chelsea,Southampton,NH,
+5606,Everton,Newcastle,H,
+5607,Man United,Tottenham,H,
+5608,Swansea,Liverpool,NH,
+5609,Aston Villa,Swansea,NH,
+5610,Man City,West Brom,H,
+5611,Newcastle,Arsenal,NH,
+5612,Southampton,Burnley,H,
+5613,Stoke,Crystal Palace,NH,
+5614,Tottenham,Leicester,H,
+5615,West Ham,Sunderland,H,
+5616,Hull,Chelsea,NH,
+5617,Liverpool,Man United,NH,
+5618,QPR,Everton,NH,
+5619,Arsenal,Liverpool,H,
+5620,Chelsea,Stoke,H,
+5621,Everton,Southampton,H,
+5622,Leicester,West Ham,H,
+5623,Man United,Aston Villa,H,
+5624,Swansea,Hull,H,
+5625,West Brom,QPR,NH,
+5626,Burnley,Tottenham,NH,
+5627,Sunderland,Newcastle,H,
+5628,Crystal Palace,Man City,H,
+5629,Aston Villa,QPR,NH,
+5630,Burnley,Arsenal,NH,
+5631,Southampton,Hull,H,
+5632,Sunderland,Crystal Palace,NH,
+5633,Swansea,Everton,NH,
+5634,Tottenham,Aston Villa,NH,
+5635,West Brom,Leicester,NH,
+5636,West Ham,Stoke,NH,
+5637,Man United,Man City,H,
+5638,QPR,Chelsea,NH,
+5639,Liverpool,Newcastle,H,
+5640,Chelsea,Man United,H,
+5641,Crystal Palace,West Brom,NH,
+5642,Everton,Burnley,H,
+5643,Leicester,Swansea,H,
+5644,Stoke,Southampton,H,
+5645,Man City,West Ham,H,
+5646,Newcastle,Tottenham,NH,
+5647,Burnley,Leicester,NH,
+5648,Crystal Palace,Hull,NH,
+5649,Man City,Aston Villa,H,
+5650,Newcastle,Swansea,NH,
+5651,QPR,West Ham,NH,
+5652,Southampton,Tottenham,NH,
+5653,Stoke,Sunderland,NH,
+5654,West Brom,Liverpool,NH,
+5655,Arsenal,Chelsea,NH,
+5656,Everton,Man United,H,
+5657,Hull,Liverpool,H,
+5658,Leicester,Chelsea,NH,
+5659,Aston Villa,Everton,H,
+5660,Leicester,Newcastle,H,
+5661,Liverpool,QPR,H,
+5662,Man United,West Brom,NH,
+5663,Sunderland,Southampton,H,
+5664,Swansea,Stoke,H,
+5665,West Ham,Burnley,H,
+5666,Chelsea,Crystal Palace,H,
+5667,Tottenham,Man City,NH,
+5668,Hull,Arsenal,NH,
+5669,Aston Villa,West Ham,H,
+5670,Crystal Palace,Man United,NH,
+5671,Everton,Sunderland,NH,
+5672,Hull,Burnley,NH,
+5673,Leicester,Southampton,H,
+5674,Newcastle,West Brom,NH,
+5675,Stoke,Tottenham,H,
+5676,Chelsea,Liverpool,NH,
+5677,Man City,QPR,H,
+5678,Arsenal,Swansea,NH,
+5679,Burnley,Stoke,NH,
+5680,Liverpool,Crystal Palace,NH,
+5681,QPR,Newcastle,H,
+5682,Southampton,Aston Villa,H,
+5683,Sunderland,Leicester,NH,
+5684,Tottenham,Hull,H,
+5685,West Ham,Everton,NH,
+5686,Man United,Arsenal,NH,
+5687,Swansea,Man City,NH,
+5688,West Brom,Chelsea,H,
+5689,Arsenal,Sunderland,NH,
+5690,Arsenal,West Brom,H,
+5691,Aston Villa,Burnley,NH,
+5692,Chelsea,Sunderland,H,
+5693,Crystal Palace,Swansea,H,
+5694,Everton,Tottenham,NH,
+5695,Hull,Man United,NH,
+5696,Leicester,QPR,H,
+5697,Man City,Southampton,H,
+5698,Newcastle,West Ham,H,
+5699,Stoke,Liverpool,H,
+5700,Bournemouth,Aston Villa,NH,
+5701,Chelsea,Swansea,NH,
+5702,Everton,Watford,NH,
+5703,Leicester,Sunderland,H,
+5704,Man United,Tottenham,H,
+5705,Norwich,Crystal Palace,NH,
+5706,Arsenal,West Ham,NH,
+5707,Newcastle,Southampton,NH,
+5708,Stoke,Liverpool,NH,
+5709,West Brom,Man City,NH,
+5710,Aston Villa,Man United,NH,
+5711,Southampton,Everton,NH,
+5712,Sunderland,Norwich,NH,
+5713,Swansea,Newcastle,H,
+5714,Tottenham,Stoke,NH,
+5715,Watford,West Brom,NH,
+5716,West Ham,Leicester,NH,
+5717,Crystal Palace,Arsenal,NH,
+5718,Man City,Chelsea,H,
+5719,Liverpool,Bournemouth,H,
+5720,Crystal Palace,Aston Villa,H,
+5721,Leicester,Tottenham,NH,
+5722,Man United,Newcastle,NH,
+5723,Norwich,Stoke,NH,
+5724,Sunderland,Swansea,NH,
+5725,West Ham,Bournemouth,NH,
+5726,Everton,Man City,NH,
+5727,Watford,Southampton,NH,
+5728,West Brom,Chelsea,NH,
+5729,Arsenal,Liverpool,NH,
+5730,Aston Villa,Sunderland,NH,
+5731,Bournemouth,Leicester,NH,
+5732,Chelsea,Crystal Palace,NH,
+5733,Liverpool,West Ham,NH,
+5734,Man City,Watford,H,
+5735,Newcastle,Arsenal,NH,
+5736,Stoke,West Brom,NH,
+5737,Tottenham,Everton,NH,
+5738,Southampton,Norwich,H,
+5739,Swansea,Man United,H,
+5740,Arsenal,Stoke,H,
+5741,Crystal Palace,Man City,NH,
+5742,Everton,Chelsea,H,
+5743,Man United,Liverpool,H,
+5744,Norwich,Bournemouth,H,
+5745,Watford,Swansea,H,
+5746,West Brom,Southampton,NH,
+5747,Leicester,Aston Villa,H,
+5748,Sunderland,Tottenham,NH,
+5749,West Ham,Newcastle,H,
+5750,Aston Villa,West Brom,NH,
+5751,Bournemouth,Sunderland,H,
+5752,Chelsea,Arsenal,H,
+5753,Man City,West Ham,NH,
+5754,Newcastle,Watford,NH,
+5755,Stoke,Leicester,NH,
+5756,Swansea,Everton,NH,
+5757,Liverpool,Norwich,NH,
+5758,Southampton,Man United,NH,
+5759,Tottenham,Crystal Palace,H,
+5760,Leicester,Arsenal,NH,
+5761,Liverpool,Aston Villa,H,
+5762,Man United,Sunderland,H,
+5763,Newcastle,Chelsea,NH,
+5764,Southampton,Swansea,H,
+5765,Stoke,Bournemouth,H,
+5766,Tottenham,Man City,H,
+5767,West Ham,Norwich,NH,
+5768,Watford,Crystal Palace,NH,
+5769,West Brom,Everton,NH,
+5770,Aston Villa,Stoke,NH,
+5771,Bournemouth,Watford,NH,
+5772,Chelsea,Southampton,NH,
+5773,Crystal Palace,West Brom,H,
+5774,Man City,Newcastle,H,
+5775,Norwich,Leicester,NH,
+5776,Sunderland,West Ham,NH,
+5777,Arsenal,Man United,H,
+5778,Everton,Liverpool,NH,
+5779,Swansea,Tottenham,NH,
+5780,Chelsea,Aston Villa,H,
+5781,Crystal Palace,West Ham,NH,
+5782,Everton,Man United,NH,
+5783,Man City,Bournemouth,H,
+5784,Southampton,Leicester,NH,
+5785,Tottenham,Liverpool,NH,
+5786,Watford,Arsenal,NH,
+5787,West Brom,Sunderland,H,
+5788,Newcastle,Norwich,H,
+5789,Swansea,Stoke,NH,
+5790,Arsenal,Everton,H,
+5791,Aston Villa,Swansea,NH,
+5792,Leicester,Crystal Palace,H,
+5793,Norwich,West Brom,NH,
+5794,Stoke,Watford,NH,
+5795,West Ham,Chelsea,H,
+5796,Bournemouth,Tottenham,NH,
+5797,Liverpool,Southampton,NH,
+5798,Man United,Man City,NH,
+5799,Sunderland,Newcastle,H,
+5800,Chelsea,Liverpool,NH,
+5801,Crystal Palace,Man United,NH,
+5802,Man City,Norwich,H,
+5803,Newcastle,Stoke,NH,
+5804,Swansea,Arsenal,NH,
+5805,Watford,West Ham,H,
+5806,West Brom,Leicester,NH,
+5807,Everton,Sunderland,H,
+5808,Southampton,Bournemouth,H,
+5809,Tottenham,Aston Villa,H,
+5810,Bournemouth,Newcastle,NH,
+5811,Leicester,Watford,H,
+5812,Man United,West Brom,H,
+5813,Norwich,Swansea,H,
+5814,Stoke,Chelsea,H,
+5815,Sunderland,Southampton,NH,
+5816,West Ham,Everton,NH,
+5817,Arsenal,Tottenham,NH,
+5818,Aston Villa,Man City,NH,
+5819,Liverpool,Crystal Palace,NH,
+5820,Chelsea,Norwich,H,
+5821,Everton,Aston Villa,H,
+5822,Man City,Liverpool,NH,
+5823,Newcastle,Leicester,NH,
+5824,Southampton,Stoke,NH,
+5825,Swansea,Bournemouth,NH,
+5826,Watford,Man United,NH,
+5827,West Brom,Arsenal,H,
+5828,Tottenham,West Ham,H,
+5829,Crystal Palace,Sunderland,NH,
+5830,Aston Villa,Watford,NH,
+5831,Bournemouth,Everton,NH,
+5832,Crystal Palace,Newcastle,H,
+5833,Leicester,Man United,NH,
+5834,Man City,Southampton,H,
+5835,Sunderland,Stoke,H,
+5836,Liverpool,Swansea,H,
+5837,Norwich,Arsenal,NH,
+5838,Tottenham,Chelsea,NH,
+5839,West Ham,West Brom,NH,
+5840,Arsenal,Sunderland,H,
+5841,Chelsea,Bournemouth,NH,
+5842,Man United,West Ham,NH,
+5843,Southampton,Aston Villa,NH,
+5844,Stoke,Man City,H,
+5845,Swansea,Leicester,NH,
+5846,Watford,Norwich,H,
+5847,West Brom,Tottenham,NH,
+5848,Newcastle,Liverpool,H,
+5849,Everton,Crystal Palace,NH,
+5850,Bournemouth,Man United,H,
+5851,Crystal Palace,Southampton,H,
+5852,Man City,Swansea,H,
+5853,Norwich,Everton,NH,
+5854,Sunderland,Watford,NH,
+5855,West Ham,Stoke,NH,
+5856,Aston Villa,Arsenal,NH,
+5857,Liverpool,West Brom,NH,
+5858,Tottenham,Newcastle,NH,
+5859,Leicester,Chelsea,H,
+5860,Chelsea,Sunderland,H,
+5861,Everton,Leicester,NH,
+5862,Man United,Norwich,NH,
+5863,Newcastle,Aston Villa,NH,
+5864,Southampton,Tottenham,NH,
+5865,Stoke,Crystal Palace,NH,
+5866,West Brom,Bournemouth,NH,
+5867,Swansea,West Ham,NH,
+5868,Watford,Liverpool,H,
+5869,Arsenal,Man City,H,
+5870,Aston Villa,West Ham,NH,
+5871,Bournemouth,Crystal Palace,NH,
+5872,Chelsea,Watford,NH,
+5873,Liverpool,Leicester,H,
+5874,Man City,Sunderland,H,
+5875,Newcastle,Everton,NH,
+5876,Southampton,Arsenal,H,
+5877,Stoke,Man United,H,
+5878,Swansea,West Brom,H,
+5879,Tottenham,Norwich,H,
+5880,Arsenal,Bournemouth,H,
+5881,Crystal Palace,Swansea,NH,
+5882,Everton,Stoke,NH,
+5883,Man United,Chelsea,NH,
+5884,Norwich,Aston Villa,H,
+5885,Watford,Tottenham,NH,
+5886,West Brom,Newcastle,H,
+5887,West Ham,Southampton,H,
+5888,Leicester,Man City,NH,
+5889,Sunderland,Liverpool,NH,
+5890,Arsenal,Newcastle,H,
+5891,Leicester,Bournemouth,NH,
+5892,Man United,Swansea,H,
+5893,Norwich,Southampton,H,
+5894,Sunderland,Aston Villa,H,
+5895,Watford,Man City,NH,
+5896,West Brom,Stoke,H,
+5897,West Ham,Liverpool,H,
+5898,Crystal Palace,Chelsea,NH,
+5899,Everton,Tottenham,NH,
+5900,Aston Villa,Crystal Palace,H,
+5901,Bournemouth,West Ham,NH,
+5902,Newcastle,Man United,NH,
+5903,Chelsea,West Brom,NH,
+5904,Liverpool,Arsenal,NH,
+5905,Man City,Everton,NH,
+5906,Southampton,Watford,H,
+5907,Stoke,Norwich,H,
+5908,Swansea,Sunderland,NH,
+5909,Tottenham,Leicester,NH,
+5910,Aston Villa,Leicester,NH,
+5911,Bournemouth,Norwich,H,
+5912,Chelsea,Everton,NH,
+5913,Man City,Crystal Palace,H,
+5914,Newcastle,West Ham,H,
+5915,Southampton,West Brom,H,
+5916,Tottenham,Sunderland,H,
+5917,Liverpool,Man United,NH,
+5918,Stoke,Arsenal,NH,
+5919,Swansea,Watford,H,
+5920,Crystal Palace,Tottenham,NH,
+5921,Leicester,Stoke,H,
+5922,Man United,Southampton,NH,
+5923,Norwich,Liverpool,NH,
+5924,Sunderland,Bournemouth,NH,
+5925,Watford,Newcastle,H,
+5926,West Brom,Aston Villa,NH,
+5927,West Ham,Man City,NH,
+5928,Arsenal,Chelsea,NH,
+5929,Everton,Swansea,NH,
+5930,Arsenal,Southampton,NH,
+5931,Crystal Palace,Bournemouth,NH,
+5932,Leicester,Liverpool,H,
+5933,Man United,Stoke,H,
+5934,Norwich,Tottenham,NH,
+5935,Sunderland,Man City,NH,
+5936,West Brom,Swansea,NH,
+5937,West Ham,Aston Villa,H,
+5938,Everton,Newcastle,H,
+5939,Watford,Chelsea,NH,
+5940,Aston Villa,Norwich,H,
+5941,Liverpool,Sunderland,NH,
+5942,Man City,Leicester,NH,
+5943,Newcastle,West Brom,H,
+5944,Southampton,West Ham,H,
+5945,Stoke,Everton,NH,
+5946,Swansea,Crystal Palace,NH,
+5947,Tottenham,Watford,H,
+5948,Bournemouth,Arsenal,NH,
+5949,Chelsea,Man United,NH,
+5950,Bournemouth,Stoke,NH,
+5951,Chelsea,Newcastle,H,
+5952,Crystal Palace,Watford,NH,
+5953,Everton,West Brom,NH,
+5954,Norwich,West Ham,NH,
+5955,Sunderland,Man United,H,
+5956,Swansea,Southampton,NH,
+5957,Arsenal,Leicester,H,
+5958,Aston Villa,Liverpool,NH,
+5959,Man City,Tottenham,NH,
+5960,Leicester,Norwich,H,
+5961,Southampton,Chelsea,NH,
+5962,Stoke,Aston Villa,H,
+5963,Watford,Bournemouth,NH,
+5964,West Brom,Crystal Palace,H,
+5965,West Ham,Sunderland,H,
+5966,Tottenham,Swansea,H,
+5967,Man United,Arsenal,H,
+5968,Aston Villa,Everton,NH,
+5969,Bournemouth,Southampton,H,
+5970,Leicester,West Brom,NH,
+5971,Norwich,Chelsea,NH,
+5972,Sunderland,Crystal Palace,NH,
+5973,Arsenal,Swansea,NH,
+5974,Liverpool,Man City,H,
+5975,Man United,Watford,H,
+5976,Stoke,Newcastle,H,
+5977,West Ham,Tottenham,H,
+5978,Chelsea,Stoke,NH,
+5979,Everton,West Ham,NH,
+5980,Man City,Aston Villa,H,
+5981,Newcastle,Bournemouth,NH,
+5982,Southampton,Sunderland,NH,
+5983,Swansea,Norwich,H,
+5984,Tottenham,Arsenal,NH,
+5985,Watford,Leicester,NH,
+5986,Crystal Palace,Liverpool,NH,
+5987,West Brom,Man United,H,
+5988,Bournemouth,Swansea,H,
+5989,Norwich,Man City,NH,
+5990,Stoke,Southampton,NH,
+5991,Aston Villa,Tottenham,NH,
+5992,Leicester,Newcastle,H,
+5993,Chelsea,West Ham,NH,
+5994,Crystal Palace,Leicester,NH,
+5995,Everton,Arsenal,NH,
+5996,Swansea,Aston Villa,H,
+5997,Watford,Stoke,NH,
+5998,West Brom,Norwich,NH,
+5999,Man City,Man United,NH,
+6000,Newcastle,Sunderland,NH,
+6001,Southampton,Liverpool,H,
+6002,Tottenham,Bournemouth,H,
+6003,Arsenal,Watford,H,
+6004,Aston Villa,Chelsea,NH,
+6005,Bournemouth,Man City,NH,
+6006,Liverpool,Tottenham,NH,
+6007,Norwich,Newcastle,H,
+6008,Stoke,Swansea,NH,
+6009,Sunderland,West Brom,NH,
+6010,West Ham,Crystal Palace,NH,
+6011,Leicester,Southampton,H,
+6012,Man United,Everton,H,
+6013,Aston Villa,Bournemouth,NH,
+6014,Crystal Palace,Norwich,H,
+6015,Man City,West Brom,H,
+6016,Southampton,Newcastle,H,
+6017,Swansea,Chelsea,H,
+6018,Watford,Everton,NH,
+6019,West Ham,Arsenal,NH,
+6020,Liverpool,Stoke,H,
+6021,Sunderland,Leicester,NH,
+6022,Tottenham,Man United,H,
+6023,Crystal Palace,Everton,NH,
+6024,Chelsea,Man City,NH,
+6025,Everton,Southampton,NH,
+6026,Man United,Aston Villa,H,
+6027,Newcastle,Swansea,H,
+6028,Norwich,Sunderland,NH,
+6029,West Brom,Watford,NH,
+6030,Arsenal,Crystal Palace,NH,
+6031,Bournemouth,Liverpool,NH,
+6032,Leicester,West Ham,NH,
+6033,Stoke,Tottenham,NH,
+6034,Newcastle,Man City,NH,
+6035,Liverpool,Everton,H,
+6036,Man United,Crystal Palace,H,
+6037,West Ham,Watford,H,
+6038,Arsenal,West Brom,H,
+6039,Aston Villa,Southampton,NH,
+6040,Bournemouth,Chelsea,NH,
+6041,Liverpool,Newcastle,NH,
+6042,Man City,Stoke,H,
+6043,Leicester,Swansea,H,
+6044,Sunderland,Arsenal,NH,
+6045,Tottenham,West Brom,NH,
+6046,Arsenal,Norwich,H,
+6047,Everton,Bournemouth,H,
+6048,Newcastle,Crystal Palace,H,
+6049,Stoke,Sunderland,NH,
+6050,Watford,Aston Villa,H,
+6051,West Brom,West Ham,NH,
+6052,Man United,Leicester,NH,
+6053,Southampton,Man City,H,
+6054,Swansea,Liverpool,H,
+6055,Chelsea,Tottenham,NH,
+6056,Aston Villa,Newcastle,NH,
+6057,Bournemouth,West Brom,NH,
+6058,Crystal Palace,Stoke,H,
+6059,Leicester,Everton,H,
+6060,Norwich,Man United,NH,
+6061,Sunderland,Chelsea,H,
+6062,West Ham,Swansea,NH,
+6063,Liverpool,Watford,H,
+6064,Man City,Arsenal,NH,
+6065,Tottenham,Southampton,NH,
+6066,West Ham,Man United,H,
+6067,Liverpool,Chelsea,NH,
+6068,Norwich,Watford,H,
+6069,Sunderland,Everton,H,
+6070,Arsenal,Aston Villa,H,
+6071,Chelsea,Leicester,NH,
+6072,Everton,Norwich,H,
+6073,Newcastle,Tottenham,H,
+6074,Southampton,Crystal Palace,H,
+6075,Stoke,West Ham,H,
+6076,Swansea,Man City,NH,
+6077,Watford,Sunderland,NH,
+6078,West Brom,Liverpool,NH,
+6079,Man United,Bournemouth,H,
+6080,Burnley,Swansea,NH,
+6081,Crystal Palace,West Brom,NH,
+6082,Everton,Tottenham,NH,
+6083,Hull,Leicester,H,
+6084,Man City,Sunderland,H,
+6085,Middlesbrough,Stoke,NH,
+6086,Southampton,Watford,NH,
+6087,Arsenal,Liverpool,NH,
+6088,Bournemouth,Man United,NH,
+6089,Chelsea,West Ham,H,
+6090,Man United,Southampton,H,
+6091,Burnley,Liverpool,H,
+6092,Leicester,Arsenal,NH,
+6093,Stoke,Man City,NH,
+6094,Swansea,Hull,NH,
+6095,Tottenham,Crystal Palace,H,
+6096,Watford,Chelsea,NH,
+6097,West Brom,Everton,NH,
+6098,Sunderland,Middlesbrough,NH,
+6099,West Ham,Bournemouth,H,
+6100,Chelsea,Burnley,H,
+6101,Crystal Palace,Bournemouth,NH,
+6102,Everton,Stoke,H,
+6103,Hull,Man United,NH,
+6104,Leicester,Swansea,H,
+6105,Southampton,Sunderland,NH,
+6106,Tottenham,Liverpool,NH,
+6107,Watford,Arsenal,NH,
+6108,Man City,West Ham,H,
+6109,West Brom,Middlesbrough,NH,
+6110,Arsenal,Southampton,H,
+6111,Bournemouth,West Brom,H,
+6112,Burnley,Hull,NH,
+6113,Liverpool,Leicester,H,
+6114,Man United,Man City,NH,
+6115,Middlesbrough,Crystal Palace,NH,
+6116,Stoke,Tottenham,NH,
+6117,West Ham,Watford,NH,
+6118,Swansea,Chelsea,NH,
+6119,Sunderland,Everton,NH,
+6120,Chelsea,Liverpool,NH,
+6121,Everton,Middlesbrough,H,
+6122,Hull,Arsenal,NH,
+6123,Leicester,Burnley,H,
+6124,Man City,Bournemouth,H,
+6125,West Brom,West Ham,H,
+6126,Crystal Palace,Stoke,H,
+6127,Southampton,Swansea,H,
+6128,Tottenham,Sunderland,H,
+6129,Watford,Man United,H,
+6130,Arsenal,Chelsea,H,
+6131,Bournemouth,Everton,H,
+6132,Liverpool,Hull,H,
+6133,Man United,Leicester,H,
+6134,Middlesbrough,Tottenham,NH,
+6135,Stoke,West Brom,NH,
+6136,Sunderland,Crystal Palace,NH,
+6137,Swansea,Man City,NH,
+6138,West Ham,Southampton,NH,
+6139,Burnley,Watford,H,
+6140,Everton,Crystal Palace,NH,
+6141,Hull,Chelsea,NH,
+6142,Sunderland,West Brom,NH,
+6143,Swansea,Liverpool,NH,
+6144,Watford,Bournemouth,NH,
+6145,West Ham,Middlesbrough,NH,
+6146,Burnley,Arsenal,NH,
+6147,Leicester,Southampton,NH,
+6148,Man United,Stoke,NH,
+6149,Tottenham,Man City,H,
+6150,Arsenal,Swansea,H,
+6151,Bournemouth,Hull,H,
+6152,Chelsea,Leicester,H,
+6153,Crystal Palace,West Ham,NH,
+6154,Man City,Everton,NH,
+6155,Stoke,Sunderland,H,
+6156,West Brom,Tottenham,NH,
+6157,Middlesbrough,Watford,NH,
+6158,Southampton,Burnley,H,
+6159,Liverpool,Man United,NH,
+6160,Arsenal,Middlesbrough,NH,
+6161,Bournemouth,Tottenham,NH,
+6162,Burnley,Everton,H,
+6163,Hull,Stoke,NH,
+6164,Leicester,Crystal Palace,H,
+6165,Liverpool,West Brom,H,
+6166,Swansea,Watford,NH,
+6167,West Ham,Sunderland,H,
+6168,Chelsea,Man United,H,
+6169,Man City,Southampton,NH,
+6170,Crystal Palace,Liverpool,NH,
+6171,Man United,Burnley,NH,
+6172,Middlesbrough,Bournemouth,H,
+6173,Sunderland,Arsenal,NH,
+6174,Tottenham,Leicester,NH,
+6175,Watford,Hull,H,
+6176,West Brom,Man City,NH,
+6177,Everton,West Ham,H,
+6178,Southampton,Chelsea,NH,
+6179,Stoke,Swansea,H,
+6180,Bournemouth,Sunderland,NH,
+6181,Burnley,Crystal Palace,H,
+6182,Chelsea,Everton,H,
+6183,Man City,Middlesbrough,NH,
+6184,West Ham,Stoke,NH,
+6185,Arsenal,Tottenham,NH,
+6186,Hull,Southampton,H,
+6187,Leicester,West Brom,NH,
+6188,Liverpool,Watford,H,
+6189,Swansea,Man United,NH,
+6190,Crystal Palace,Man City,NH,
+6191,Everton,Swansea,NH,
+6192,Man United,Arsenal,NH,
+6193,Southampton,Liverpool,NH,
+6194,Stoke,Bournemouth,NH,
+6195,Sunderland,Hull,H,
+6196,Tottenham,West Ham,H,
+6197,Watford,Leicester,H,
+6198,Middlesbrough,Chelsea,NH,
+6199,West Brom,Burnley,H,
+6200,Burnley,Man City,NH,
+6201,Chelsea,Tottenham,H,
+6202,Hull,West Brom,NH,
+6203,Leicester,Middlesbrough,NH,
+6204,Liverpool,Sunderland,H,
+6205,Swansea,Crystal Palace,H,
+6206,Arsenal,Bournemouth,H,
+6207,Man United,West Ham,NH,
+6208,Southampton,Everton,H,
+6209,Watford,Stoke,NH,
+6210,Crystal Palace,Southampton,H,
+6211,Man City,Chelsea,NH,
+6212,Stoke,Burnley,H,
+6213,Sunderland,Leicester,H,
+6214,Tottenham,Swansea,H,
+6215,West Brom,Watford,H,
+6216,West Ham,Arsenal,NH,
+6217,Bournemouth,Liverpool,H,
+6218,Everton,Man United,NH,
+6219,Middlesbrough,Hull,H,
+6220,Arsenal,Stoke,H,
+6221,Burnley,Bournemouth,H,
+6222,Hull,Crystal Palace,NH,
+6223,Leicester,Man City,H,
+6224,Swansea,Sunderland,H,
+6225,Watford,Everton,H,
+6226,Chelsea,West Brom,H,
+6227,Liverpool,West Ham,NH,
+6228,Man United,Tottenham,H,
+6229,Southampton,Middlesbrough,H,
+6230,Bournemouth,Leicester,H,
+6231,Everton,Arsenal,H,
+6232,Crystal Palace,Man United,NH,
+6233,Man City,Watford,H,
+6234,Middlesbrough,Liverpool,NH,
+6235,Stoke,Southampton,NH,
+6236,Sunderland,Chelsea,NH,
+6237,Tottenham,Hull,H,
+6238,West Brom,Swansea,H,
+6239,West Ham,Burnley,H,
+6240,Crystal Palace,Chelsea,NH,
+6241,Middlesbrough,Swansea,H,
+6242,Stoke,Leicester,NH,
+6243,Sunderland,Watford,H,
+6244,West Brom,Man United,NH,
+6245,West Ham,Hull,H,
+6246,Bournemouth,Southampton,NH,
+6247,Man City,Arsenal,H,
+6248,Tottenham,Burnley,H,
+6249,Everton,Liverpool,NH,
+6250,Arsenal,West Brom,H,
+6251,Burnley,Middlesbrough,H,
+6252,Chelsea,Bournemouth,H,
+6253,Hull,Man City,NH,
+6254,Leicester,Everton,NH,
+6255,Man United,Sunderland,H,
+6256,Swansea,West Ham,NH,
+6257,Watford,Crystal Palace,NH,
+6258,Liverpool,Stoke,H,
+6259,Southampton,Tottenham,NH,
+6260,Hull,Everton,NH,
+6261,Burnley,Sunderland,H,
+6262,Chelsea,Stoke,H,
+6263,Leicester,West Ham,H,
+6264,Liverpool,Man City,H,
+6265,Man United,Middlesbrough,H,
+6266,Southampton,West Brom,NH,
+6267,Swansea,Bournemouth,NH,
+6268,Arsenal,Crystal Palace,H,
+6269,Watford,Tottenham,NH,
+6270,Everton,Southampton,H,
+6271,Man City,Burnley,H,
+6272,Middlesbrough,Leicester,NH,
+6273,Sunderland,Liverpool,NH,
+6274,West Brom,Hull,H,
+6275,West Ham,Man United,NH,
+6276,Bournemouth,Arsenal,NH,
+6277,Crystal Palace,Swansea,NH,
+6278,Stoke,Watford,H,
+6279,Tottenham,Chelsea,H,
+6280,Burnley,Southampton,H,
+6281,Hull,Bournemouth,H,
+6282,Leicester,Chelsea,NH,
+6283,Sunderland,Stoke,NH,
+6284,Swansea,Arsenal,NH,
+6285,Tottenham,West Brom,H,
+6286,Watford,Middlesbrough,NH,
+6287,West Ham,Crystal Palace,H,
+6288,Everton,Man City,H,
+6289,Man United,Liverpool,NH,
+6290,Bournemouth,Watford,NH,
+6291,Crystal Palace,Everton,NH,
+6292,Liverpool,Swansea,NH,
+6293,Man City,Tottenham,NH,
+6294,Middlesbrough,West Ham,NH,
+6295,Stoke,Man United,NH,
+6296,West Brom,Sunderland,H,
+6297,Arsenal,Burnley,H,
+6298,Chelsea,Hull,H,
+6299,Southampton,Leicester,H,
+6300,Arsenal,Watford,NH,
+6301,Bournemouth,Crystal Palace,NH,
+6302,Burnley,Leicester,H,
+6303,Liverpool,Chelsea,NH,
+6304,Middlesbrough,West Brom,NH,
+6305,Sunderland,Tottenham,NH,
+6306,Swansea,Southampton,H,
+6307,Man United,Hull,NH,
+6308,Stoke,Everton,NH,
+6309,West Ham,Man City,NH,
+6310,Chelsea,Arsenal,H,
+6311,Crystal Palace,Sunderland,NH,
+6312,Everton,Bournemouth,H,
+6313,Hull,Liverpool,H,
+6314,Southampton,West Ham,NH,
+6315,Tottenham,Middlesbrough,H,
+6316,Watford,Burnley,H,
+6317,West Brom,Stoke,H,
+6318,Leicester,Man United,NH,
+6319,Man City,Swansea,H,
+6320,Arsenal,Hull,H,
+6321,Liverpool,Tottenham,H,
+6322,Man United,Watford,H,
+6323,Middlesbrough,Everton,NH,
+6324,Stoke,Crystal Palace,H,
+6325,Sunderland,Southampton,NH,
+6326,West Ham,West Brom,NH,
+6327,Burnley,Chelsea,NH,
+6328,Swansea,Leicester,H,
+6329,Bournemouth,Man City,NH,
+6330,Chelsea,Swansea,H,
+6331,Crystal Palace,Middlesbrough,H,
+6332,Everton,Sunderland,H,
+6333,Hull,Burnley,NH,
+6334,Watford,West Ham,NH,
+6335,West Brom,Bournemouth,H,
+6336,Tottenham,Stoke,H,
+6337,Leicester,Liverpool,H,
+6338,Leicester,Hull,H,
+6339,Liverpool,Arsenal,H,
+6340,Man United,Bournemouth,NH,
+6341,Stoke,Middlesbrough,H,
+6342,Swansea,Burnley,H,
+6343,Watford,Southampton,NH,
+6344,West Brom,Crystal Palace,NH,
+6345,Sunderland,Man City,NH,
+6346,Tottenham,Everton,H,
+6347,West Ham,Chelsea,NH,
+6348,Man City,Stoke,NH,
+6349,Bournemouth,West Ham,H,
+6350,Everton,West Brom,H,
+6351,Hull,Swansea,H,
+6352,Liverpool,Burnley,H,
+6353,Bournemouth,Swansea,H,
+6354,Crystal Palace,Watford,H,
+6355,Everton,Hull,H,
+6356,Stoke,Chelsea,NH,
+6357,Sunderland,Burnley,NH,
+6358,West Brom,Arsenal,H,
+6359,West Ham,Leicester,NH,
+6360,Man City,Liverpool,NH,
+6361,Middlesbrough,Man United,NH,
+6362,Tottenham,Southampton,H,
+6363,Burnley,Tottenham,NH,
+6364,Chelsea,Crystal Palace,NH,
+6365,Hull,West Ham,H,
+6366,Leicester,Stoke,H,
+6367,Liverpool,Everton,H,
+6368,Man United,West Brom,NH,
+6369,Southampton,Bournemouth,NH,
+6370,Watford,Sunderland,H,
+6371,Arsenal,Man City,NH,
+6372,Swansea,Middlesbrough,NH,
+6373,Burnley,Stoke,H,
+6374,Leicester,Sunderland,H,
+6375,Man United,Everton,NH,
+6376,Watford,West Brom,H,
+6377,Arsenal,West Ham,H,
+6378,Chelsea,Man City,H,
+6379,Hull,Middlesbrough,H,
+6380,Liverpool,Bournemouth,NH,
+6381,Southampton,Crystal Palace,H,
+6382,Swansea,Tottenham,NH,
+6383,Bournemouth,Chelsea,NH,
+6384,Man City,Hull,H,
+6385,Middlesbrough,Burnley,NH,
+6386,Stoke,Liverpool,NH,
+6387,Tottenham,Watford,H,
+6388,West Brom,Southampton,NH,
+6389,West Ham,Swansea,H,
+6390,Everton,Leicester,H,
+6391,Sunderland,Man United,NH,
+6392,Crystal Palace,Arsenal,H,
+6393,Crystal Palace,Leicester,NH,
+6394,Everton,Burnley,H,
+6395,Southampton,Man City,NH,
+6396,Stoke,Hull,H,
+6397,Sunderland,West Ham,NH,
+6398,Tottenham,Bournemouth,H,
+6399,Watford,Swansea,H,
+6400,Man United,Chelsea,H,
+6401,West Brom,Liverpool,NH,
+6402,Middlesbrough,Arsenal,NH,
+6403,Bournemouth,Middlesbrough,H,
+6404,Hull,Watford,H,
+6405,Swansea,Stoke,H,
+6406,West Ham,Everton,NH,
+6407,Burnley,Man United,NH,
+6408,Liverpool,Crystal Palace,NH,
+6409,Chelsea,Southampton,H,
+6410,Arsenal,Leicester,H,
+6411,Crystal Palace,Tottenham,NH,
+6412,Middlesbrough,Sunderland,H,
+6413,Man City,Man United,NH,
+6414,Crystal Palace,Burnley,NH,
+6415,Southampton,Hull,NH,
+6416,Stoke,West Ham,NH,
+6417,Sunderland,Bournemouth,NH,
+6418,West Brom,Leicester,NH,
+6419,Everton,Chelsea,NH,
+6420,Man United,Swansea,NH,
+6421,Middlesbrough,Man City,NH,
+6422,Tottenham,Arsenal,H,
+6423,Watford,Liverpool,NH,
+6424,West Ham,Tottenham,H,
+6425,Bournemouth,Stoke,NH,
+6426,Burnley,West Brom,NH,
+6427,Hull,Sunderland,NH,
+6428,Leicester,Watford,H,
+6429,Man City,Crystal Palace,H,
+6430,Swansea,Everton,H,
+6431,Arsenal,Man United,H,
+6432,Liverpool,Southampton,NH,
+6433,Chelsea,Middlesbrough,H,
+6434,Southampton,Arsenal,NH,
+6435,Everton,Watford,H,
+6436,West Brom,Chelsea,NH,
+6437,Bournemouth,Burnley,H,
+6438,Man City,Leicester,H,
+6439,Middlesbrough,Southampton,NH,
+6440,Stoke,Arsenal,NH,
+6441,Sunderland,Swansea,NH,
+6442,Crystal Palace,Hull,H,
+6443,Tottenham,Man United,H,
+6444,West Ham,Liverpool,NH,
+6445,Chelsea,Watford,H,
+6446,Arsenal,Sunderland,H,
+6447,Man City,West Brom,H,
+6448,Southampton,Man United,NH,
+6449,Leicester,Tottenham,NH,
+6450,Arsenal,Everton,H,
+6451,Burnley,West Ham,NH,
+6452,Chelsea,Sunderland,H,
+6453,Hull,Tottenham,NH,
+6454,Leicester,Bournemouth,NH,
+6455,Liverpool,Middlesbrough,H,
+6456,Man United,Crystal Palace,H,
+6457,Southampton,Stoke,NH,
+6458,Swansea,West Brom,H,
+6459,Watford,Man City,NH,
+6460,Arsenal,Leicester,H,
+6461,Brighton,Man City,NH,
+6462,Chelsea,Burnley,NH,
+6463,Crystal Palace,Huddersfield,NH,
+6464,Everton,Stoke,H,
+6465,Southampton,Swansea,NH,
+6466,Watford,Liverpool,NH,
+6467,West Brom,Bournemouth,H,
+6468,Man United,West Ham,H,
+6469,Newcastle,Tottenham,NH,
+6470,Bournemouth,Watford,NH,
+6471,Burnley,West Brom,NH,
+6472,Leicester,Brighton,H,
+6473,Liverpool,Crystal Palace,H,
+6474,Southampton,West Ham,H,
+6475,Stoke,Arsenal,H,
+6476,Swansea,Man United,NH,
+6477,Huddersfield,Newcastle,H,
+6478,Tottenham,Chelsea,NH,
+6479,Man City,Everton,NH,
+6480,Bournemouth,Man City,NH,
+6481,Crystal Palace,Swansea,NH,
+6482,Huddersfield,Southampton,NH,
+6483,Man United,Leicester,H,
+6484,Newcastle,West Ham,H,
+6485,Watford,Brighton,NH,
+6486,Chelsea,Everton,H,
+6487,Liverpool,Arsenal,H,
+6488,Tottenham,Burnley,NH,
+6489,West Brom,Stoke,NH,
+6490,Arsenal,Bournemouth,H,
+6491,Brighton,West Brom,H,
+6492,Everton,Tottenham,NH,
+6493,Leicester,Chelsea,NH,
+6494,Man City,Liverpool,H,
+6495,Southampton,Watford,NH,
+6496,Stoke,Man United,NH,
+6497,Burnley,Crystal Palace,H,
+6498,Swansea,Newcastle,NH,
+6499,West Ham,Huddersfield,H,
+6500,Bournemouth,Brighton,H,
+6501,Crystal Palace,Southampton,NH,
+6502,Huddersfield,Leicester,NH,
+6503,Liverpool,Burnley,NH,
+6504,Newcastle,Stoke,H,
+6505,Tottenham,Swansea,NH,
+6506,Watford,Man City,NH,
+6507,West Brom,West Ham,NH,
+6508,Chelsea,Arsenal,NH,
+6509,Man United,Everton,H,
+6510,Burnley,Huddersfield,NH,
+6511,Everton,Bournemouth,H,
+6512,Leicester,Liverpool,NH,
+6513,Man City,Crystal Palace,H,
+6514,Southampton,Man United,NH,
+6515,Stoke,Chelsea,NH,
+6516,Swansea,Watford,NH,
+6517,West Ham,Tottenham,NH,
+6518,Brighton,Newcastle,H,
+6519,Arsenal,West Brom,H,
+6520,Bournemouth,Leicester,NH,
+6521,Chelsea,Man City,NH,
+6522,Huddersfield,Tottenham,NH,
+6523,Man United,Crystal Palace,H,
+6524,Stoke,Southampton,H,
+6525,West Brom,Watford,NH,
+6526,West Ham,Swansea,H,
+6527,Arsenal,Brighton,H,
+6528,Everton,Burnley,NH,
+6529,Newcastle,Liverpool,NH,
+6530,Burnley,West Ham,NH,
+6531,Crystal Palace,Chelsea,H,
+6532,Liverpool,Man United,NH,
+6533,Man City,Stoke,H,
+6534,Swansea,Huddersfield,H,
+6535,Tottenham,Bournemouth,H,
+6536,Watford,Arsenal,H,
+6537,Brighton,Everton,NH,
+6538,Southampton,Newcastle,NH,
+6539,Leicester,West Brom,NH,
+6540,West Ham,Brighton,NH,
+6541,Chelsea,Watford,H,
+6542,Huddersfield,Man United,H,
+6543,Man City,Burnley,H,
+6544,Newcastle,Crystal Palace,H,
+6545,Southampton,West Brom,H,
+6546,Stoke,Bournemouth,NH,
+6547,Swansea,Leicester,NH,
+6548,Everton,Arsenal,NH,
+6549,Tottenham,Liverpool,H,
+6550,Arsenal,Swansea,H,
+6551,Bournemouth,Chelsea,NH,
+6552,Crystal Palace,West Ham,NH,
+6553,Liverpool,Huddersfield,H,
+6554,Man United,Tottenham,H,
+6555,Watford,Stoke,NH,
+6556,West Brom,Man City,NH,
+6557,Brighton,Southampton,NH,
+6558,Leicester,Everton,H,
+6559,Burnley,Newcastle,H,
+6560,Huddersfield,West Brom,H,
+6561,Newcastle,Bournemouth,NH,
+6562,Southampton,Burnley,NH,
+6563,Stoke,Leicester,NH,
+6564,Swansea,Brighton,NH,
+6565,West Ham,Liverpool,NH,
+6566,Chelsea,Man United,H,
+6567,Everton,Watford,H,
+6568,Man City,Arsenal,H,
+6569,Tottenham,Crystal Palace,H,
+6570,Arsenal,Tottenham,H,
+6571,Bournemouth,Huddersfield,H,
+6572,Burnley,Swansea,H,
+6573,Crystal Palace,Everton,NH,
+6574,Leicester,Man City,NH,
+6575,Liverpool,Southampton,H,
+6576,Man United,Newcastle,H,
+6577,West Brom,Chelsea,NH,
+6578,Watford,West Ham,H,
+6579,Brighton,Stoke,NH,
+6580,West Ham,Leicester,NH,
+6581,Crystal Palace,Stoke,H,
+6582,Liverpool,Chelsea,NH,
+6583,Man United,Brighton,H,
+6584,Newcastle,Watford,NH,
+6585,Swansea,Bournemouth,NH,
+6586,Tottenham,West Brom,NH,
+6587,Burnley,Arsenal,NH,
+6588,Huddersfield,Man City,NH,
+6589,Southampton,Everton,H,
+6590,Brighton,Crystal Palace,NH,
+6591,Leicester,Tottenham,H,
+6592,Watford,Man United,NH,
+6593,West Brom,Newcastle,NH,
+6594,Arsenal,Huddersfield,H,
+6595,Bournemouth,Burnley,NH,
+6596,Chelsea,Swansea,H,
+6597,Everton,West Ham,H,
+6598,Man City,Southampton,H,
+6599,Stoke,Liverpool,NH,
+6600,Arsenal,Man United,NH,
+6601,Brighton,Liverpool,NH,
+6602,Chelsea,Newcastle,H,
+6603,Everton,Huddersfield,H,
+6604,Leicester,Burnley,H,
+6605,Stoke,Swansea,H,
+6606,Watford,Tottenham,NH,
+6607,West Brom,Crystal Palace,NH,
+6608,Bournemouth,Southampton,NH,
+6609,Man City,West Ham,H,
+6610,Burnley,Watford,H,
+6611,Crystal Palace,Bournemouth,NH,
+6612,Huddersfield,Brighton,H,
+6613,Newcastle,Leicester,NH,
+6614,Swansea,West Brom,H,
+6615,Tottenham,Stoke,H,
+6616,West Ham,Chelsea,H,
+6617,Liverpool,Everton,NH,
+6618,Man United,Man City,NH,
+6619,Southampton,Arsenal,NH,
+6620,Burnley,Stoke,H,
+6621,Crystal Palace,Watford,H,
+6622,Huddersfield,Chelsea,NH,
+6623,Liverpool,West Brom,NH,
+6624,Man United,Bournemouth,H,
+6625,Newcastle,Everton,NH,
+6626,Southampton,Leicester,NH,
+6627,Swansea,Man City,NH,
+6628,Tottenham,Brighton,H,
+6629,West Ham,Arsenal,NH,
+6630,Arsenal,Newcastle,H,
+6631,Brighton,Burnley,NH,
+6632,Chelsea,Southampton,H,
+6633,Leicester,Crystal Palace,NH,
+6634,Man City,Tottenham,H,
+6635,Stoke,West Ham,NH,
+6636,Watford,Huddersfield,NH,
+6637,Bournemouth,Liverpool,NH,
+6638,West Brom,Man United,NH,
+6639,Everton,Swansea,H,
+6640,Arsenal,Liverpool,NH,
+6641,Brighton,Watford,H,
+6642,Burnley,Tottenham,NH,
+6643,Everton,Chelsea,NH,
+6644,Leicester,Man United,NH,
+6645,Man City,Bournemouth,H,
+6646,Southampton,Huddersfield,NH,
+6647,Stoke,West Brom,H,
+6648,Swansea,Crystal Palace,NH,
+6649,West Ham,Newcastle,NH,
+6650,Bournemouth,West Ham,NH,
+6651,Chelsea,Brighton,H,
+6652,Huddersfield,Stoke,NH,
+6653,Liverpool,Swansea,H,
+6654,Man United,Burnley,NH,
+6655,Tottenham,Southampton,H,
+6656,Watford,Leicester,H,
+6657,West Brom,Everton,NH,
+6658,Newcastle,Man City,NH,
+6659,Crystal Palace,Arsenal,NH,
+6660,Bournemouth,Everton,H,
+6661,Chelsea,Stoke,H,
+6662,Huddersfield,Burnley,NH,
+6663,Liverpool,Leicester,H,
+6664,Man United,Southampton,NH,
+6665,Newcastle,Brighton,NH,
+6666,Watford,Swansea,NH,
+6667,Crystal Palace,Man City,NH,
+6668,West Brom,Arsenal,NH,
+6669,Brighton,Bournemouth,NH,
+6670,Burnley,Liverpool,NH,
+6671,Everton,Man United,NH,
+6672,Leicester,Huddersfield,H,
+6673,Stoke,Newcastle,NH,
+6674,Man City,Watford,H,
+6675,Southampton,Crystal Palace,NH,
+6676,Swansea,Tottenham,NH,
+6677,West Ham,West Brom,H,
+6678,Arsenal,Chelsea,NH,
+6679,Tottenham,West Ham,NH,
+6680,Chelsea,Leicester,NH,
+6681,Crystal Palace,Burnley,H,
+6682,Huddersfield,West Ham,NH,
+6683,Newcastle,Swansea,NH,
+6684,Tottenham,Everton,H,
+6685,Watford,Southampton,NH,
+6686,West Brom,Brighton,H,
+6687,Bournemouth,Arsenal,H,
+6688,Liverpool,Man City,H,
+6689,Man United,Stoke,H,
+6690,Arsenal,Crystal Palace,H,
+6691,Brighton,Chelsea,NH,
+6692,Burnley,Man United,NH,
+6693,Everton,West Brom,NH,
+6694,Leicester,Watford,H,
+6695,Man City,Newcastle,H,
+6696,Stoke,Huddersfield,H,
+6697,West Ham,Bournemouth,NH,
+6698,Southampton,Tottenham,NH,
+6699,Swansea,Liverpool,H,
+6700,Huddersfield,Liverpool,NH,
+6701,Swansea,Arsenal,H,
+6702,West Ham,Crystal Palace,NH,
+6703,Chelsea,Bournemouth,NH,
+6704,Everton,Leicester,H,
+6705,Man City,West Brom,H,
+6706,Newcastle,Burnley,NH,
+6707,Southampton,Brighton,NH,
+6708,Stoke,Watford,NH,
+6709,Tottenham,Man United,H,
+6710,Arsenal,Everton,H,
+6711,Bournemouth,Stoke,H,
+6712,Brighton,West Ham,H,
+6713,Burnley,Man City,NH,
+6714,Leicester,Swansea,NH,
+6715,Man United,Huddersfield,H,
+6716,West Brom,Southampton,NH,
+6717,Crystal Palace,Newcastle,NH,
+6718,Liverpool,Tottenham,NH,
+6719,Watford,Chelsea,H,
+6720,Everton,Crystal Palace,H,
+6721,Man City,Leicester,H,
+6722,Stoke,Brighton,NH,
+6723,Swansea,Burnley,H,
+6724,Tottenham,Arsenal,H,
+6725,West Ham,Watford,H,
+6726,Huddersfield,Bournemouth,H,
+6727,Newcastle,Man United,H,
+6728,Southampton,Liverpool,NH,
+6729,Chelsea,West Brom,H,
+6730,Bournemouth,Newcastle,NH,
+6731,Brighton,Swansea,H,
+6732,Burnley,Southampton,NH,
+6733,Leicester,Stoke,NH,
+6734,Liverpool,West Ham,H,
+6735,Watford,Everton,H,
+6736,West Brom,Huddersfield,NH,
+6737,Crystal Palace,Tottenham,NH,
+6738,Man United,Chelsea,H,
+6739,Arsenal,Man City,NH,
+6740,Burnley,Everton,H,
+6741,Leicester,Bournemouth,NH,
+6742,Liverpool,Newcastle,H,
+6743,Southampton,Stoke,NH,
+6744,Swansea,West Ham,H,
+6745,Tottenham,Huddersfield,H,
+6746,Watford,West Brom,H,
+6747,Brighton,Arsenal,H,
+6748,Man City,Chelsea,H,
+6749,Crystal Palace,Man United,NH,
+6750,Chelsea,Crystal Palace,H,
+6751,Everton,Brighton,H,
+6752,Huddersfield,Swansea,NH,
+6753,Man United,Liverpool,H,
+6754,Newcastle,Southampton,H,
+6755,West Brom,Leicester,NH,
+6756,West Ham,Burnley,NH,
+6757,Arsenal,Watford,H,
+6758,Bournemouth,Tottenham,NH,
+6759,Stoke,Man City,NH,
+6760,Bournemouth,West Brom,H,
+6761,Huddersfield,Crystal Palace,NH,
+6762,Liverpool,Watford,H,
+6763,Stoke,Everton,NH,
+6764,Brighton,Leicester,NH,
+6765,Crystal Palace,Liverpool,NH,
+6766,Everton,Man City,NH,
+6767,Man United,Swansea,H,
+6768,Newcastle,Huddersfield,H,
+6769,Watford,Bournemouth,NH,
+6770,West Brom,Burnley,NH,
+6771,West Ham,Southampton,H,
+6772,Arsenal,Stoke,H,
+6773,Chelsea,Tottenham,NH,
+6774,Bournemouth,Crystal Palace,NH,
+6775,Brighton,Huddersfield,NH,
+6776,Everton,Liverpool,NH,
+6777,Leicester,Newcastle,NH,
+6778,Man City,Man United,NH,
+6779,Stoke,Tottenham,NH,
+6780,Watford,Burnley,NH,
+6781,West Brom,Swansea,NH,
+6782,Arsenal,Southampton,H,
+6783,Chelsea,West Ham,NH,
+6784,Burnley,Leicester,H,
+6785,Crystal Palace,Brighton,H,
+6786,Huddersfield,Watford,H,
+6787,Liverpool,Bournemouth,H,
+6788,Southampton,Chelsea,NH,
+6789,Swansea,Everton,NH,
+6790,Tottenham,Man City,NH,
+6791,Man United,West Brom,NH,
+6792,Newcastle,Arsenal,H,
+6793,West Ham,Stoke,NH,
+6794,Brighton,Tottenham,NH,
+6795,Bournemouth,Man United,NH,
+6796,Burnley,Chelsea,NH,
+6797,Leicester,Southampton,NH,
+6798,Watford,Crystal Palace,NH,
+6799,West Brom,Liverpool,NH,
+6800,Arsenal,West Ham,H,
+6801,Man City,Swansea,H,
+6802,Stoke,Burnley,NH,
+6803,Everton,Newcastle,H,
+6804,Burnley,Brighton,NH,
+6805,Crystal Palace,Leicester,H,
+6806,Huddersfield,Everton,NH,
+6807,Liverpool,Stoke,NH,
+6808,Newcastle,West Brom,NH,
+6809,Southampton,Bournemouth,H,
+6810,Swansea,Chelsea,NH,
+6811,Man United,Arsenal,H,
+6812,West Ham,Man City,NH,
+6813,Tottenham,Watford,H,
+6814,Brighton,Man United,H,
+6815,Bournemouth,Swansea,H,
+6816,Everton,Southampton,NH,
+6817,Leicester,West Ham,NH,
+6818,Stoke,Crystal Palace,NH,
+6819,Watford,Newcastle,H,
+6820,West Brom,Tottenham,H,
+6821,Arsenal,Burnley,H,
+6822,Chelsea,Liverpool,H,
+6823,Man City,Huddersfield,NH,
+6824,Swansea,Southampton,NH,
+6825,Chelsea,Huddersfield,NH,
+6826,Leicester,Arsenal,H,
+6827,Man City,Brighton,H,
+6828,Tottenham,Newcastle,H,
+6829,West Ham,Man United,NH,
+6830,Burnley,Bournemouth,NH,
+6831,Crystal Palace,West Brom,H,
+6832,Huddersfield,Arsenal,NH,
+6833,Liverpool,Brighton,H,
+6834,Man United,Watford,H,
+6835,Newcastle,Chelsea,H,
+6836,Southampton,Man City,NH,
+6837,Swansea,Stoke,NH,
+6838,Tottenham,Leicester,H,
+6839,West Ham,Everton,H,
